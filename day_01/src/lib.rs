@@ -6,7 +6,6 @@ pub struct NumberPostion {
 }
 
 pub fn part_one(input: Vec<String>) -> i32 {
-    let lines: Vec<String> = read_lines("./day_01/src/input");
     let mut numbers_numbers: Vec<Vec<NumberPostion>> = Vec::new();
     for item in input.iter() {
         let mut numbers: Vec<NumberPostion> = Vec::new();
@@ -18,10 +17,6 @@ pub fn part_one(input: Vec<String>) -> i32 {
     let mut solve: i32 = 0;
     let mut count:usize = 0;
     for item in numbers_numbers.iter() {
-        
-        print!("{:?}{:?}, ", item[0].number, item[item.len() - 1].number);
-        println!("{:?}", item);
-        println!("{:?}\n", lines[count]);
         count = count + 1;
         solve = solve
             + format!("{:?}{:?}", item[0].number, item[item.len() - 1].number)
@@ -38,9 +33,10 @@ pub fn find_by_str(item: &String) -> Vec<NumberPostion> {
     ];
 
     for find in string_numbers.iter() {
-        if let Some(index) = item.find(find) {
+        let v: Vec<_> = item.match_indices(find).collect();
+        for thing in v.iter(){
             numbers.push(NumberPostion {
-                postion: index,
+                postion: thing.0,
                 number: str_to_number(find),
             })
         }
