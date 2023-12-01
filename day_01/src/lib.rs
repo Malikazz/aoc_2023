@@ -176,4 +176,12 @@ mod tests {
         ]);
         assert_eq!(result, 602);
     }
+    
+    #[test]
+    fn bug_test() {
+        let result = part_one(vec![
+            String::from("eight45fourfgfive1eight")
+        ]);
+        assert_eq!(result, 88);
+    }
 }
