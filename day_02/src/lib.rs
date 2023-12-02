@@ -14,11 +14,8 @@ pub struct Game {
 }
 
 pub fn solve_part_two(input: Vec<String>) -> i32 {
-    let mut games: Vec<Game> = Vec::new();
-    
+    let games: Vec<Game> = parse_game(input);
     let mut minumun_powers: Vec<i32> = Vec::new();
-
-    games = parse_game(input);
 
     for game in games.iter(){
         let mut temp_cubes:CubeColors = CubeColors{red:1, blue:1,green:1};
@@ -32,16 +29,14 @@ pub fn solve_part_two(input: Vec<String>) -> i32 {
 }
 
 pub fn solve(input: Vec<String>) -> i32 {
-    let mut games: Vec<Game> = Vec::new();
+    let games: Vec<Game> = parse_game(input);
     let mut valid_games: i32 = 0;
-
     let cube_maxes = CubeColors {
         red: 12,
         green: 13,
         blue: 14,
     };
     
-    games = parse_game(input);
     for game in games.iter(){
         println!("Checking game {:?} {:?}", game.game_number, game);
         let mut game_was_possible: bool = true;
