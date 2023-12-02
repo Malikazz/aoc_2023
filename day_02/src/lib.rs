@@ -13,6 +13,24 @@ pub struct Game {
     pub game_number: i32,
 }
 
+pub fn solve_part_two(input: Vec<String>) -> i32 {
+    let mut games: Vec<Game> = Vec::new();
+    
+    let mut minumun_powers: Vec<i32> = Vec::new();
+
+    games = parse_game(input);
+
+    for game in games.iter(){
+        let mut temp_cubes:CubeColors = CubeColors{red:1, blue:1,green:1};
+        temp_cubes.red = game.round_cubes.iter().filter(|x| x.red > 0).map(|s| s.red).collect::<Vec<i32>>().into_iter().max().unwrap();
+        temp_cubes.blue = game.round_cubes.iter().filter(|x| x.blue > 0).map(|s| s.blue).collect::<Vec<i32>>().into_iter().max().unwrap();
+        temp_cubes.green = game.round_cubes.iter().filter(|x| x.green > 0).map(|s| s.green).collect::<Vec<i32>>().into_iter().max().unwrap();
+        
+        minumun_powers.push(temp_cubes.red * temp_cubes.green * temp_cubes.blue);
+    }
+    minumun_powers.iter().sum()
+}
+
 pub fn solve(input: Vec<String>) -> i32 {
     let mut games: Vec<Game> = Vec::new();
     let mut valid_games: i32 = 0;
