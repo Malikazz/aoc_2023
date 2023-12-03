@@ -16,6 +16,7 @@ pub struct Symbols {
     pub value: String,
 }
 
+
 pub fn solve(input: Vec<String>) -> i32 {
     let parts: Vec<EnginePart> = find_all_parts(&input);
     let symbols: Vec<Symbols> = find_all_symbols(&input);
@@ -38,10 +39,11 @@ pub fn solve(input: Vec<String>) -> i32 {
     solve_value
 }
 
-pub fn solve_two(input: Vec<String>) {
+pub fn solve_two(input: Vec<String>) -> i32{
     let parts: Vec<EnginePart> = find_all_parts(&input);
     let symbols: Vec<Symbols> = find_all_symbols(&input);
     let mut gears: Vec<EnginePart> = Vec::new();
+    let mut solve: i32 = 0;
 
     for symbol in symbols.iter() {
         if symbol.value == String::from("*") {
@@ -56,10 +58,16 @@ pub fn solve_two(input: Vec<String>) {
                     temp_parts.push(EnginePart{start:part.start, end: part.end, line_number:part.line_number, value:String::from(&part.value)});
                 }
             }
-            gears.append(&mut temp_parts);
-            println!("TempParts: {:?}", temp_parts);
+            if temp_parts.len() == 2 {
+                println!("Adding gears {:?}", temp_parts);
+                gears.append(&mut temp_parts);
+            }
         }
     }
+    for gear in gears.windows(2).step_by(2){
+        solve = solve + (gear[0].value.parse::<i32>().unwrap() * gear[1].value.parse::<i32>().unwrap()); 
+    }
+    solve
 }
 
 pub fn find_all_parts(input: &Vec<String>) -> Vec<EnginePart> {
