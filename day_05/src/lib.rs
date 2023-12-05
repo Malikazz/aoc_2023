@@ -1,4 +1,4 @@
-use std::{collections::HashMap, fs::read_to_string, ops::Range};
+use std::{fs::read_to_string, ops::Range};
 
 #[derive(Debug)]
 pub enum Direction {
@@ -40,85 +40,90 @@ pub fn solve(input: Vec<String>) -> usize {
                 Direction::SeedToSoil => {
                     for (index, source) in source_destination.source_range.iter().enumerate() {
                         if source.contains(&seed.seed) {
-                            seed.soil = source_destination.destination_range[index].start + (&seed.seed - source.start);
+                            seed.soil = source_destination.destination_range[index].start
+                                + (&seed.seed - source.start);
                             break;
-                        }else {
+                        } else {
                             seed.soil = seed.seed;
                         }
-
                     }
                 }
                 Direction::SoilToFert => {
                     for (index, source) in source_destination.source_range.iter().enumerate() {
                         if source.contains(&seed.soil) {
-                            seed.fetilizier = source_destination.destination_range[index].start + (&seed.soil - source.start);
+                            seed.fetilizier = source_destination.destination_range[index].start
+                                + (&seed.soil - source.start);
                             break;
-                        }else {
+                        } else {
                             seed.fetilizier = seed.soil;
                         }
                     }
-                },
+                }
                 Direction::FertToWater => {
                     for (index, source) in source_destination.source_range.iter().enumerate() {
                         if source.contains(&seed.fetilizier) {
-                            seed.water = source_destination.destination_range[index].start + (&seed.fetilizier - source.start);
+                            seed.water = source_destination.destination_range[index].start
+                                + (&seed.fetilizier - source.start);
                             break;
                         } else {
                             seed.water = seed.fetilizier;
                         }
                     }
-                },
+                }
                 Direction::WaterToLight => {
                     for (index, source) in source_destination.source_range.iter().enumerate() {
                         if source.contains(&seed.water) {
-                            seed.light = source_destination.destination_range[index].start + (&seed.water - source.start);
+                            seed.light = source_destination.destination_range[index].start
+                                + (&seed.water - source.start);
                             break;
-                        }else {
+                        } else {
                             seed.light = seed.water;
                         }
                     }
-                },
+                }
                 Direction::LightToTemp => {
                     for (index, source) in source_destination.source_range.iter().enumerate() {
                         if source.contains(&seed.light) {
-                            seed.temperature = source_destination.destination_range[index].start + (&seed.light - source.start);
+                            seed.temperature = source_destination.destination_range[index].start
+                                + (&seed.light - source.start);
                             break;
                         } else {
                             seed.temperature = seed.light;
                         }
                     }
-                },
+                }
                 Direction::TempToHumi => {
-
                     for (index, source) in source_destination.source_range.iter().enumerate() {
                         if source.contains(&seed.temperature) {
-                            seed.humidity = source_destination.destination_range[index].start + (&seed.temperature - source.start);
+                            seed.humidity = source_destination.destination_range[index].start
+                                + (&seed.temperature - source.start);
                             break;
                         } else {
                             seed.humidity = seed.temperature;
                         }
                     }
-                },
+                }
                 Direction::HumiToLoc => {
                     for (index, source) in source_destination.source_range.iter().enumerate() {
                         if source.contains(&seed.humidity) {
-                            seed.location = source_destination.destination_range[index].start + (&seed.humidity - source.start);
+                            seed.location = source_destination.destination_range[index].start
+                                + (&seed.humidity - source.start);
                             break;
                         } else {
                             seed.location = seed.humidity;
                         }
                     }
-                },
+                }
             }
         }
     }
-    for item in source_maps.iter(){
-        println!("{:?}", item);
-    }
-    for item in seeds.iter(){
-        println!("{:?}", item);
-    }
-   *seeds.iter().map(| e | e.location ).collect::<Vec<usize>>().iter_mut().min().unwrap()
+    *seeds
+        .iter()
+        .map(|e| e.location)
+        .collect::<Vec<usize>>()
+        .iter_mut()
+        .min()
+        .unwrap()
 }
 
 pub fn get_direction(input: &str) -> Direction {
@@ -178,17 +183,24 @@ pub fn parse_seeds(input: &Vec<String>) -> Vec<FinishedMap> {
     let mut seeds: Vec<FinishedMap> = Vec::new();
     // seeds:
     let input = input[0].replace("seeds: ", "");
-    for seed in input.split(" ").collect::<Vec<&str>>() {
-        seeds.push(FinishedMap {
-            seed: seed.parse::<usize>().unwrap(),
-            soil: 0,
-            fetilizier: 0,
-            temperature: 0,
-            humidity: 0,
-            water: 0,
-            location: 0,
-            light: 0,
-        });
+    let seed_range = input.split(" ").collect::<Vec<&str>>();
+
+    for item in seed_range.windows(2).step_by(2) {
+        // soooooooo fuck
+        let start = item[0].parse::<usize>().unwrap();
+        let offset = item[1].parse::<usize>().unwrap() + start;
+        for number in start..offset {
+            seeds.push(FinishedMap {
+                seed: number,
+                soil: 0,
+                fetilizier: 0,
+                temperature: 0,
+                humidity: 0,
+                water: 0,
+                location: 0,
+                light: 0,
+            });
+        }
     }
     seeds
 }
@@ -210,6 +222,6 @@ mod tests {
     #[test]
     fn day_05_it_works() {
         let result = solve(read_lines("src/test_input"));
-        assert_eq!(result, 35);
+        assert_eq!(result, 46);
     }
 }
