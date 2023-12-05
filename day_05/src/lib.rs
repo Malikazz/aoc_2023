@@ -1,4 +1,4 @@
-use std::{fs::read_to_string, ops::Range};
+use std::{collections::HashMap, fs::read_to_string, ops::Range, thread::sleep, time::Duration};
 
 #[derive(Debug)]
 pub enum Direction {
@@ -186,6 +186,7 @@ pub fn parse_seeds(input: &Vec<String>) -> Vec<FinishedMap> {
     let seed_range = input.split(" ").collect::<Vec<&str>>();
 
     for item in seed_range.windows(2).step_by(2) {
+        println!("Making seeds from{:?} to {:?}", item[0], item[1]);
         // soooooooo fuck
         let start = item[0].parse::<usize>().unwrap();
         let offset = item[1].parse::<usize>().unwrap() + start;
