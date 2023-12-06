@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 regex = "1.10.2"
+aoc_file_parser = {path= "../aoc_file_parser"}

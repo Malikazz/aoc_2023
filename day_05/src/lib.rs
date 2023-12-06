@@ -1,5 +1,5 @@
 use std::{
-    cmp::min, collections::HashMap, fs::read_to_string, ops::Range, thread::{sleep, JoinHandle, self}, time::Duration, sync::Arc,
+    cmp::min, ops::Range, thread::{JoinHandle, self}, sync::Arc,
 };
 
 #[derive(Debug, Clone, Copy)]
@@ -140,20 +140,10 @@ pub fn parse_seeds(input: &String) -> Vec<Range<usize>> {
     seed_ranges
 }
 
-pub fn read_lines(filename: &str) -> Vec<String> {
-    let mut result = Vec::new();
-
-    for line in read_to_string(filename).unwrap().lines() {
-        result.push(line.to_string())
-    }
-
-    result
-}
-
 #[cfg(test)]
 mod tests {
     use super::*;
-
+    use aoc_file_parser::read_lines;
     #[test]
     fn day_05_it_works() {
         let result = solve_two(read_lines("src/test_input"));

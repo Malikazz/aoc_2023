@@ -1,5 +1,4 @@
-use std::cmp::{self, min};
-use std::fs::read_to_string;
+use std::cmp::min;
 #[derive(Debug)]
 pub struct Card {
     pub number: i32,
@@ -80,7 +79,7 @@ pub fn parse_card(input: Vec<String>) -> Vec<Card> {
     cards
 }
 
-pub fn parse_ticket_line(mut line: &str) -> Vec<i32> {
+pub fn parse_ticket_line(line: &str) -> Vec<i32> {
     let mut ticket_line: Vec<i32> = Vec::new();
     // skip over card part
 
@@ -95,16 +94,6 @@ pub fn parse_ticket_line(mut line: &str) -> Vec<i32> {
         ticket_line.push(number.parse().unwrap());
     }
     ticket_line
-}
-
-pub fn read_lines(filename: &str) -> Vec<String> {
-    let mut result = Vec::new();
-
-    for line in read_to_string(filename).unwrap().lines() {
-        result.push(line.to_string())
-    }
-
-    result
 }
 
 #[cfg(test)]

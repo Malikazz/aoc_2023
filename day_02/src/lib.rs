@@ -1,5 +1,3 @@
-use std::fs::read_to_string;
-
 #[derive(Debug)]
 pub struct CubeColors {
     pub red: i32,
@@ -105,16 +103,6 @@ pub fn parse_round(input: &str) -> CubeColors {
         blue,
         green
     }
-}
-
-pub fn read_lines(filename: &str) -> Vec<String> {
-    let mut result = Vec::new();
-
-    for line in read_to_string(filename).unwrap().lines() {
-        result.push(line.to_string())
-    }
-
-    result
 }
 
 #[cfg(test)]

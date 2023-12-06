@@ -1,4 +1,3 @@
-use std::fs::read_to_string;
 #[derive(Debug)]
 pub struct NumberPostion {
     pub number: i32,
@@ -72,16 +71,6 @@ pub fn find_by_char(item: &String) -> Vec<NumberPostion> {
         count = count + 1;
     }
     numbers
-}
-
-pub fn read_lines(filename: &str) -> Vec<String> {
-    let mut result = Vec::new();
-
-    for line in read_to_string(filename).unwrap().lines() {
-        result.push(line.to_string())
-    }
-
-    result
 }
 
 #[cfg(test)]

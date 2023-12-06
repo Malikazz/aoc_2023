@@ -1,5 +1,4 @@
 use regex::Regex;
-use std::fs::read_to_string;
 
 #[derive(Debug)]
 pub struct EnginePart {
@@ -105,20 +104,10 @@ pub fn find_all_symbols(input: &Vec<String>) -> Vec<Symbols> {
     }
     symbols
 }
-pub fn read_lines(filename: &str) -> Vec<String> {
-    let mut result = Vec::new();
-
-    for line in read_to_string(filename).unwrap().lines() {
-        result.push(line.to_string())
-    }
-
-    result
-}
 
 #[cfg(test)]
 mod tests {
     use super::*;
-
     #[test]
     fn it_works() {
         let result = solve(vec![
