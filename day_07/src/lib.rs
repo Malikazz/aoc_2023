@@ -58,26 +58,27 @@ impl Hand {
                 break;
             }
             if char_counts_vec[index].letter == 'J'{
-                println!("Removeing j from {?}", char_counts_vec[index]);
+                println!("Removeing j from {:?}", char_counts_vec);
                 char_counts_vec.remove(index);
                 break;
             }
         }
 
         char_counts_vec.sort_by(|a, b| b.count.cmp(&a.count));
+        println!("Removed j from {:?}", char_counts_vec);
         for char in char_counts_vec.iter() {
             match char.count {
                 5 => return HandType::FiveOfAKind,
                 4 => return HandType::FourOfAKind,
                 3 => {
-                    if char_counts.len() == 2 {
+                    if char_counts_vec.len() == 2 {
                         return HandType::FullHose;
                     } else {
                         return HandType::ThreeOfAKind;
                     }
                 }
                 2 => {
-                    if char_counts.len() == 2 {
+                    if char_counts_vec.len() == 2 {
                         return HandType::FullHose;
                     } else if char_counts.len() == 3 {
                         return HandType::TwoPair;
@@ -226,6 +227,11 @@ mod tests {
     #[test]
     fn bug_one_three(){
         let result = solve(vec![String::from("JJJJJ 3"), String::from("AAAAA 6"), String::from("AAAAJ 8"), String::from("KKKK4 5")]);
+        assert_eq!(result, 59);
+    } 
+    #[test]
+    fn bug_full_house(){
+        let result = solve(vec![String::from("44J88 3"), String::from("QQ7J7 6"), String::from("JJJ88 8"), String::from("888JJ 5")]);
         assert_eq!(result, 59);
     } 
 }
