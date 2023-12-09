@@ -1,0 +1,2001 @@
+Hand Hand { hand: "49A49", bet: 734, hand_type: TwoPair }
+Hand Hand { hand: "67594", bet: 467, hand_type: HighCard }
+Hand Hand { hand: "Q2429", bet: 453, hand_type: OnePair }
+Hand Hand { hand: "3J787", bet: 359, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K4824", bet: 703, hand_type: OnePair }
+Hand Hand { hand: "29992", bet: 804, hand_type: FullHose }
+Hand Hand { hand: "94JQK", bet: 988, hand_type: OnePair }
+Hand Hand { hand: "2TQT5", bet: 765, hand_type: OnePair }
+Hand Hand { hand: "7TQ3T", bet: 710, hand_type: OnePair }
+Hand Hand { hand: "J4389", bet: 979, hand_type: OnePair }
+Hand Hand { hand: "96J56", bet: 271, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JTTJT", bet: 488, hand_type: FiveOfAKind }
+Hand Hand { hand: "7QA5J", bet: 306, hand_type: OnePair }
+Hand Hand { hand: "Q72Q2", bet: 163, hand_type: TwoPair }
+Hand Hand { hand: "A666A", bet: 759, hand_type: FullHose }
+Hand Hand { hand: "2779T", bet: 566, hand_type: OnePair }
+Hand Hand { hand: "A777Q", bet: 136, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TJ277", bet: 365, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QQ339", bet: 388, hand_type: TwoPair }
+Hand Hand { hand: "KA22K", bet: 31, hand_type: TwoPair }
+Hand Hand { hand: "99974", bet: 590, hand_type: ThreeOfAKind }
+Hand Hand { hand: "72672", bet: 946, hand_type: TwoPair }
+Hand Hand { hand: "4T25A", bet: 423, hand_type: HighCard }
+Hand Hand { hand: "38873", bet: 650, hand_type: TwoPair }
+Hand Hand { hand: "97Q99", bet: 26, hand_type: ThreeOfAKind }
+Hand Hand { hand: "36436", bet: 66, hand_type: TwoPair }
+Hand Hand { hand: "98979", bet: 230, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TTTK8", bet: 44, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QQAQ4", bet: 451, hand_type: ThreeOfAKind }
+Hand Hand { hand: "77774", bet: 668, hand_type: FourOfAKind }
+Hand Hand { hand: "T77QT", bet: 108, hand_type: TwoPair }
+Hand Hand { hand: "JAJJA", bet: 681, hand_type: FiveOfAKind }
+Hand Hand { hand: "74T52", bet: 637, hand_type: HighCard }
+Hand Hand { hand: "9A7TA", bet: 843, hand_type: OnePair }
+Hand Hand { hand: "4A334", bet: 3, hand_type: TwoPair }
+Hand Hand { hand: "669KK", bet: 727, hand_type: TwoPair }
+Hand Hand { hand: "999A6", bet: 156, hand_type: ThreeOfAKind }
+Hand Hand { hand: "77T77", bet: 464, hand_type: FourOfAKind }
+Hand Hand { hand: "845J3", bet: 59, hand_type: OnePair }
+Hand Hand { hand: "AAAQQ", bet: 933, hand_type: FullHose }
+Hand Hand { hand: "38K88", bet: 806, hand_type: ThreeOfAKind }
+Hand Hand { hand: "2QQ2J", bet: 107, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TJATT", bet: 936, hand_type: FourOfAKind }
+Hand Hand { hand: "44737", bet: 794, hand_type: TwoPair }
+Hand Hand { hand: "66J66", bet: 33, hand_type: FiveOfAKind }
+Hand Hand { hand: "T4TJQ", bet: 106, hand_type: ThreeOfAKind }
+Hand Hand { hand: "74TTQ", bet: 97, hand_type: OnePair }
+Hand Hand { hand: "K84J4", bet: 374, hand_type: ThreeOfAKind }
+Hand Hand { hand: "55AAA", bet: 805, hand_type: FullHose }
+Hand Hand { hand: "KK3K3", bet: 513, hand_type: FullHose }
+Hand Hand { hand: "33393", bet: 178, hand_type: FourOfAKind }
+Hand Hand { hand: "4J44J", bet: 328, hand_type: FiveOfAKind }
+Hand Hand { hand: "682A5", bet: 728, hand_type: HighCard }
+Hand Hand { hand: "AJTKT", bet: 249, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6959K", bet: 363, hand_type: OnePair }
+Hand Hand { hand: "9993Q", bet: 991, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K2K3T", bet: 70, hand_type: OnePair }
+Hand Hand { hand: "JJQ42", bet: 857, hand_type: ThreeOfAKind }
+Hand Hand { hand: "AJ888", bet: 419, hand_type: FourOfAKind }
+Hand Hand { hand: "47T62", bet: 393, hand_type: HighCard }
+Hand Hand { hand: "66JTT", bet: 498, hand_type: ThreeOfAKind }
+Hand Hand { hand: "44474", bet: 539, hand_type: FourOfAKind }
+Hand Hand { hand: "37QTA", bet: 747, hand_type: HighCard }
+Hand Hand { hand: "QQ4JT", bet: 473, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J6JQQ", bet: 678, hand_type: FourOfAKind }
+Hand Hand { hand: "5TT55", bet: 538, hand_type: FullHose }
+Hand Hand { hand: "J22A2", bet: 15, hand_type: FourOfAKind }
+Hand Hand { hand: "QTAA9", bet: 478, hand_type: OnePair }
+Hand Hand { hand: "7K43J", bet: 410, hand_type: OnePair }
+Hand Hand { hand: "TKT2A", bet: 368, hand_type: OnePair }
+Hand Hand { hand: "8KKK8", bet: 332, hand_type: FullHose }
+Hand Hand { hand: "KK686", bet: 771, hand_type: TwoPair }
+Hand Hand { hand: "47762", bet: 550, hand_type: OnePair }
+Hand Hand { hand: "J3773", bet: 653, hand_type: ThreeOfAKind }
+Hand Hand { hand: "557J5", bet: 167, hand_type: FourOfAKind }
+Hand Hand { hand: "8388T", bet: 926, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J77K4", bet: 309, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3A9Q5", bet: 215, hand_type: HighCard }
+Hand Hand { hand: "A6AA2", bet: 845, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K55KK", bet: 499, hand_type: FullHose }
+Hand Hand { hand: "K8239", bet: 238, hand_type: HighCard }
+Hand Hand { hand: "TA6AA", bet: 987, hand_type: ThreeOfAKind }
+Hand Hand { hand: "AA2AA", bet: 413, hand_type: FourOfAKind }
+Hand Hand { hand: "9628A", bet: 81, hand_type: HighCard }
+Hand Hand { hand: "A22AK", bet: 50, hand_type: TwoPair }
+Hand Hand { hand: "75565", bet: 141, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TT56T", bet: 518, hand_type: ThreeOfAKind }
+Hand Hand { hand: "2A52J", bet: 816, hand_type: ThreeOfAKind }
+Hand Hand { hand: "444J3", bet: 690, hand_type: FourOfAKind }
+Hand Hand { hand: "T3565", bet: 582, hand_type: OnePair }
+Hand Hand { hand: "A33J3", bet: 258, hand_type: FourOfAKind }
+Hand Hand { hand: "42877", bet: 96, hand_type: OnePair }
+Hand Hand { hand: "99J99", bet: 444, hand_type: FiveOfAKind }
+Hand Hand { hand: "4A234", bet: 572, hand_type: OnePair }
+Hand Hand { hand: "JT5K8", bet: 929, hand_type: OnePair }
+Hand Hand { hand: "74QT5", bet: 852, hand_type: HighCard }
+Hand Hand { hand: "J25J4", bet: 76, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5Q588", bet: 853, hand_type: TwoPair }
+Hand Hand { hand: "74T24", bet: 1, hand_type: OnePair }
+Hand Hand { hand: "A7853", bet: 16, hand_type: HighCard }
+Hand Hand { hand: "4T53T", bet: 646, hand_type: OnePair }
+Hand Hand { hand: "9KT7Q", bet: 511, hand_type: HighCard }
+Hand Hand { hand: "376A7", bet: 781, hand_type: OnePair }
+Hand Hand { hand: "66496", bet: 944, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6J737", bet: 839, hand_type: ThreeOfAKind }
+Hand Hand { hand: "767J6", bet: 386, hand_type: ThreeOfAKind }
+Hand Hand { hand: "62A65", bet: 963, hand_type: OnePair }
+Hand Hand { hand: "8A8A3", bet: 246, hand_type: TwoPair }
+Hand Hand { hand: "255TT", bet: 429, hand_type: TwoPair }
+Hand Hand { hand: "58J8A", bet: 341, hand_type: ThreeOfAKind }
+Hand Hand { hand: "37828", bet: 279, hand_type: OnePair }
+Hand Hand { hand: "T3598", bet: 30, hand_type: HighCard }
+Hand Hand { hand: "68JK8", bet: 109, hand_type: ThreeOfAKind }
+Hand Hand { hand: "89247", bet: 883, hand_type: HighCard }
+Hand Hand { hand: "QJ557", bet: 510, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TA899", bet: 656, hand_type: OnePair }
+Hand Hand { hand: "6K6KJ", bet: 714, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3667J", bet: 102, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JAAAT", bet: 821, hand_type: FourOfAKind }
+Hand Hand { hand: "38JAK", bet: 748, hand_type: OnePair }
+Hand Hand { hand: "778A7", bet: 411, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K93JK", bet: 463, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A85T2", bet: 80, hand_type: HighCard }
+Hand Hand { hand: "8T39A", bet: 495, hand_type: HighCard }
+Hand Hand { hand: "3JT3T", bet: 203, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K9K5K", bet: 721, hand_type: ThreeOfAKind }
+Hand Hand { hand: "9J9J9", bet: 679, hand_type: FiveOfAKind }
+Hand Hand { hand: "4Q5Q4", bet: 101, hand_type: TwoPair }
+Hand Hand { hand: "37333", bet: 745, hand_type: FourOfAKind }
+Hand Hand { hand: "999QQ", bet: 943, hand_type: FullHose }
+Hand Hand { hand: "84484", bet: 25, hand_type: FullHose }
+Hand Hand { hand: "28268", bet: 469, hand_type: TwoPair }
+Hand Hand { hand: "33TAA", bet: 99, hand_type: TwoPair }
+Hand Hand { hand: "KAJKJ", bet: 924, hand_type: FourOfAKind }
+Hand Hand { hand: "T4JJ3", bet: 185, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6777K", bet: 725, hand_type: ThreeOfAKind }
+Hand Hand { hand: "33J9K", bet: 846, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J7577", bet: 899, hand_type: FourOfAKind }
+Hand Hand { hand: "48K45", bet: 575, hand_type: OnePair }
+Hand Hand { hand: "TK852", bet: 104, hand_type: HighCard }
+Hand Hand { hand: "97737", bet: 161, hand_type: ThreeOfAKind }
+Hand Hand { hand: "65552", bet: 738, hand_type: ThreeOfAKind }
+Hand Hand { hand: "33TTT", bet: 915, hand_type: FullHose }
+Hand Hand { hand: "2AJ47", bet: 644, hand_type: OnePair }
+Hand Hand { hand: "288Q2", bet: 870, hand_type: TwoPair }
+Hand Hand { hand: "85599", bet: 159, hand_type: TwoPair }
+Hand Hand { hand: "997AQ", bet: 552, hand_type: OnePair }
+Hand Hand { hand: "J6879", bet: 117, hand_type: OnePair }
+Hand Hand { hand: "6TJ96", bet: 820, hand_type: ThreeOfAKind }
+Hand Hand { hand: "45K62", bet: 674, hand_type: HighCard }
+Hand Hand { hand: "9ATAT", bet: 537, hand_type: TwoPair }
+Hand Hand { hand: "9K7Q2", bet: 211, hand_type: HighCard }
+Hand Hand { hand: "KKKAK", bet: 620, hand_type: FourOfAKind }
+Hand Hand { hand: "7TT6T", bet: 837, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TT444", bet: 865, hand_type: FullHose }
+Hand Hand { hand: "5K8KK", bet: 195, hand_type: ThreeOfAKind }
+Hand Hand { hand: "KK6K6", bet: 170, hand_type: FullHose }
+Hand Hand { hand: "J2888", bet: 744, hand_type: FourOfAKind }
+Hand Hand { hand: "8A228", bet: 40, hand_type: TwoPair }
+Hand Hand { hand: "TT9K9", bet: 334, hand_type: TwoPair }
+Hand Hand { hand: "5998Q", bet: 992, hand_type: OnePair }
+Hand Hand { hand: "KJ964", bet: 760, hand_type: OnePair }
+Hand Hand { hand: "KKK98", bet: 460, hand_type: ThreeOfAKind }
+Hand Hand { hand: "8J444", bet: 917, hand_type: FourOfAKind }
+Hand Hand { hand: "TK9A8", bet: 485, hand_type: HighCard }
+Hand Hand { hand: "T8KK5", bet: 216, hand_type: OnePair }
+Hand Hand { hand: "6TA6Q", bet: 871, hand_type: OnePair }
+Hand Hand { hand: "TA39K", bet: 461, hand_type: HighCard }
+Hand Hand { hand: "J9QK5", bet: 292, hand_type: OnePair }
+Hand Hand { hand: "2222T", bet: 751, hand_type: FourOfAKind }
+Hand Hand { hand: "697KT", bet: 524, hand_type: HighCard }
+Hand Hand { hand: "5565J", bet: 484, hand_type: FourOfAKind }
+Hand Hand { hand: "T6T3T", bet: 241, hand_type: ThreeOfAKind }
+Hand Hand { hand: "696A6", bet: 542, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5QQ53", bet: 531, hand_type: TwoPair }
+Hand Hand { hand: "75555", bet: 639, hand_type: FourOfAKind }
+Hand Hand { hand: "299J2", bet: 219, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A5552", bet: 882, hand_type: ThreeOfAKind }
+Hand Hand { hand: "33AAJ", bet: 224, hand_type: ThreeOfAKind }
+Hand Hand { hand: "49494", bet: 455, hand_type: FullHose }
+Hand Hand { hand: "KJ635", bet: 532, hand_type: OnePair }
+Hand Hand { hand: "92QJ8", bet: 397, hand_type: OnePair }
+Hand Hand { hand: "J3333", bet: 990, hand_type: FiveOfAKind }
+Hand Hand { hand: "58955", bet: 739, hand_type: ThreeOfAKind }
+Hand Hand { hand: "89888", bet: 822, hand_type: FourOfAKind }
+Hand Hand { hand: "93233", bet: 521, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J6444", bet: 599, hand_type: FourOfAKind }
+Hand Hand { hand: "95TT5", bet: 351, hand_type: TwoPair }
+Hand Hand { hand: "T3333", bet: 62, hand_type: FourOfAKind }
+Hand Hand { hand: "385K9", bet: 217, hand_type: HighCard }
+Hand Hand { hand: "35AKJ", bet: 682, hand_type: OnePair }
+Hand Hand { hand: "53222", bet: 889, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TT35T", bet: 591, hand_type: ThreeOfAKind }
+Hand Hand { hand: "87QJ7", bet: 196, hand_type: ThreeOfAKind }
+Hand Hand { hand: "45226", bet: 261, hand_type: OnePair }
+Hand Hand { hand: "65K7A", bet: 717, hand_type: HighCard }
+Hand Hand { hand: "99J6K", bet: 137, hand_type: ThreeOfAKind }
+Hand Hand { hand: "77757", bet: 73, hand_type: FourOfAKind }
+Hand Hand { hand: "88J97", bet: 800, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J6335", bet: 142, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3A3K3", bet: 231, hand_type: ThreeOfAKind }
+Hand Hand { hand: "75Q5Q", bet: 311, hand_type: TwoPair }
+Hand Hand { hand: "3J265", bet: 574, hand_type: OnePair }
+Hand Hand { hand: "26AKK", bet: 474, hand_type: OnePair }
+Hand Hand { hand: "QJ699", bet: 307, hand_type: ThreeOfAKind }
+Hand Hand { hand: "AKKAA", bet: 737, hand_type: FullHose }
+Hand Hand { hand: "KA5TK", bet: 600, hand_type: OnePair }
+Hand Hand { hand: "J3Q33", bet: 830, hand_type: FourOfAKind }
+Hand Hand { hand: "7Q7Q7", bet: 953, hand_type: FullHose }
+Hand Hand { hand: "82888", bet: 888, hand_type: FourOfAKind }
+Hand Hand { hand: "KKK22", bet: 554, hand_type: FullHose }
+Hand Hand { hand: "55Q99", bet: 354, hand_type: TwoPair }
+Hand Hand { hand: "52522", bet: 868, hand_type: FullHose }
+Hand Hand { hand: "9586T", bet: 844, hand_type: HighCard }
+Hand Hand { hand: "A7T95", bet: 465, hand_type: HighCard }
+Hand Hand { hand: "J5TQ9", bet: 660, hand_type: OnePair }
+Hand Hand { hand: "K6352", bet: 487, hand_type: HighCard }
+Hand Hand { hand: "32A95", bet: 925, hand_type: HighCard }
+Hand Hand { hand: "275Q9", bet: 84, hand_type: HighCard }
+Hand Hand { hand: "555AA", bet: 964, hand_type: FullHose }
+Hand Hand { hand: "7Q247", bet: 11, hand_type: OnePair }
+Hand Hand { hand: "Q3A44", bet: 53, hand_type: OnePair }
+Hand Hand { hand: "JJ548", bet: 272, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J8673", bet: 103, hand_type: OnePair }
+Hand Hand { hand: "22229", bet: 317, hand_type: FourOfAKind }
+Hand Hand { hand: "3K566", bet: 505, hand_type: OnePair }
+Hand Hand { hand: "99AA9", bet: 826, hand_type: FullHose }
+Hand Hand { hand: "2468T", bet: 910, hand_type: HighCard }
+Hand Hand { hand: "44QQQ", bet: 605, hand_type: FullHose }
+Hand Hand { hand: "QJQ77", bet: 932, hand_type: ThreeOfAKind }
+Hand Hand { hand: "25229", bet: 614, hand_type: ThreeOfAKind }
+Hand Hand { hand: "666QQ", bet: 994, hand_type: FullHose }
+Hand Hand { hand: "99777", bet: 568, hand_type: FullHose }
+Hand Hand { hand: "6622J", bet: 945, hand_type: ThreeOfAKind }
+Hand Hand { hand: "AK48T", bet: 243, hand_type: HighCard }
+Hand Hand { hand: "QQ676", bet: 922, hand_type: TwoPair }
+Hand Hand { hand: "TKKA8", bet: 715, hand_type: OnePair }
+Hand Hand { hand: "78788", bet: 225, hand_type: FullHose }
+Hand Hand { hand: "AA7AT", bet: 240, hand_type: ThreeOfAKind }
+Hand Hand { hand: "7TK6Q", bet: 886, hand_type: HighCard }
+Hand Hand { hand: "QQ877", bet: 308, hand_type: TwoPair }
+Hand Hand { hand: "55559", bet: 220, hand_type: FourOfAKind }
+Hand Hand { hand: "7K5QT", bet: 978, hand_type: HighCard }
+Hand Hand { hand: "7543T", bet: 206, hand_type: HighCard }
+Hand Hand { hand: "2K522", bet: 149, hand_type: ThreeOfAKind }
+Hand Hand { hand: "229AA", bet: 975, hand_type: TwoPair }
+Hand Hand { hand: "J5955", bet: 667, hand_type: FourOfAKind }
+Hand Hand { hand: "A8298", bet: 95, hand_type: OnePair }
+Hand Hand { hand: "4T493", bet: 189, hand_type: OnePair }
+Hand Hand { hand: "632A3", bet: 199, hand_type: OnePair }
+Hand Hand { hand: "3K43J", bet: 181, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6T52Q", bet: 657, hand_type: HighCard }
+Hand Hand { hand: "J58JJ", bet: 19, hand_type: FourOfAKind }
+Hand Hand { hand: "29KTA", bet: 173, hand_type: HighCard }
+Hand Hand { hand: "K33J6", bet: 662, hand_type: ThreeOfAKind }
+Hand Hand { hand: "Q266J", bet: 633, hand_type: ThreeOfAKind }
+Hand Hand { hand: "74K44", bet: 128, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TT996", bet: 563, hand_type: TwoPair }
+Hand Hand { hand: "QJ886", bet: 280, hand_type: ThreeOfAKind }
+Hand Hand { hand: "4Q82Q", bet: 287, hand_type: OnePair }
+Hand Hand { hand: "85535", bet: 601, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JT88A", bet: 810, hand_type: ThreeOfAKind }
+Hand Hand { hand: "95355", bet: 797, hand_type: ThreeOfAKind }
+Hand Hand { hand: "22J22", bet: 121, hand_type: FiveOfAKind }
+Hand Hand { hand: "4TTT4", bet: 665, hand_type: FullHose }
+Hand Hand { hand: "Q8888", bet: 496, hand_type: FourOfAKind }
+Hand Hand { hand: "89A8A", bet: 47, hand_type: TwoPair }
+Hand Hand { hand: "52885", bet: 10, hand_type: TwoPair }
+Hand Hand { hand: "AT6J3", bet: 454, hand_type: OnePair }
+Hand Hand { hand: "9Q66Q", bet: 17, hand_type: TwoPair }
+Hand Hand { hand: "A8AA2", bet: 651, hand_type: ThreeOfAKind }
+Hand Hand { hand: "47774", bet: 299, hand_type: FullHose }
+Hand Hand { hand: "QT788", bet: 939, hand_type: OnePair }
+Hand Hand { hand: "TQQQQ", bet: 724, hand_type: FourOfAKind }
+Hand Hand { hand: "QAT94", bet: 132, hand_type: HighCard }
+Hand Hand { hand: "5KK6K", bet: 68, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T4322", bet: 628, hand_type: OnePair }
+Hand Hand { hand: "K6666", bet: 174, hand_type: FourOfAKind }
+Hand Hand { hand: "88J88", bet: 194, hand_type: FiveOfAKind }
+Hand Hand { hand: "43AAA", bet: 914, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T882J", bet: 338, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6QT66", bet: 171, hand_type: ThreeOfAKind }
+Hand Hand { hand: "48Q88", bet: 1000, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TKTTJ", bet: 502, hand_type: FourOfAKind }
+Hand Hand { hand: "AA372", bet: 763, hand_type: OnePair }
+Hand Hand { hand: "JKKJJ", bet: 60, hand_type: FiveOfAKind }
+Hand Hand { hand: "23232", bet: 694, hand_type: FullHose }
+Hand Hand { hand: "A355J", bet: 430, hand_type: ThreeOfAKind }
+Hand Hand { hand: "36J68", bet: 148, hand_type: ThreeOfAKind }
+Hand Hand { hand: "57QQQ", bet: 277, hand_type: ThreeOfAKind }
+Hand Hand { hand: "9JT9T", bet: 577, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TQJQT", bet: 434, hand_type: ThreeOfAKind }
+Hand Hand { hand: "93334", bet: 792, hand_type: ThreeOfAKind }
+Hand Hand { hand: "65J75", bet: 761, hand_type: ThreeOfAKind }
+Hand Hand { hand: "98894", bet: 24, hand_type: TwoPair }
+Hand Hand { hand: "33833", bet: 775, hand_type: FourOfAKind }
+Hand Hand { hand: "J5Q2K", bet: 322, hand_type: OnePair }
+Hand Hand { hand: "56T58", bet: 476, hand_type: OnePair }
+Hand Hand { hand: "529K6", bet: 236, hand_type: HighCard }
+Hand Hand { hand: "K5KJ5", bet: 296, hand_type: ThreeOfAKind }
+Hand Hand { hand: "35JQ9", bet: 951, hand_type: OnePair }
+Hand Hand { hand: "JT6T2", bet: 545, hand_type: ThreeOfAKind }
+Hand Hand { hand: "63328", bet: 960, hand_type: OnePair }
+Hand Hand { hand: "484A6", bet: 716, hand_type: OnePair }
+Hand Hand { hand: "J3T99", bet: 622, hand_type: ThreeOfAKind }
+Hand Hand { hand: "47J8K", bet: 162, hand_type: OnePair }
+Hand Hand { hand: "574A9", bet: 442, hand_type: HighCard }
+Hand Hand { hand: "5JA96", bet: 702, hand_type: OnePair }
+Hand Hand { hand: "868A9", bet: 947, hand_type: OnePair }
+Hand Hand { hand: "56JQK", bet: 424, hand_type: OnePair }
+Hand Hand { hand: "TT5AA", bet: 36, hand_type: TwoPair }
+Hand Hand { hand: "K2K22", bet: 125, hand_type: FullHose }
+Hand Hand { hand: "AQA4A", bet: 470, hand_type: ThreeOfAKind }
+Hand Hand { hand: "252J2", bet: 814, hand_type: FourOfAKind }
+Hand Hand { hand: "TTTT2", bet: 490, hand_type: FourOfAKind }
+Hand Hand { hand: "22J62", bet: 428, hand_type: FourOfAKind }
+Hand Hand { hand: "7733T", bet: 160, hand_type: TwoPair }
+Hand Hand { hand: "QT3KA", bet: 200, hand_type: HighCard }
+Hand Hand { hand: "9A972", bet: 208, hand_type: OnePair }
+Hand Hand { hand: "JA46J", bet: 798, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A4QJ6", bet: 45, hand_type: OnePair }
+Hand Hand { hand: "9J488", bet: 557, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JAAAJ", bet: 188, hand_type: FiveOfAKind }
+Hand Hand { hand: "3Q5JJ", bet: 350, hand_type: ThreeOfAKind }
+Hand Hand { hand: "24K24", bet: 22, hand_type: TwoPair }
+Hand Hand { hand: "Q88K8", bet: 369, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A2AA2", bet: 131, hand_type: FullHose }
+Hand Hand { hand: "TK659", bet: 824, hand_type: HighCard }
+Hand Hand { hand: "48726", bet: 782, hand_type: HighCard }
+Hand Hand { hand: "3939J", bet: 573, hand_type: ThreeOfAKind }
+Hand Hand { hand: "4Q372", bet: 525, hand_type: HighCard }
+Hand Hand { hand: "A23J7", bet: 705, hand_type: OnePair }
+Hand Hand { hand: "83A5K", bet: 807, hand_type: HighCard }
+Hand Hand { hand: "5J522", bet: 462, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J935A", bet: 431, hand_type: OnePair }
+Hand Hand { hand: "99933", bet: 252, hand_type: FullHose }
+Hand Hand { hand: "97Q6T", bet: 803, hand_type: HighCard }
+Hand Hand { hand: "33J3K", bet: 293, hand_type: FourOfAKind }
+Hand Hand { hand: "65662", bet: 909, hand_type: ThreeOfAKind }
+Hand Hand { hand: "66538", bet: 896, hand_type: OnePair }
+Hand Hand { hand: "4J4JK", bet: 404, hand_type: FourOfAKind }
+Hand Hand { hand: "76TAK", bet: 617, hand_type: HighCard }
+Hand Hand { hand: "99979", bet: 394, hand_type: FourOfAKind }
+Hand Hand { hand: "Q3JT5", bet: 823, hand_type: OnePair }
+Hand Hand { hand: "A3K38", bet: 606, hand_type: OnePair }
+Hand Hand { hand: "2K2J3", bet: 179, hand_type: ThreeOfAKind }
+Hand Hand { hand: "97AA9", bet: 530, hand_type: TwoPair }
+Hand Hand { hand: "6J6QQ", bet: 8, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5J2T2", bet: 949, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A44A5", bet: 145, hand_type: TwoPair }
+Hand Hand { hand: "39A2T", bet: 523, hand_type: HighCard }
+Hand Hand { hand: "6665Q", bet: 700, hand_type: ThreeOfAKind }
+Hand Hand { hand: "23288", bet: 693, hand_type: TwoPair }
+Hand Hand { hand: "65336", bet: 183, hand_type: TwoPair }
+Hand Hand { hand: "T64T8", bet: 897, hand_type: OnePair }
+Hand Hand { hand: "K76K6", bet: 48, hand_type: TwoPair }
+Hand Hand { hand: "2JTT2", bet: 146, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K94J8", bet: 769, hand_type: OnePair }
+Hand Hand { hand: "AA8AA", bet: 556, hand_type: FourOfAKind }
+Hand Hand { hand: "5Q775", bet: 586, hand_type: TwoPair }
+Hand Hand { hand: "5TQ8Q", bet: 143, hand_type: OnePair }
+Hand Hand { hand: "AJA8A", bet: 529, hand_type: FourOfAKind }
+Hand Hand { hand: "A3629", bet: 153, hand_type: HighCard }
+Hand Hand { hand: "4Q69T", bet: 52, hand_type: HighCard }
+Hand Hand { hand: "53T9T", bet: 414, hand_type: OnePair }
+Hand Hand { hand: "QJ424", bet: 114, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J595K", bet: 276, hand_type: ThreeOfAKind }
+Hand Hand { hand: "63622", bet: 116, hand_type: TwoPair }
+Hand Hand { hand: "99599", bet: 295, hand_type: FourOfAKind }
+Hand Hand { hand: "94J9J", bet: 916, hand_type: FourOfAKind }
+Hand Hand { hand: "42822", bet: 304, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5T45Q", bet: 318, hand_type: OnePair }
+Hand Hand { hand: "T999T", bet: 878, hand_type: FullHose }
+Hand Hand { hand: "777J7", bet: 669, hand_type: FiveOfAKind }
+Hand Hand { hand: "79T77", bet: 581, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TTAAA", bet: 921, hand_type: FullHose }
+Hand Hand { hand: "A3333", bet: 736, hand_type: FourOfAKind }
+Hand Hand { hand: "KJ54K", bet: 88, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K363K", bet: 618, hand_type: TwoPair }
+Hand Hand { hand: "7T837", bet: 303, hand_type: OnePair }
+Hand Hand { hand: "8833T", bet: 43, hand_type: TwoPair }
+Hand Hand { hand: "2976A", bet: 227, hand_type: HighCard }
+Hand Hand { hand: "TTTT5", bet: 441, hand_type: FourOfAKind }
+Hand Hand { hand: "J66T4", bet: 928, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TT5A8", bet: 138, hand_type: OnePair }
+Hand Hand { hand: "8TQJ3", bet: 641, hand_type: OnePair }
+Hand Hand { hand: "29JT5", bet: 204, hand_type: OnePair }
+Hand Hand { hand: "K3T65", bet: 113, hand_type: HighCard }
+Hand Hand { hand: "J9855", bet: 284, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3KA22", bet: 835, hand_type: OnePair }
+Hand Hand { hand: "6J644", bet: 836, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3K695", bet: 801, hand_type: HighCard }
+Hand Hand { hand: "58855", bet: 74, hand_type: FullHose }
+Hand Hand { hand: "Q6579", bet: 126, hand_type: HighCard }
+Hand Hand { hand: "64QK7", bet: 191, hand_type: HighCard }
+Hand Hand { hand: "ATATQ", bet: 895, hand_type: TwoPair }
+Hand Hand { hand: "9KK97", bet: 560, hand_type: TwoPair }
+Hand Hand { hand: "32Q23", bet: 298, hand_type: TwoPair }
+Hand Hand { hand: "J98J3", bet: 336, hand_type: ThreeOfAKind }
+Hand Hand { hand: "333TT", bet: 593, hand_type: FullHose }
+Hand Hand { hand: "33QQQ", bet: 438, hand_type: FullHose }
+Hand Hand { hand: "244Q2", bet: 446, hand_type: TwoPair }
+Hand Hand { hand: "QJAAA", bet: 902, hand_type: FourOfAKind }
+Hand Hand { hand: "88887", bet: 777, hand_type: FourOfAKind }
+Hand Hand { hand: "Q8838", bet: 752, hand_type: ThreeOfAKind }
+Hand Hand { hand: "86668", bet: 984, hand_type: FullHose }
+Hand Hand { hand: "924QK", bet: 288, hand_type: HighCard }
+Hand Hand { hand: "KJKJK", bet: 186, hand_type: FiveOfAKind }
+Hand Hand { hand: "T22JJ", bet: 500, hand_type: FourOfAKind }
+Hand Hand { hand: "J65KA", bet: 764, hand_type: OnePair }
+Hand Hand { hand: "4K559", bet: 993, hand_type: OnePair }
+Hand Hand { hand: "44646", bet: 327, hand_type: FullHose }
+Hand Hand { hand: "Q444Q", bet: 598, hand_type: FullHose }
+Hand Hand { hand: "JAA3J", bet: 741, hand_type: FourOfAKind }
+Hand Hand { hand: "J4J49", bet: 976, hand_type: FourOfAKind }
+Hand Hand { hand: "5J6T5", bet: 778, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TTATT", bet: 908, hand_type: FourOfAKind }
+Hand Hand { hand: "AA9T9", bet: 481, hand_type: TwoPair }
+Hand Hand { hand: "38696", bet: 320, hand_type: OnePair }
+Hand Hand { hand: "T444A", bet: 594, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K33KT", bet: 376, hand_type: TwoPair }
+Hand Hand { hand: "66955", bet: 127, hand_type: TwoPair }
+Hand Hand { hand: "KAKJT", bet: 709, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JT8A6", bet: 184, hand_type: OnePair }
+Hand Hand { hand: "JJ8JJ", bet: 330, hand_type: FiveOfAKind }
+Hand Hand { hand: "7AAKA", bet: 684, hand_type: ThreeOfAKind }
+Hand Hand { hand: "33233", bet: 373, hand_type: FourOfAKind }
+Hand Hand { hand: "8T8K8", bet: 576, hand_type: ThreeOfAKind }
+Hand Hand { hand: "8TQ27", bet: 4, hand_type: HighCard }
+Hand Hand { hand: "552K5", bet: 182, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5692J", bet: 21, hand_type: OnePair }
+Hand Hand { hand: "TTQJT", bet: 912, hand_type: FourOfAKind }
+Hand Hand { hand: "6QA66", bet: 840, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TT3TT", bet: 546, hand_type: FourOfAKind }
+Hand Hand { hand: "6K4Q8", bet: 849, hand_type: HighCard }
+Hand Hand { hand: "T779T", bet: 631, hand_type: TwoPair }
+Hand Hand { hand: "K93K9", bet: 232, hand_type: TwoPair }
+Hand Hand { hand: "6A4TA", bet: 254, hand_type: OnePair }
+Hand Hand { hand: "2K5A3", bet: 154, hand_type: HighCard }
+Hand Hand { hand: "2QQ22", bet: 491, hand_type: FullHose }
+Hand Hand { hand: "AAKK2", bet: 680, hand_type: TwoPair }
+Hand Hand { hand: "63326", bet: 302, hand_type: TwoPair }
+Hand Hand { hand: "TT7KQ", bet: 378, hand_type: OnePair }
+Hand Hand { hand: "7J477", bet: 105, hand_type: FourOfAKind }
+Hand Hand { hand: "QJQ4J", bet: 862, hand_type: FourOfAKind }
+Hand Hand { hand: "J4596", bet: 867, hand_type: OnePair }
+Hand Hand { hand: "22335", bet: 743, hand_type: TwoPair }
+Hand Hand { hand: "74329", bet: 221, hand_type: HighCard }
+Hand Hand { hand: "Q8333", bet: 758, hand_type: ThreeOfAKind }
+Hand Hand { hand: "699J6", bet: 285, hand_type: ThreeOfAKind }
+Hand Hand { hand: "8QAJJ", bet: 497, hand_type: ThreeOfAKind }
+Hand Hand { hand: "8QT67", bet: 711, hand_type: HighCard }
+Hand Hand { hand: "KAAAA", bet: 92, hand_type: FourOfAKind }
+Hand Hand { hand: "K96T8", bet: 548, hand_type: HighCard }
+Hand Hand { hand: "8TT9T", bet: 508, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T977J", bet: 516, hand_type: ThreeOfAKind }
+Hand Hand { hand: "27272", bet: 313, hand_type: FullHose }
+Hand Hand { hand: "AKKK8", bet: 389, hand_type: ThreeOfAKind }
+Hand Hand { hand: "879A6", bet: 18, hand_type: HighCard }
+Hand Hand { hand: "55K33", bet: 383, hand_type: TwoPair }
+Hand Hand { hand: "38484", bet: 339, hand_type: TwoPair }
+Hand Hand { hand: "A9299", bet: 437, hand_type: ThreeOfAKind }
+Hand Hand { hand: "833A3", bet: 290, hand_type: ThreeOfAKind }
+Hand Hand { hand: "77JJ4", bet: 433, hand_type: FourOfAKind }
+Hand Hand { hand: "7JAJ2", bet: 856, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QK45J", bet: 540, hand_type: OnePair }
+Hand Hand { hand: "Q96T2", bet: 699, hand_type: HighCard }
+Hand Hand { hand: "88884", bet: 212, hand_type: FourOfAKind }
+Hand Hand { hand: "K6778", bet: 205, hand_type: OnePair }
+Hand Hand { hand: "QA4TA", bet: 192, hand_type: OnePair }
+Hand Hand { hand: "QA86Q", bet: 872, hand_type: OnePair }
+Hand Hand { hand: "22T7T", bet: 972, hand_type: TwoPair }
+Hand Hand { hand: "23272", bet: 415, hand_type: ThreeOfAKind }
+Hand Hand { hand: "42J42", bet: 558, hand_type: ThreeOfAKind }
+Hand Hand { hand: "Q72Q7", bet: 242, hand_type: TwoPair }
+Hand Hand { hand: "8A45T", bet: 948, hand_type: HighCard }
+Hand Hand { hand: "4JJ4J", bet: 177, hand_type: FiveOfAKind }
+Hand Hand { hand: "J4Q9A", bet: 323, hand_type: OnePair }
+Hand Hand { hand: "KA3KQ", bet: 937, hand_type: OnePair }
+Hand Hand { hand: "AA847", bet: 655, hand_type: OnePair }
+Hand Hand { hand: "AQJQQ", bet: 61, hand_type: FourOfAKind }
+Hand Hand { hand: "36T6K", bet: 294, hand_type: OnePair }
+Hand Hand { hand: "63673", bet: 766, hand_type: TwoPair }
+Hand Hand { hand: "7QTT8", bet: 300, hand_type: OnePair }
+Hand Hand { hand: "8KQ86", bet: 346, hand_type: OnePair }
+Hand Hand { hand: "QQJK7", bet: 321, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A32AA", bet: 549, hand_type: ThreeOfAKind }
+Hand Hand { hand: "44KK4", bet: 357, hand_type: FullHose }
+Hand Hand { hand: "55454", bet: 547, hand_type: FullHose }
+Hand Hand { hand: "33666", bet: 260, hand_type: FullHose }
+Hand Hand { hand: "AAQQQ", bet: 436, hand_type: FullHose }
+Hand Hand { hand: "J55K5", bet: 264, hand_type: FourOfAKind }
+Hand Hand { hand: "3KJQ3", bet: 685, hand_type: ThreeOfAKind }
+Hand Hand { hand: "99K99", bet: 269, hand_type: FourOfAKind }
+Hand Hand { hand: "9J9QJ", bet: 677, hand_type: FourOfAKind }
+Hand Hand { hand: "J8844", bet: 854, hand_type: ThreeOfAKind }
+Hand Hand { hand: "2567Q", bet: 176, hand_type: HighCard }
+Hand Hand { hand: "AAAJ5", bet: 689, hand_type: FourOfAKind }
+Hand Hand { hand: "T4T9T", bet: 831, hand_type: ThreeOfAKind }
+Hand Hand { hand: "36874", bet: 356, hand_type: HighCard }
+Hand Hand { hand: "TTTJT", bet: 122, hand_type: FiveOfAKind }
+Hand Hand { hand: "33993", bet: 609, hand_type: FullHose }
+Hand Hand { hand: "4JK3T", bet: 920, hand_type: OnePair }
+Hand Hand { hand: "79772", bet: 65, hand_type: ThreeOfAKind }
+Hand Hand { hand: "55225", bet: 942, hand_type: FullHose }
+Hand Hand { hand: "K228K", bet: 898, hand_type: TwoPair }
+Hand Hand { hand: "3K2QA", bet: 274, hand_type: HighCard }
+Hand Hand { hand: "QTAQQ", bet: 718, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6JJJ9", bet: 506, hand_type: FourOfAKind }
+Hand Hand { hand: "83869", bet: 645, hand_type: OnePair }
+Hand Hand { hand: "A8T24", bet: 475, hand_type: HighCard }
+Hand Hand { hand: "A3647", bet: 625, hand_type: HighCard }
+Hand Hand { hand: "99353", bet: 158, hand_type: TwoPair }
+Hand Hand { hand: "5566T", bet: 652, hand_type: TwoPair }
+Hand Hand { hand: "5J454", bet: 726, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A6AT6", bet: 71, hand_type: TwoPair }
+Hand Hand { hand: "42JJ9", bet: 286, hand_type: ThreeOfAKind }
+Hand Hand { hand: "88JQ8", bet: 344, hand_type: FourOfAKind }
+Hand Hand { hand: "AAQJK", bet: 477, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J6266", bet: 876, hand_type: FourOfAKind }
+Hand Hand { hand: "4T499", bet: 750, hand_type: TwoPair }
+Hand Hand { hand: "76853", bet: 986, hand_type: HighCard }
+Hand Hand { hand: "4QKKT", bet: 603, hand_type: OnePair }
+Hand Hand { hand: "84K3K", bet: 629, hand_type: OnePair }
+Hand Hand { hand: "AA636", bet: 250, hand_type: TwoPair }
+Hand Hand { hand: "3T263", bet: 756, hand_type: OnePair }
+Hand Hand { hand: "T8227", bet: 885, hand_type: OnePair }
+Hand Hand { hand: "9J533", bet: 28, hand_type: ThreeOfAKind }
+Hand Hand { hand: "26446", bet: 613, hand_type: TwoPair }
+Hand Hand { hand: "AAAJA", bet: 841, hand_type: FiveOfAKind }
+Hand Hand { hand: "7AA2A", bet: 305, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QQJQQ", bet: 503, hand_type: FiveOfAKind }
+Hand Hand { hand: "QT33T", bet: 509, hand_type: TwoPair }
+Hand Hand { hand: "3TT22", bet: 379, hand_type: TwoPair }
+Hand Hand { hand: "88844", bet: 78, hand_type: FullHose }
+Hand Hand { hand: "629KJ", bet: 416, hand_type: OnePair }
+Hand Hand { hand: "74J44", bet: 813, hand_type: FourOfAKind }
+Hand Hand { hand: "QA79K", bet: 526, hand_type: HighCard }
+Hand Hand { hand: "2T6T5", bet: 522, hand_type: OnePair }
+Hand Hand { hand: "K2TQA", bet: 774, hand_type: HighCard }
+Hand Hand { hand: "85AQJ", bet: 283, hand_type: OnePair }
+Hand Hand { hand: "TJ6AQ", bet: 735, hand_type: OnePair }
+Hand Hand { hand: "335J2", bet: 450, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K4944", bet: 222, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K54K7", bet: 348, hand_type: OnePair }
+Hand Hand { hand: "KKKTK", bet: 673, hand_type: FourOfAKind }
+Hand Hand { hand: "7K797", bet: 407, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JKKAK", bet: 561, hand_type: FourOfAKind }
+Hand Hand { hand: "TJT77", bet: 663, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JJ777", bet: 265, hand_type: FiveOfAKind }
+Hand Hand { hand: "6QJQ3", bet: 873, hand_type: ThreeOfAKind }
+Hand Hand { hand: "2QTK5", bet: 456, hand_type: HighCard }
+Hand Hand { hand: "2Q4A9", bet: 198, hand_type: HighCard }
+Hand Hand { hand: "5J7Q6", bet: 270, hand_type: OnePair }
+Hand Hand { hand: "86A67", bet: 675, hand_type: OnePair }
+Hand Hand { hand: "J4444", bet: 534, hand_type: FiveOfAKind }
+Hand Hand { hand: "55K3T", bet: 152, hand_type: OnePair }
+Hand Hand { hand: "277KJ", bet: 55, hand_type: ThreeOfAKind }
+Hand Hand { hand: "8QQ2J", bet: 838, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A75QA", bet: 234, hand_type: OnePair }
+Hand Hand { hand: "848JJ", bet: 553, hand_type: FourOfAKind }
+Hand Hand { hand: "JJ28J", bet: 314, hand_type: FourOfAKind }
+Hand Hand { hand: "7698Q", bet: 583, hand_type: HighCard }
+Hand Hand { hand: "ATTTA", bet: 851, hand_type: FullHose }
+Hand Hand { hand: "Q88QQ", bet: 353, hand_type: FullHose }
+Hand Hand { hand: "89A34", bet: 955, hand_type: HighCard }
+Hand Hand { hand: "Q82K5", bet: 691, hand_type: HighCard }
+Hand Hand { hand: "T4A8J", bet: 858, hand_type: OnePair }
+Hand Hand { hand: "852J7", bet: 253, hand_type: OnePair }
+Hand Hand { hand: "39JQ8", bet: 319, hand_type: OnePair }
+Hand Hand { hand: "2Q7QQ", bet: 828, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QQ4KQ", bet: 848, hand_type: ThreeOfAKind }
+Hand Hand { hand: "35KQT", bet: 233, hand_type: HighCard }
+Hand Hand { hand: "4AAAA", bet: 952, hand_type: FourOfAKind }
+Hand Hand { hand: "K289K", bet: 695, hand_type: OnePair }
+Hand Hand { hand: "49T88", bet: 541, hand_type: OnePair }
+Hand Hand { hand: "6QJ44", bet: 544, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K4KAK", bet: 408, hand_type: ThreeOfAKind }
+Hand Hand { hand: "75882", bet: 435, hand_type: OnePair }
+Hand Hand { hand: "9K99K", bet: 515, hand_type: FullHose }
+Hand Hand { hand: "3TK3J", bet: 608, hand_type: ThreeOfAKind }
+Hand Hand { hand: "94222", bet: 564, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A9K44", bet: 666, hand_type: OnePair }
+Hand Hand { hand: "3722T", bet: 391, hand_type: OnePair }
+Hand Hand { hand: "8J88J", bet: 742, hand_type: FiveOfAKind }
+Hand Hand { hand: "Q2KQK", bet: 950, hand_type: TwoPair }
+Hand Hand { hand: "J999Q", bet: 493, hand_type: FourOfAKind }
+Hand Hand { hand: "85K88", bet: 331, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J4AAA", bet: 935, hand_type: FourOfAKind }
+Hand Hand { hand: "AJTAT", bet: 144, hand_type: ThreeOfAKind }
+Hand Hand { hand: "796J9", bet: 776, hand_type: ThreeOfAKind }
+Hand Hand { hand: "42444", bet: 788, hand_type: FourOfAKind }
+Hand Hand { hand: "52K9K", bet: 980, hand_type: OnePair }
+Hand Hand { hand: "9QQ97", bet: 597, hand_type: TwoPair }
+Hand Hand { hand: "KQQQQ", bet: 793, hand_type: FourOfAKind }
+Hand Hand { hand: "K8267", bet: 884, hand_type: HighCard }
+Hand Hand { hand: "8Q594", bet: 90, hand_type: HighCard }
+Hand Hand { hand: "8J829", bet: 860, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3KT64", bet: 245, hand_type: HighCard }
+Hand Hand { hand: "6JTQ6", bet: 85, hand_type: ThreeOfAKind }
+Hand Hand { hand: "AJ28T", bet: 349, hand_type: OnePair }
+Hand Hand { hand: "995TT", bet: 733, hand_type: TwoPair }
+Hand Hand { hand: "33444", bet: 659, hand_type: FullHose }
+Hand Hand { hand: "5J333", bet: 927, hand_type: FourOfAKind }
+Hand Hand { hand: "32JA6", bet: 335, hand_type: OnePair }
+Hand Hand { hand: "38Q65", bet: 619, hand_type: HighCard }
+Hand Hand { hand: "96966", bet: 626, hand_type: FullHose }
+Hand Hand { hand: "55JJ5", bet: 815, hand_type: FiveOfAKind }
+Hand Hand { hand: "3664T", bet: 940, hand_type: OnePair }
+Hand Hand { hand: "AAAK6", bet: 362, hand_type: ThreeOfAKind }
+Hand Hand { hand: "62573", bet: 772, hand_type: HighCard }
+Hand Hand { hand: "TAAA9", bet: 588, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A9K63", bet: 34, hand_type: HighCard }
+Hand Hand { hand: "4753Q", bet: 209, hand_type: HighCard }
+Hand Hand { hand: "59595", bet: 913, hand_type: FullHose }
+Hand Hand { hand: "57755", bet: 42, hand_type: FullHose }
+Hand Hand { hand: "2J922", bet: 315, hand_type: FourOfAKind }
+Hand Hand { hand: "A6834", bet: 273, hand_type: HighCard }
+Hand Hand { hand: "QAQ8Q", bet: 239, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3K6QQ", bet: 94, hand_type: OnePair }
+Hand Hand { hand: "A55J5", bet: 729, hand_type: FourOfAKind }
+Hand Hand { hand: "66776", bet: 89, hand_type: FullHose }
+Hand Hand { hand: "AT525", bet: 479, hand_type: OnePair }
+Hand Hand { hand: "66663", bet: 616, hand_type: FourOfAKind }
+Hand Hand { hand: "A4A5A", bet: 207, hand_type: ThreeOfAKind }
+Hand Hand { hand: "88TQT", bet: 551, hand_type: TwoPair }
+Hand Hand { hand: "87Q5T", bet: 749, hand_type: HighCard }
+Hand Hand { hand: "77KKK", bet: 291, hand_type: FullHose }
+Hand Hand { hand: "T3T44", bet: 855, hand_type: TwoPair }
+Hand Hand { hand: "5927A", bet: 621, hand_type: HighCard }
+Hand Hand { hand: "A28T6", bet: 187, hand_type: HighCard }
+Hand Hand { hand: "QT7Q9", bet: 135, hand_type: OnePair }
+Hand Hand { hand: "77J79", bet: 786, hand_type: FourOfAKind }
+Hand Hand { hand: "8JT88", bet: 571, hand_type: FourOfAKind }
+Hand Hand { hand: "82J28", bet: 13, hand_type: ThreeOfAKind }
+Hand Hand { hand: "333J6", bet: 519, hand_type: FourOfAKind }
+Hand Hand { hand: "67229", bet: 790, hand_type: OnePair }
+Hand Hand { hand: "T577T", bet: 390, hand_type: TwoPair }
+Hand Hand { hand: "62226", bet: 762, hand_type: FullHose }
+Hand Hand { hand: "T8888", bet: 713, hand_type: FourOfAKind }
+Hand Hand { hand: "7JQJQ", bet: 877, hand_type: FourOfAKind }
+Hand Hand { hand: "532AA", bet: 384, hand_type: OnePair }
+Hand Hand { hand: "5A5AJ", bet: 533, hand_type: ThreeOfAKind }
+Hand Hand { hand: "66JA6", bet: 381, hand_type: FourOfAKind }
+Hand Hand { hand: "36KK9", bet: 457, hand_type: OnePair }
+Hand Hand { hand: "43343", bet: 755, hand_type: FullHose }
+Hand Hand { hand: "67767", bet: 35, hand_type: FullHose }
+Hand Hand { hand: "96AJ3", bet: 398, hand_type: OnePair }
+Hand Hand { hand: "JJA95", bet: 380, hand_type: ThreeOfAKind }
+Hand Hand { hand: "2QQ8Q", bet: 569, hand_type: ThreeOfAKind }
+Hand Hand { hand: "69AK9", bet: 567, hand_type: OnePair }
+Hand Hand { hand: "9KK9T", bet: 654, hand_type: TwoPair }
+Hand Hand { hand: "84244", bet: 958, hand_type: ThreeOfAKind }
+Hand Hand { hand: "KTJKK", bet: 32, hand_type: FourOfAKind }
+Hand Hand { hand: "K87Q5", bet: 180, hand_type: HighCard }
+Hand Hand { hand: "T9A26", bet: 262, hand_type: HighCard }
+Hand Hand { hand: "Q555Q", bet: 787, hand_type: FullHose }
+Hand Hand { hand: "48J6Q", bet: 67, hand_type: OnePair }
+Hand Hand { hand: "K4KKK", bet: 638, hand_type: FourOfAKind }
+Hand Hand { hand: "TAAAA", bet: 686, hand_type: FourOfAKind }
+Hand Hand { hand: "33335", bet: 962, hand_type: FourOfAKind }
+Hand Hand { hand: "88886", bet: 696, hand_type: FourOfAKind }
+Hand Hand { hand: "2334Q", bet: 439, hand_type: OnePair }
+Hand Hand { hand: "7T78K", bet: 364, hand_type: OnePair }
+Hand Hand { hand: "73377", bet: 54, hand_type: FullHose }
+Hand Hand { hand: "8Q744", bet: 998, hand_type: OnePair }
+Hand Hand { hand: "52Q49", bet: 707, hand_type: HighCard }
+Hand Hand { hand: "J3J5J", bet: 370, hand_type: FourOfAKind }
+Hand Hand { hand: "K2KJ2", bet: 482, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T6JK5", bet: 969, hand_type: OnePair }
+Hand Hand { hand: "53J5J", bet: 371, hand_type: FourOfAKind }
+Hand Hand { hand: "QQQA2", bet: 983, hand_type: ThreeOfAKind }
+Hand Hand { hand: "8Q886", bet: 93, hand_type: ThreeOfAKind }
+Hand Hand { hand: "63888", bet: 818, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TQQQK", bet: 746, hand_type: ThreeOfAKind }
+Hand Hand { hand: "7285A", bet: 578, hand_type: HighCard }
+Hand Hand { hand: "66656", bet: 123, hand_type: FourOfAKind }
+Hand Hand { hand: "Q9AQQ", bet: 809, hand_type: ThreeOfAKind }
+Hand Hand { hand: "47AA7", bet: 730, hand_type: TwoPair }
+Hand Hand { hand: "479Q2", bet: 731, hand_type: HighCard }
+Hand Hand { hand: "55335", bet: 869, hand_type: FullHose }
+Hand Hand { hand: "3K3QK", bet: 166, hand_type: TwoPair }
+Hand Hand { hand: "6K257", bet: 228, hand_type: HighCard }
+Hand Hand { hand: "2JQ64", bet: 139, hand_type: OnePair }
+Hand Hand { hand: "26J4K", bet: 624, hand_type: OnePair }
+Hand Hand { hand: "55Q55", bet: 866, hand_type: FourOfAKind }
+Hand Hand { hand: "KQ937", bet: 697, hand_type: HighCard }
+Hand Hand { hand: "TJ783", bet: 39, hand_type: OnePair }
+Hand Hand { hand: "72T5K", bet: 247, hand_type: HighCard }
+Hand Hand { hand: "444K4", bet: 432, hand_type: FourOfAKind }
+Hand Hand { hand: "J2783", bet: 723, hand_type: OnePair }
+Hand Hand { hand: "T68T6", bet: 817, hand_type: TwoPair }
+Hand Hand { hand: "TT5T9", bet: 420, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T9432", bet: 426, hand_type: HighCard }
+Hand Hand { hand: "6AAK5", bet: 903, hand_type: OnePair }
+Hand Hand { hand: "33732", bet: 630, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QA4A4", bet: 683, hand_type: TwoPair }
+Hand Hand { hand: "6JJ6A", bet: 115, hand_type: FourOfAKind }
+Hand Hand { hand: "KJK3T", bet: 698, hand_type: ThreeOfAKind }
+Hand Hand { hand: "88783", bet: 520, hand_type: ThreeOfAKind }
+Hand Hand { hand: "2A8AT", bet: 847, hand_type: OnePair }
+Hand Hand { hand: "3A83A", bet: 449, hand_type: TwoPair }
+Hand Hand { hand: "4Q4J9", bet: 324, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TQTQQ", bet: 938, hand_type: FullHose }
+Hand Hand { hand: "693QA", bet: 218, hand_type: HighCard }
+Hand Hand { hand: "398A8", bet: 310, hand_type: OnePair }
+Hand Hand { hand: "94Q68", bet: 129, hand_type: HighCard }
+Hand Hand { hand: "9J899", bet: 535, hand_type: FourOfAKind }
+Hand Hand { hand: "75A55", bet: 562, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5KKKK", bet: 56, hand_type: FourOfAKind }
+Hand Hand { hand: "TA376", bet: 480, hand_type: HighCard }
+Hand Hand { hand: "JJ5J5", bet: 565, hand_type: FiveOfAKind }
+Hand Hand { hand: "6J7KJ", bet: 770, hand_type: ThreeOfAKind }
+Hand Hand { hand: "86667", bet: 892, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6686J", bet: 14, hand_type: FourOfAKind }
+Hand Hand { hand: "89889", bet: 780, hand_type: FullHose }
+Hand Hand { hand: "65555", bet: 585, hand_type: FourOfAKind }
+Hand Hand { hand: "QQQJJ", bet: 688, hand_type: FiveOfAKind }
+Hand Hand { hand: "88JJ2", bet: 492, hand_type: FourOfAKind }
+Hand Hand { hand: "33238", bet: 812, hand_type: ThreeOfAKind }
+Hand Hand { hand: "7862T", bet: 753, hand_type: HighCard }
+Hand Hand { hand: "J22J2", bet: 587, hand_type: FiveOfAKind }
+Hand Hand { hand: "73747", bet: 973, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K3JQA", bet: 2, hand_type: OnePair }
+Hand Hand { hand: "K3K9K", bet: 150, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6A8JA", bet: 9, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T5K8A", bet: 670, hand_type: HighCard }
+Hand Hand { hand: "5K33T", bet: 555, hand_type: OnePair }
+Hand Hand { hand: "K2266", bet: 528, hand_type: TwoPair }
+Hand Hand { hand: "JAK59", bet: 784, hand_type: OnePair }
+Hand Hand { hand: "8AQ74", bet: 213, hand_type: HighCard }
+Hand Hand { hand: "6QA9T", bet: 570, hand_type: HighCard }
+Hand Hand { hand: "27873", bet: 69, hand_type: OnePair }
+Hand Hand { hand: "27TQT", bet: 507, hand_type: OnePair }
+Hand Hand { hand: "8K3QA", bet: 75, hand_type: HighCard }
+Hand Hand { hand: "6T252", bet: 226, hand_type: OnePair }
+Hand Hand { hand: "T4432", bet: 46, hand_type: OnePair }
+Hand Hand { hand: "JQQ6Q", bet: 779, hand_type: FourOfAKind }
+Hand Hand { hand: "KKAQK", bet: 443, hand_type: ThreeOfAKind }
+Hand Hand { hand: "96869", bet: 83, hand_type: TwoPair }
+Hand Hand { hand: "3JQ3A", bet: 326, hand_type: ThreeOfAKind }
+Hand Hand { hand: "Q222K", bet: 875, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A3954", bet: 244, hand_type: HighCard }
+Hand Hand { hand: "333JJ", bet: 406, hand_type: FiveOfAKind }
+Hand Hand { hand: "22AQQ", bet: 959, hand_type: TwoPair }
+Hand Hand { hand: "55585", bet: 754, hand_type: FourOfAKind }
+Hand Hand { hand: "JT938", bet: 981, hand_type: OnePair }
+Hand Hand { hand: "555J5", bet: 418, hand_type: FiveOfAKind }
+Hand Hand { hand: "TJJT9", bet: 773, hand_type: FourOfAKind }
+Hand Hand { hand: "J826A", bet: 863, hand_type: OnePair }
+Hand Hand { hand: "3828J", bet: 316, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5A8JJ", bet: 7, hand_type: ThreeOfAKind }
+Hand Hand { hand: "47K83", bet: 536, hand_type: HighCard }
+Hand Hand { hand: "K5J9K", bet: 325, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T4Q59", bet: 382, hand_type: HighCard }
+Hand Hand { hand: "KKK7K", bet: 402, hand_type: FourOfAKind }
+Hand Hand { hand: "75758", bet: 297, hand_type: TwoPair }
+Hand Hand { hand: "74484", bet: 829, hand_type: ThreeOfAKind }
+Hand Hand { hand: "7T47T", bet: 278, hand_type: TwoPair }
+Hand Hand { hand: "K744Q", bet: 237, hand_type: OnePair }
+Hand Hand { hand: "T8T5J", bet: 147, hand_type: ThreeOfAKind }
+Hand Hand { hand: "55228", bet: 880, hand_type: TwoPair }
+Hand Hand { hand: "J57J2", bet: 172, hand_type: ThreeOfAKind }
+Hand Hand { hand: "57549", bet: 592, hand_type: OnePair }
+Hand Hand { hand: "76276", bet: 422, hand_type: TwoPair }
+Hand Hand { hand: "936JQ", bet: 483, hand_type: OnePair }
+Hand Hand { hand: "QQ5QJ", bet: 255, hand_type: FourOfAKind }
+Hand Hand { hand: "A7T78", bet: 783, hand_type: OnePair }
+Hand Hand { hand: "5TT58", bet: 971, hand_type: TwoPair }
+Hand Hand { hand: "JJJJJ", bet: 86, hand_type: FiveOfAKind }
+Hand Hand { hand: "55QQQ", bet: 692, hand_type: FullHose }
+Hand Hand { hand: "T728T", bet: 701, hand_type: OnePair }
+Hand Hand { hand: "KTTKT", bet: 372, hand_type: FullHose }
+Hand Hand { hand: "TT7TT", bet: 282, hand_type: FourOfAKind }
+Hand Hand { hand: "Q5982", bet: 604, hand_type: HighCard }
+Hand Hand { hand: "KK8KK", bet: 514, hand_type: FourOfAKind }
+Hand Hand { hand: "8KKTK", bet: 448, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6K8J7", bet: 118, hand_type: OnePair }
+Hand Hand { hand: "499J9", bet: 87, hand_type: FourOfAKind }
+Hand Hand { hand: "22828", bet: 140, hand_type: FullHose }
+Hand Hand { hand: "58JJ8", bet: 789, hand_type: FourOfAKind }
+Hand Hand { hand: "66637", bet: 58, hand_type: ThreeOfAKind }
+Hand Hand { hand: "44445", bet: 919, hand_type: FourOfAKind }
+Hand Hand { hand: "JKJ63", bet: 890, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A463A", bet: 918, hand_type: OnePair }
+Hand Hand { hand: "393J8", bet: 827, hand_type: ThreeOfAKind }
+Hand Hand { hand: "44434", bet: 37, hand_type: FourOfAKind }
+Hand Hand { hand: "999T7", bet: 999, hand_type: ThreeOfAKind }
+Hand Hand { hand: "966J7", bet: 802, hand_type: ThreeOfAKind }
+Hand Hand { hand: "43962", bet: 51, hand_type: HighCard }
+Hand Hand { hand: "K5J45", bet: 719, hand_type: ThreeOfAKind }
+Hand Hand { hand: "87KK5", bet: 757, hand_type: OnePair }
+Hand Hand { hand: "2K337", bet: 977, hand_type: OnePair }
+Hand Hand { hand: "582J9", bet: 627, hand_type: OnePair }
+Hand Hand { hand: "69639", bet: 355, hand_type: TwoPair }
+Hand Hand { hand: "97KJ6", bet: 610, hand_type: OnePair }
+Hand Hand { hand: "J2223", bet: 704, hand_type: FourOfAKind }
+Hand Hand { hand: "6A4T5", bet: 165, hand_type: HighCard }
+Hand Hand { hand: "7AJA7", bet: 767, hand_type: ThreeOfAKind }
+Hand Hand { hand: "646K4", bet: 706, hand_type: TwoPair }
+Hand Hand { hand: "QQ2QJ", bet: 72, hand_type: FourOfAKind }
+Hand Hand { hand: "T3JK8", bet: 301, hand_type: OnePair }
+Hand Hand { hand: "6T3AK", bet: 661, hand_type: HighCard }
+Hand Hand { hand: "7K8T5", bet: 970, hand_type: HighCard }
+Hand Hand { hand: "JJ33J", bet: 396, hand_type: FiveOfAKind }
+Hand Hand { hand: "49446", bet: 412, hand_type: ThreeOfAKind }
+Hand Hand { hand: "AA77A", bet: 649, hand_type: FullHose }
+Hand Hand { hand: "66A86", bet: 64, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QQAQQ", bet: 120, hand_type: FourOfAKind }
+Hand Hand { hand: "8AA8A", bet: 968, hand_type: FullHose }
+Hand Hand { hand: "57QJ2", bet: 579, hand_type: OnePair }
+Hand Hand { hand: "KK99K", bet: 930, hand_type: FullHose }
+Hand Hand { hand: "94499", bet: 864, hand_type: FullHose }
+Hand Hand { hand: "7K7Q7", bet: 275, hand_type: ThreeOfAKind }
+Hand Hand { hand: "88A88", bet: 210, hand_type: FourOfAKind }
+Hand Hand { hand: "37837", bet: 458, hand_type: TwoPair }
+Hand Hand { hand: "A447A", bet: 931, hand_type: TwoPair }
+Hand Hand { hand: "AAA66", bet: 643, hand_type: FullHose }
+Hand Hand { hand: "66667", bet: 887, hand_type: FourOfAKind }
+Hand Hand { hand: "733A8", bet: 819, hand_type: OnePair }
+Hand Hand { hand: "3792Q", bet: 602, hand_type: HighCard }
+Hand Hand { hand: "J4532", bet: 41, hand_type: OnePair }
+Hand Hand { hand: "6869Q", bet: 611, hand_type: OnePair }
+Hand Hand { hand: "KJQKQ", bet: 894, hand_type: ThreeOfAKind }
+Hand Hand { hand: "AJQ87", bet: 38, hand_type: OnePair }
+Hand Hand { hand: "39A74", bet: 941, hand_type: HighCard }
+Hand Hand { hand: "282JJ", bet: 345, hand_type: FourOfAKind }
+Hand Hand { hand: "88Q73", bet: 251, hand_type: OnePair }
+Hand Hand { hand: "77595", bet: 256, hand_type: TwoPair }
+Hand Hand { hand: "22777", bet: 124, hand_type: FullHose }
+Hand Hand { hand: "94299", bet: 358, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TTTT4", bet: 489, hand_type: FourOfAKind }
+Hand Hand { hand: "QQJ44", bet: 825, hand_type: ThreeOfAKind }
+Hand Hand { hand: "58K24", bet: 466, hand_type: HighCard }
+Hand Hand { hand: "92AA9", bet: 111, hand_type: TwoPair }
+Hand Hand { hand: "6368T", bet: 27, hand_type: OnePair }
+Hand Hand { hand: "8JT75", bet: 405, hand_type: OnePair }
+Hand Hand { hand: "876K3", bet: 607, hand_type: HighCard }
+Hand Hand { hand: "2A8Q7", bet: 361, hand_type: HighCard }
+Hand Hand { hand: "9QAK5", bet: 923, hand_type: HighCard }
+Hand Hand { hand: "J666J", bet: 312, hand_type: FiveOfAKind }
+Hand Hand { hand: "A9Q74", bet: 155, hand_type: HighCard }
+Hand Hand { hand: "32242", bet: 202, hand_type: ThreeOfAKind }
+Hand Hand { hand: "999A5", bet: 559, hand_type: ThreeOfAKind }
+Hand Hand { hand: "77772", bet: 427, hand_type: FourOfAKind }
+Hand Hand { hand: "2QJJQ", bet: 333, hand_type: FourOfAKind }
+Hand Hand { hand: "Q222T", bet: 157, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3QQQJ", bet: 366, hand_type: FourOfAKind }
+Hand Hand { hand: "J6225", bet: 401, hand_type: ThreeOfAKind }
+Hand Hand { hand: "33334", bet: 440, hand_type: FourOfAKind }
+Hand Hand { hand: "443K6", bet: 268, hand_type: OnePair }
+Hand Hand { hand: "25Q73", bet: 352, hand_type: HighCard }
+Hand Hand { hand: "56565", bet: 879, hand_type: FullHose }
+Hand Hand { hand: "84TAQ", bet: 387, hand_type: HighCard }
+Hand Hand { hand: "79777", bet: 861, hand_type: FourOfAKind }
+Hand Hand { hand: "666AT", bet: 811, hand_type: ThreeOfAKind }
+Hand Hand { hand: "7A97A", bet: 235, hand_type: TwoPair }
+Hand Hand { hand: "2K6KJ", bet: 859, hand_type: ThreeOfAKind }
+Hand Hand { hand: "9J993", bet: 281, hand_type: FourOfAKind }
+Hand Hand { hand: "Q8TK9", bet: 808, hand_type: HighCard }
+Hand Hand { hand: "56429", bet: 98, hand_type: HighCard }
+Hand Hand { hand: "3JJT6", bet: 77, hand_type: ThreeOfAKind }
+Hand Hand { hand: "22383", bet: 905, hand_type: TwoPair }
+Hand Hand { hand: "5A683", bet: 907, hand_type: HighCard }
+Hand Hand { hand: "8KJKK", bet: 267, hand_type: FourOfAKind }
+Hand Hand { hand: "33T38", bet: 168, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5865K", bet: 615, hand_type: OnePair }
+Hand Hand { hand: "6QQQ3", bet: 399, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5AQ82", bet: 340, hand_type: HighCard }
+Hand Hand { hand: "QK7QK", bet: 720, hand_type: TwoPair }
+Hand Hand { hand: "74474", bet: 347, hand_type: FullHose }
+Hand Hand { hand: "J5693", bet: 589, hand_type: OnePair }
+Hand Hand { hand: "JAAQ9", bet: 623, hand_type: ThreeOfAKind }
+Hand Hand { hand: "22267", bet: 417, hand_type: ThreeOfAKind }
+Hand Hand { hand: "8T88Q", bet: 29, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J2422", bet: 527, hand_type: FourOfAKind }
+Hand Hand { hand: "6A5AA", bet: 110, hand_type: ThreeOfAKind }
+Hand Hand { hand: "23J33", bet: 612, hand_type: FourOfAKind }
+Hand Hand { hand: "2Q997", bet: 289, hand_type: OnePair }
+Hand Hand { hand: "5T564", bet: 967, hand_type: OnePair }
+Hand Hand { hand: "KQ52Q", bet: 214, hand_type: OnePair }
+Hand Hand { hand: "9J53T", bet: 175, hand_type: OnePair }
+Hand Hand { hand: "6TT76", bet: 982, hand_type: TwoPair }
+Hand Hand { hand: "44QKQ", bet: 201, hand_type: TwoPair }
+Hand Hand { hand: "32633", bet: 911, hand_type: ThreeOfAKind }
+Hand Hand { hand: "KAAJK", bet: 634, hand_type: ThreeOfAKind }
+Hand Hand { hand: "75J57", bet: 49, hand_type: ThreeOfAKind }
+Hand Hand { hand: "66668", bet: 901, hand_type: FourOfAKind }
+Hand Hand { hand: "6QJK6", bet: 494, hand_type: ThreeOfAKind }
+Hand Hand { hand: "J9K66", bet: 12, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JKK6K", bet: 5, hand_type: FourOfAKind }
+Hand Hand { hand: "J3869", bet: 82, hand_type: OnePair }
+Hand Hand { hand: "QQ7QQ", bet: 740, hand_type: FourOfAKind }
+Hand Hand { hand: "KKK46", bet: 934, hand_type: ThreeOfAKind }
+Hand Hand { hand: "56646", bet: 367, hand_type: ThreeOfAKind }
+Hand Hand { hand: "Q5433", bet: 486, hand_type: OnePair }
+Hand Hand { hand: "88636", bet: 954, hand_type: TwoPair }
+Hand Hand { hand: "J8277", bet: 100, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K5566", bet: 343, hand_type: TwoPair }
+Hand Hand { hand: "666A6", bet: 190, hand_type: FourOfAKind }
+Hand Hand { hand: "KKJKK", bet: 375, hand_type: FiveOfAKind }
+Hand Hand { hand: "3J322", bet: 259, hand_type: ThreeOfAKind }
+Hand Hand { hand: "3K9J4", bet: 360, hand_type: OnePair }
+Hand Hand { hand: "888A6", bet: 584, hand_type: ThreeOfAKind }
+Hand Hand { hand: "66865", bet: 708, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T2JQ2", bet: 722, hand_type: ThreeOfAKind }
+Hand Hand { hand: "JJ393", bet: 632, hand_type: FourOfAKind }
+Hand Hand { hand: "77TT7", bet: 834, hand_type: FullHose }
+Hand Hand { hand: "22Q82", bet: 57, hand_type: ThreeOfAKind }
+Hand Hand { hand: "97AJA", bet: 785, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QQ9QQ", bet: 501, hand_type: FourOfAKind }
+Hand Hand { hand: "6AA6K", bet: 580, hand_type: TwoPair }
+Hand Hand { hand: "53353", bet: 956, hand_type: FullHose }
+Hand Hand { hand: "J8JKQ", bet: 6, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QAA7T", bet: 671, hand_type: OnePair }
+Hand Hand { hand: "A3T5K", bet: 891, hand_type: HighCard }
+Hand Hand { hand: "4QKJJ", bet: 795, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5T333", bet: 91, hand_type: ThreeOfAKind }
+Hand Hand { hand: "887A8", bet: 997, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5K57J", bet: 796, hand_type: ThreeOfAKind }
+Hand Hand { hand: "AQ763", bet: 595, hand_type: HighCard }
+Hand Hand { hand: "QT777", bet: 995, hand_type: ThreeOfAKind }
+Hand Hand { hand: "29J45", bet: 996, hand_type: OnePair }
+Hand Hand { hand: "76262", bet: 130, hand_type: TwoPair }
+Hand Hand { hand: "696K9", bet: 961, hand_type: TwoPair }
+Hand Hand { hand: "6A65K", bet: 197, hand_type: OnePair }
+Hand Hand { hand: "34838", bet: 512, hand_type: TwoPair }
+Hand Hand { hand: "4299K", bet: 193, hand_type: OnePair }
+Hand Hand { hand: "K3J37", bet: 985, hand_type: ThreeOfAKind }
+Hand Hand { hand: "9922A", bet: 881, hand_type: TwoPair }
+Hand Hand { hand: "5TT8T", bet: 134, hand_type: ThreeOfAKind }
+Hand Hand { hand: "44Q45", bet: 504, hand_type: ThreeOfAKind }
+Hand Hand { hand: "438K8", bet: 133, hand_type: OnePair }
+Hand Hand { hand: "JA788", bet: 459, hand_type: ThreeOfAKind }
+Hand Hand { hand: "KKAAK", bet: 900, hand_type: FullHose }
+Hand Hand { hand: "44222", bet: 445, hand_type: FullHose }
+Hand Hand { hand: "8TJTK", bet: 468, hand_type: ThreeOfAKind }
+Hand Hand { hand: "6664K", bet: 337, hand_type: ThreeOfAKind }
+Hand Hand { hand: "28JK3", bet: 850, hand_type: OnePair }
+Hand Hand { hand: "TJ44J", bet: 832, hand_type: FourOfAKind }
+Hand Hand { hand: "57932", bet: 957, hand_type: HighCard }
+Hand Hand { hand: "T2AJ4", bet: 409, hand_type: OnePair }
+Hand Hand { hand: "TA596", bet: 635, hand_type: HighCard }
+Hand Hand { hand: "87839", bet: 23, hand_type: OnePair }
+Hand Hand { hand: "A2722", bet: 248, hand_type: ThreeOfAKind }
+Hand Hand { hand: "K7777", bet: 543, hand_type: FourOfAKind }
+Hand Hand { hand: "638T9", bet: 966, hand_type: HighCard }
+Hand Hand { hand: "55A32", bet: 471, hand_type: OnePair }
+Hand Hand { hand: "69JJ3", bet: 893, hand_type: ThreeOfAKind }
+Hand Hand { hand: "253KK", bet: 676, hand_type: OnePair }
+Hand Hand { hand: "Q8Q3T", bet: 63, hand_type: OnePair }
+Hand Hand { hand: "J4K7K", bet: 712, hand_type: ThreeOfAKind }
+Hand Hand { hand: "9999A", bet: 20, hand_type: FourOfAKind }
+Hand Hand { hand: "868KK", bet: 257, hand_type: TwoPair }
+Hand Hand { hand: "27354", bet: 266, hand_type: HighCard }
+Hand Hand { hand: "75K75", bet: 687, hand_type: TwoPair }
+Hand Hand { hand: "AAAAQ", bet: 400, hand_type: FourOfAKind }
+Hand Hand { hand: "5252Q", bet: 169, hand_type: TwoPair }
+Hand Hand { hand: "2TT62", bet: 517, hand_type: TwoPair }
+Hand Hand { hand: "34J4J", bet: 974, hand_type: FourOfAKind }
+Hand Hand { hand: "TAQ99", bet: 112, hand_type: OnePair }
+Hand Hand { hand: "58J6T", bet: 452, hand_type: OnePair }
+Hand Hand { hand: "82T58", bet: 392, hand_type: OnePair }
+Hand Hand { hand: "65J62", bet: 732, hand_type: ThreeOfAKind }
+Hand Hand { hand: "5T445", bet: 263, hand_type: TwoPair }
+Hand Hand { hand: "AKATA", bet: 640, hand_type: ThreeOfAKind }
+Hand Hand { hand: "QJT55", bet: 329, hand_type: ThreeOfAKind }
+Hand Hand { hand: "T4449", bet: 342, hand_type: ThreeOfAKind }
+Hand Hand { hand: "A567A", bet: 647, hand_type: OnePair }
+Hand Hand { hand: "A2T36", bet: 833, hand_type: HighCard }
+Hand Hand { hand: "J742T", bet: 799, hand_type: OnePair }
+Hand Hand { hand: "KA64T", bet: 395, hand_type: HighCard }
+Hand Hand { hand: "Q4257", bet: 989, hand_type: HighCard }
+Hand Hand { hand: "99993", bet: 223, hand_type: FourOfAKind }
+Hand Hand { hand: "TJTT9", bet: 425, hand_type: FourOfAKind }
+Hand Hand { hand: "8KAKQ", bet: 648, hand_type: OnePair }
+Hand Hand { hand: "2J4K5", bet: 842, hand_type: OnePair }
+Hand Hand { hand: "43J34", bet: 151, hand_type: ThreeOfAKind }
+Hand Hand { hand: "9Q949", bet: 636, hand_type: ThreeOfAKind }
+Hand Hand { hand: "KK4K4", bet: 229, hand_type: FullHose }
+Hand Hand { hand: "7757T", bet: 385, hand_type: ThreeOfAKind }
+Hand Hand { hand: "4J774", bet: 421, hand_type: ThreeOfAKind }
+Hand Hand { hand: "9QKAQ", bet: 79, hand_type: OnePair }
+Hand Hand { hand: "469TA", bet: 965, hand_type: HighCard }
+Hand Hand { hand: "K63J9", bet: 164, hand_type: OnePair }
+Hand Hand { hand: "3AT43", bet: 874, hand_type: OnePair }
+Hand Hand { hand: "4JKQ6", bet: 664, hand_type: OnePair }
+Hand Hand { hand: "373Q3", bet: 791, hand_type: ThreeOfAKind }
+Hand Hand { hand: "KK66Q", bet: 377, hand_type: TwoPair }
+Hand Hand { hand: "77JQ7", bet: 596, hand_type: FourOfAKind }
+Hand Hand { hand: "8JAA8", bet: 658, hand_type: ThreeOfAKind }
+Hand Hand { hand: "TJT3T", bet: 447, hand_type: FourOfAKind }
+Hand Hand { hand: "A5555", bet: 119, hand_type: FourOfAKind }
+Hand Hand { hand: "8486J", bet: 768, hand_type: ThreeOfAKind }
+Hand Hand { hand: "58289", bet: 904, hand_type: OnePair }
+Hand Hand { hand: "9T999", bet: 642, hand_type: FourOfAKind }
+Hand Hand { hand: "44JK4", bet: 472, hand_type: FourOfAKind }
+Hand Hand { hand: "A752Q", bet: 672, hand_type: HighCard }
+Hand Hand { hand: "36TA8", bet: 906, hand_type: HighCard }
+Hand Hand { hand: "84824", bet: 403, hand_type: TwoPair }
+Hand: Hand { hand: "2468T", bet: 910, hand_type: HighCard } math 910 * 1
+Hand: Hand { hand: "2567Q", bet: 176, hand_type: HighCard } math 176 * 2
+Hand: Hand { hand: "25Q73", bet: 352, hand_type: HighCard } math 352 * 3
+Hand: Hand { hand: "27354", bet: 266, hand_type: HighCard } math 266 * 4
+Hand: Hand { hand: "275Q9", bet: 84, hand_type: HighCard } math 84 * 5
+Hand: Hand { hand: "2976A", bet: 227, hand_type: HighCard } math 227 * 6
+Hand: Hand { hand: "29KTA", bet: 173, hand_type: HighCard } math 173 * 7
+Hand: Hand { hand: "2Q4A9", bet: 198, hand_type: HighCard } math 198 * 8
+Hand: Hand { hand: "2QTK5", bet: 456, hand_type: HighCard } math 456 * 9
+Hand: Hand { hand: "2K5A3", bet: 154, hand_type: HighCard } math 154 * 10
+Hand: Hand { hand: "2A8Q7", bet: 361, hand_type: HighCard } math 361 * 11
+Hand: Hand { hand: "32A95", bet: 925, hand_type: HighCard } math 925 * 12
+Hand: Hand { hand: "35KQT", bet: 233, hand_type: HighCard } math 233 * 13
+Hand: Hand { hand: "36874", bet: 356, hand_type: HighCard } math 356 * 14
+Hand: Hand { hand: "36TA8", bet: 906, hand_type: HighCard } math 906 * 15
+Hand: Hand { hand: "3792Q", bet: 602, hand_type: HighCard } math 602 * 16
+Hand: Hand { hand: "37QTA", bet: 747, hand_type: HighCard } math 747 * 17
+Hand: Hand { hand: "385K9", bet: 217, hand_type: HighCard } math 217 * 18
+Hand: Hand { hand: "38Q65", bet: 619, hand_type: HighCard } math 619 * 19
+Hand: Hand { hand: "39A2T", bet: 523, hand_type: HighCard } math 523 * 20
+Hand: Hand { hand: "39A74", bet: 941, hand_type: HighCard } math 941 * 21
+Hand: Hand { hand: "3K2QA", bet: 274, hand_type: HighCard } math 274 * 22
+Hand: Hand { hand: "3K695", bet: 801, hand_type: HighCard } math 801 * 23
+Hand: Hand { hand: "3KT64", bet: 245, hand_type: HighCard } math 245 * 24
+Hand: Hand { hand: "3A9Q5", bet: 215, hand_type: HighCard } math 215 * 25
+Hand: Hand { hand: "43962", bet: 51, hand_type: HighCard } math 51 * 26
+Hand: Hand { hand: "45K62", bet: 674, hand_type: HighCard } math 674 * 27
+Hand: Hand { hand: "469TA", bet: 965, hand_type: HighCard } math 965 * 28
+Hand: Hand { hand: "4753Q", bet: 209, hand_type: HighCard } math 209 * 29
+Hand: Hand { hand: "479Q2", bet: 731, hand_type: HighCard } math 731 * 30
+Hand: Hand { hand: "47T62", bet: 393, hand_type: HighCard } math 393 * 31
+Hand: Hand { hand: "47K83", bet: 536, hand_type: HighCard } math 536 * 32
+Hand: Hand { hand: "48726", bet: 782, hand_type: HighCard } math 782 * 33
+Hand: Hand { hand: "4T25A", bet: 423, hand_type: HighCard } math 423 * 34
+Hand: Hand { hand: "4Q372", bet: 525, hand_type: HighCard } math 525 * 35
+Hand: Hand { hand: "4Q69T", bet: 52, hand_type: HighCard } math 52 * 36
+Hand: Hand { hand: "529K6", bet: 236, hand_type: HighCard } math 236 * 37
+Hand: Hand { hand: "52Q49", bet: 707, hand_type: HighCard } math 707 * 38
+Hand: Hand { hand: "56429", bet: 98, hand_type: HighCard } math 98 * 39
+Hand: Hand { hand: "574A9", bet: 442, hand_type: HighCard } math 442 * 40
+Hand: Hand { hand: "57932", bet: 957, hand_type: HighCard } math 957 * 41
+Hand: Hand { hand: "58K24", bet: 466, hand_type: HighCard } math 466 * 42
+Hand: Hand { hand: "5927A", bet: 621, hand_type: HighCard } math 621 * 43
+Hand: Hand { hand: "5A683", bet: 907, hand_type: HighCard } math 907 * 44
+Hand: Hand { hand: "5AQ82", bet: 340, hand_type: HighCard } math 340 * 45
+Hand: Hand { hand: "62573", bet: 772, hand_type: HighCard } math 772 * 46
+Hand: Hand { hand: "638T9", bet: 966, hand_type: HighCard } math 966 * 47
+Hand: Hand { hand: "64QK7", bet: 191, hand_type: HighCard } math 191 * 48
+Hand: Hand { hand: "65K7A", bet: 717, hand_type: HighCard } math 717 * 49
+Hand: Hand { hand: "67594", bet: 467, hand_type: HighCard } math 467 * 50
+Hand: Hand { hand: "682A5", bet: 728, hand_type: HighCard } math 728 * 51
+Hand: Hand { hand: "693QA", bet: 218, hand_type: HighCard } math 218 * 52
+Hand: Hand { hand: "697KT", bet: 524, hand_type: HighCard } math 524 * 53
+Hand: Hand { hand: "6T3AK", bet: 661, hand_type: HighCard } math 661 * 54
+Hand: Hand { hand: "6T52Q", bet: 657, hand_type: HighCard } math 657 * 55
+Hand: Hand { hand: "6QA9T", bet: 570, hand_type: HighCard } math 570 * 56
+Hand: Hand { hand: "6K257", bet: 228, hand_type: HighCard } math 228 * 57
+Hand: Hand { hand: "6K4Q8", bet: 849, hand_type: HighCard } math 849 * 58
+Hand: Hand { hand: "6A4T5", bet: 165, hand_type: HighCard } math 165 * 59
+Hand: Hand { hand: "7285A", bet: 578, hand_type: HighCard } math 578 * 60
+Hand: Hand { hand: "72T5K", bet: 247, hand_type: HighCard } math 247 * 61
+Hand: Hand { hand: "74329", bet: 221, hand_type: HighCard } math 221 * 62
+Hand: Hand { hand: "74T52", bet: 637, hand_type: HighCard } math 637 * 63
+Hand: Hand { hand: "74QT5", bet: 852, hand_type: HighCard } math 852 * 64
+Hand: Hand { hand: "7543T", bet: 206, hand_type: HighCard } math 206 * 65
+Hand: Hand { hand: "76853", bet: 986, hand_type: HighCard } math 986 * 66
+Hand: Hand { hand: "7698Q", bet: 583, hand_type: HighCard } math 583 * 67
+Hand: Hand { hand: "76TAK", bet: 617, hand_type: HighCard } math 617 * 68
+Hand: Hand { hand: "7862T", bet: 753, hand_type: HighCard } math 753 * 69
+Hand: Hand { hand: "7TK6Q", bet: 886, hand_type: HighCard } math 886 * 70
+Hand: Hand { hand: "7K5QT", bet: 978, hand_type: HighCard } math 978 * 71
+Hand: Hand { hand: "7K8T5", bet: 970, hand_type: HighCard } math 970 * 72
+Hand: Hand { hand: "83A5K", bet: 807, hand_type: HighCard } math 807 * 73
+Hand: Hand { hand: "84TAQ", bet: 387, hand_type: HighCard } math 387 * 74
+Hand: Hand { hand: "876K3", bet: 607, hand_type: HighCard } math 607 * 75
+Hand: Hand { hand: "879A6", bet: 18, hand_type: HighCard } math 18 * 76
+Hand: Hand { hand: "87Q5T", bet: 749, hand_type: HighCard } math 749 * 77
+Hand: Hand { hand: "89247", bet: 883, hand_type: HighCard } math 883 * 78
+Hand: Hand { hand: "89A34", bet: 955, hand_type: HighCard } math 955 * 79
+Hand: Hand { hand: "8T39A", bet: 495, hand_type: HighCard } math 495 * 80
+Hand: Hand { hand: "8TQ27", bet: 4, hand_type: HighCard } math 4 * 81
+Hand: Hand { hand: "8Q594", bet: 90, hand_type: HighCard } math 90 * 82
+Hand: Hand { hand: "8QT67", bet: 711, hand_type: HighCard } math 711 * 83
+Hand: Hand { hand: "8K3QA", bet: 75, hand_type: HighCard } math 75 * 84
+Hand: Hand { hand: "8A45T", bet: 948, hand_type: HighCard } math 948 * 85
+Hand: Hand { hand: "8AQ74", bet: 213, hand_type: HighCard } math 213 * 86
+Hand: Hand { hand: "924QK", bet: 288, hand_type: HighCard } math 288 * 87
+Hand: Hand { hand: "94Q68", bet: 129, hand_type: HighCard } math 129 * 88
+Hand: Hand { hand: "9586T", bet: 844, hand_type: HighCard } math 844 * 89
+Hand: Hand { hand: "9628A", bet: 81, hand_type: HighCard } math 81 * 90
+Hand: Hand { hand: "97Q6T", bet: 803, hand_type: HighCard } math 803 * 91
+Hand: Hand { hand: "9QAK5", bet: 923, hand_type: HighCard } math 923 * 92
+Hand: Hand { hand: "9K7Q2", bet: 211, hand_type: HighCard } math 211 * 93
+Hand: Hand { hand: "9KT7Q", bet: 511, hand_type: HighCard } math 511 * 94
+Hand: Hand { hand: "T3598", bet: 30, hand_type: HighCard } math 30 * 95
+Hand: Hand { hand: "T4Q59", bet: 382, hand_type: HighCard } math 382 * 96
+Hand: Hand { hand: "T5K8A", bet: 670, hand_type: HighCard } math 670 * 97
+Hand: Hand { hand: "T9432", bet: 426, hand_type: HighCard } math 426 * 98
+Hand: Hand { hand: "T9A26", bet: 262, hand_type: HighCard } math 262 * 99
+Hand: Hand { hand: "TK659", bet: 824, hand_type: HighCard } math 824 * 100
+Hand: Hand { hand: "TK852", bet: 104, hand_type: HighCard } math 104 * 101
+Hand: Hand { hand: "TK9A8", bet: 485, hand_type: HighCard } math 485 * 102
+Hand: Hand { hand: "TA376", bet: 480, hand_type: HighCard } math 480 * 103
+Hand: Hand { hand: "TA39K", bet: 461, hand_type: HighCard } math 461 * 104
+Hand: Hand { hand: "TA596", bet: 635, hand_type: HighCard } math 635 * 105
+Hand: Hand { hand: "Q4257", bet: 989, hand_type: HighCard } math 989 * 106
+Hand: Hand { hand: "Q5982", bet: 604, hand_type: HighCard } math 604 * 107
+Hand: Hand { hand: "Q6579", bet: 126, hand_type: HighCard } math 126 * 108
+Hand: Hand { hand: "Q82K5", bet: 691, hand_type: HighCard } math 691 * 109
+Hand: Hand { hand: "Q8TK9", bet: 808, hand_type: HighCard } math 808 * 110
+Hand: Hand { hand: "Q96T2", bet: 699, hand_type: HighCard } math 699 * 111
+Hand: Hand { hand: "QT3KA", bet: 200, hand_type: HighCard } math 200 * 112
+Hand: Hand { hand: "QA79K", bet: 526, hand_type: HighCard } math 526 * 113
+Hand: Hand { hand: "QAT94", bet: 132, hand_type: HighCard } math 132 * 114
+Hand: Hand { hand: "K2TQA", bet: 774, hand_type: HighCard } math 774 * 115
+Hand: Hand { hand: "K3T65", bet: 113, hand_type: HighCard } math 113 * 116
+Hand: Hand { hand: "K6352", bet: 487, hand_type: HighCard } math 487 * 117
+Hand: Hand { hand: "K8239", bet: 238, hand_type: HighCard } math 238 * 118
+Hand: Hand { hand: "K8267", bet: 884, hand_type: HighCard } math 884 * 119
+Hand: Hand { hand: "K87Q5", bet: 180, hand_type: HighCard } math 180 * 120
+Hand: Hand { hand: "K96T8", bet: 548, hand_type: HighCard } math 548 * 121
+Hand: Hand { hand: "KQ937", bet: 697, hand_type: HighCard } math 697 * 122
+Hand: Hand { hand: "KA64T", bet: 395, hand_type: HighCard } math 395 * 123
+Hand: Hand { hand: "A28T6", bet: 187, hand_type: HighCard } math 187 * 124
+Hand: Hand { hand: "A2T36", bet: 833, hand_type: HighCard } math 833 * 125
+Hand: Hand { hand: "A3629", bet: 153, hand_type: HighCard } math 153 * 126
+Hand: Hand { hand: "A3647", bet: 625, hand_type: HighCard } math 625 * 127
+Hand: Hand { hand: "A3954", bet: 244, hand_type: HighCard } math 244 * 128
+Hand: Hand { hand: "A3T5K", bet: 891, hand_type: HighCard } math 891 * 129
+Hand: Hand { hand: "A6834", bet: 273, hand_type: HighCard } math 273 * 130
+Hand: Hand { hand: "A752Q", bet: 672, hand_type: HighCard } math 672 * 131
+Hand: Hand { hand: "A7853", bet: 16, hand_type: HighCard } math 16 * 132
+Hand: Hand { hand: "A7T95", bet: 465, hand_type: HighCard } math 465 * 133
+Hand: Hand { hand: "A85T2", bet: 80, hand_type: HighCard } math 80 * 134
+Hand: Hand { hand: "A8T24", bet: 475, hand_type: HighCard } math 475 * 135
+Hand: Hand { hand: "A9Q74", bet: 155, hand_type: HighCard } math 155 * 136
+Hand: Hand { hand: "A9K63", bet: 34, hand_type: HighCard } math 34 * 137
+Hand: Hand { hand: "AQ763", bet: 595, hand_type: HighCard } math 595 * 138
+Hand: Hand { hand: "AK48T", bet: 243, hand_type: HighCard } math 243 * 139
+Hand: Hand { hand: "J2783", bet: 723, hand_type: OnePair } math 723 * 140
+Hand: Hand { hand: "J3869", bet: 82, hand_type: OnePair } math 82 * 141
+Hand: Hand { hand: "J4389", bet: 979, hand_type: OnePair } math 979 * 142
+Hand: Hand { hand: "J4532", bet: 41, hand_type: OnePair } math 41 * 143
+Hand: Hand { hand: "J4596", bet: 867, hand_type: OnePair } math 867 * 144
+Hand: Hand { hand: "J4Q9A", bet: 323, hand_type: OnePair } math 323 * 145
+Hand: Hand { hand: "J5693", bet: 589, hand_type: OnePair } math 589 * 146
+Hand: Hand { hand: "J5TQ9", bet: 660, hand_type: OnePair } math 660 * 147
+Hand: Hand { hand: "J5Q2K", bet: 322, hand_type: OnePair } math 322 * 148
+Hand: Hand { hand: "J65KA", bet: 764, hand_type: OnePair } math 764 * 149
+Hand: Hand { hand: "J6879", bet: 117, hand_type: OnePair } math 117 * 150
+Hand: Hand { hand: "J742T", bet: 799, hand_type: OnePair } math 799 * 151
+Hand: Hand { hand: "J826A", bet: 863, hand_type: OnePair } math 863 * 152
+Hand: Hand { hand: "J8673", bet: 103, hand_type: OnePair } math 103 * 153
+Hand: Hand { hand: "J935A", bet: 431, hand_type: OnePair } math 431 * 154
+Hand: Hand { hand: "J9QK5", bet: 292, hand_type: OnePair } math 292 * 155
+Hand: Hand { hand: "JT5K8", bet: 929, hand_type: OnePair } math 929 * 156
+Hand: Hand { hand: "JT8A6", bet: 184, hand_type: OnePair } math 184 * 157
+Hand: Hand { hand: "JT938", bet: 981, hand_type: OnePair } math 981 * 158
+Hand: Hand { hand: "JAK59", bet: 784, hand_type: OnePair } math 784 * 159
+Hand: Hand { hand: "2J4K5", bet: 842, hand_type: OnePair } math 842 * 160
+Hand: Hand { hand: "2JQ64", bet: 139, hand_type: OnePair } math 139 * 161
+Hand: Hand { hand: "2334Q", bet: 439, hand_type: OnePair } math 439 * 162
+Hand: Hand { hand: "253KK", bet: 676, hand_type: OnePair } math 676 * 163
+Hand: Hand { hand: "26J4K", bet: 624, hand_type: OnePair } math 624 * 164
+Hand: Hand { hand: "26AKK", bet: 474, hand_type: OnePair } math 474 * 165
+Hand: Hand { hand: "2779T", bet: 566, hand_type: OnePair } math 566 * 166
+Hand: Hand { hand: "27873", bet: 69, hand_type: OnePair } math 69 * 167
+Hand: Hand { hand: "27TQT", bet: 507, hand_type: OnePair } math 507 * 168
+Hand: Hand { hand: "28JK3", bet: 850, hand_type: OnePair } math 850 * 169
+Hand: Hand { hand: "29J45", bet: 996, hand_type: OnePair } math 996 * 170
+Hand: Hand { hand: "29JT5", bet: 204, hand_type: OnePair } math 204 * 171
+Hand: Hand { hand: "2T6T5", bet: 522, hand_type: OnePair } math 522 * 172
+Hand: Hand { hand: "2TQT5", bet: 765, hand_type: OnePair } math 765 * 173
+Hand: Hand { hand: "2Q997", bet: 289, hand_type: OnePair } math 289 * 174
+Hand: Hand { hand: "2K337", bet: 977, hand_type: OnePair } math 977 * 175
+Hand: Hand { hand: "2AJ47", bet: 644, hand_type: OnePair } math 644 * 176
+Hand: Hand { hand: "2A8AT", bet: 847, hand_type: OnePair } math 847 * 177
+Hand: Hand { hand: "3J265", bet: 574, hand_type: OnePair } math 574 * 178
+Hand: Hand { hand: "32JA6", bet: 335, hand_type: OnePair } math 335 * 179
+Hand: Hand { hand: "35JQ9", bet: 951, hand_type: OnePair } math 951 * 180
+Hand: Hand { hand: "35AKJ", bet: 682, hand_type: OnePair } math 682 * 181
+Hand: Hand { hand: "3664T", bet: 940, hand_type: OnePair } math 940 * 182
+Hand: Hand { hand: "36T6K", bet: 294, hand_type: OnePair } math 294 * 183
+Hand: Hand { hand: "36KK9", bet: 457, hand_type: OnePair } math 457 * 184
+Hand: Hand { hand: "3722T", bet: 391, hand_type: OnePair } math 391 * 185
+Hand: Hand { hand: "376A7", bet: 781, hand_type: OnePair } math 781 * 186
+Hand: Hand { hand: "37828", bet: 279, hand_type: OnePair } math 279 * 187
+Hand: Hand { hand: "38JAK", bet: 748, hand_type: OnePair } math 748 * 188
+Hand: Hand { hand: "38696", bet: 320, hand_type: OnePair } math 320 * 189
+Hand: Hand { hand: "39JQ8", bet: 319, hand_type: OnePair } math 319 * 190
+Hand: Hand { hand: "398A8", bet: 310, hand_type: OnePair } math 310 * 191
+Hand: Hand { hand: "3T263", bet: 756, hand_type: OnePair } math 756 * 192
+Hand: Hand { hand: "3K566", bet: 505, hand_type: OnePair } math 505 * 193
+Hand: Hand { hand: "3K6QQ", bet: 94, hand_type: OnePair } math 94 * 194
+Hand: Hand { hand: "3K9J4", bet: 360, hand_type: OnePair } math 360 * 195
+Hand: Hand { hand: "3KA22", bet: 835, hand_type: OnePair } math 835 * 196
+Hand: Hand { hand: "3AT43", bet: 874, hand_type: OnePair } math 874 * 197
+Hand: Hand { hand: "4JK3T", bet: 920, hand_type: OnePair } math 920 * 198
+Hand: Hand { hand: "4JKQ6", bet: 664, hand_type: OnePair } math 664 * 199
+Hand: Hand { hand: "42877", bet: 96, hand_type: OnePair } math 96 * 200
+Hand: Hand { hand: "4299K", bet: 193, hand_type: OnePair } math 193 * 201
+Hand: Hand { hand: "438K8", bet: 133, hand_type: OnePair } math 133 * 202
+Hand: Hand { hand: "443K6", bet: 268, hand_type: OnePair } math 268 * 203
+Hand: Hand { hand: "45226", bet: 261, hand_type: OnePair } math 261 * 204
+Hand: Hand { hand: "47J8K", bet: 162, hand_type: OnePair } math 162 * 205
+Hand: Hand { hand: "47762", bet: 550, hand_type: OnePair } math 550 * 206
+Hand: Hand { hand: "48J6Q", bet: 67, hand_type: OnePair } math 67 * 207
+Hand: Hand { hand: "484A6", bet: 716, hand_type: OnePair } math 716 * 208
+Hand: Hand { hand: "48K45", bet: 575, hand_type: OnePair } math 575 * 209
+Hand: Hand { hand: "49T88", bet: 541, hand_type: OnePair } math 541 * 210
+Hand: Hand { hand: "4T493", bet: 189, hand_type: OnePair } math 189 * 211
+Hand: Hand { hand: "4T53T", bet: 646, hand_type: OnePair } math 646 * 212
+Hand: Hand { hand: "4Q82Q", bet: 287, hand_type: OnePair } math 287 * 213
+Hand: Hand { hand: "4QKKT", bet: 603, hand_type: OnePair } math 603 * 214
+Hand: Hand { hand: "4K559", bet: 993, hand_type: OnePair } math 993 * 215
+Hand: Hand { hand: "4A234", bet: 572, hand_type: OnePair } math 572 * 216
+Hand: Hand { hand: "5J7Q6", bet: 270, hand_type: OnePair } math 270 * 217
+Hand: Hand { hand: "5JA96", bet: 702, hand_type: OnePair } math 702 * 218
+Hand: Hand { hand: "52K9K", bet: 980, hand_type: OnePair } math 980 * 219
+Hand: Hand { hand: "532AA", bet: 384, hand_type: OnePair } math 384 * 220
+Hand: Hand { hand: "53T9T", bet: 414, hand_type: OnePair } math 414 * 221
+Hand: Hand { hand: "55K3T", bet: 152, hand_type: OnePair } math 152 * 222
+Hand: Hand { hand: "55A32", bet: 471, hand_type: OnePair } math 471 * 223
+Hand: Hand { hand: "56JQK", bet: 424, hand_type: OnePair } math 424 * 224
+Hand: Hand { hand: "5692J", bet: 21, hand_type: OnePair } math 21 * 225
+Hand: Hand { hand: "56T58", bet: 476, hand_type: OnePair } math 476 * 226
+Hand: Hand { hand: "57549", bet: 592, hand_type: OnePair } math 592 * 227
+Hand: Hand { hand: "57QJ2", bet: 579, hand_type: OnePair } math 579 * 228
+Hand: Hand { hand: "58J6T", bet: 452, hand_type: OnePair } math 452 * 229
+Hand: Hand { hand: "582J9", bet: 627, hand_type: OnePair } math 627 * 230
+Hand: Hand { hand: "58289", bet: 904, hand_type: OnePair } math 904 * 231
+Hand: Hand { hand: "5865K", bet: 615, hand_type: OnePair } math 615 * 232
+Hand: Hand { hand: "5998Q", bet: 992, hand_type: OnePair } math 992 * 233
+Hand: Hand { hand: "5T45Q", bet: 318, hand_type: OnePair } math 318 * 234
+Hand: Hand { hand: "5T564", bet: 967, hand_type: OnePair } math 967 * 235
+Hand: Hand { hand: "5TQ8Q", bet: 143, hand_type: OnePair } math 143 * 236
+Hand: Hand { hand: "5K33T", bet: 555, hand_type: OnePair } math 555 * 237
+Hand: Hand { hand: "629KJ", bet: 416, hand_type: OnePair } math 416 * 238
+Hand: Hand { hand: "62A65", bet: 963, hand_type: OnePair } math 963 * 239
+Hand: Hand { hand: "632A3", bet: 199, hand_type: OnePair } math 199 * 240
+Hand: Hand { hand: "63328", bet: 960, hand_type: OnePair } math 960 * 241
+Hand: Hand { hand: "6368T", bet: 27, hand_type: OnePair } math 27 * 242
+Hand: Hand { hand: "66538", bet: 896, hand_type: OnePair } math 896 * 243
+Hand: Hand { hand: "67229", bet: 790, hand_type: OnePair } math 790 * 244
+Hand: Hand { hand: "6869Q", bet: 611, hand_type: OnePair } math 611 * 245
+Hand: Hand { hand: "6959K", bet: 363, hand_type: OnePair } math 363 * 246
+Hand: Hand { hand: "69AK9", bet: 567, hand_type: OnePair } math 567 * 247
+Hand: Hand { hand: "6T252", bet: 226, hand_type: OnePair } math 226 * 248
+Hand: Hand { hand: "6TA6Q", bet: 871, hand_type: OnePair } math 871 * 249
+Hand: Hand { hand: "6K8J7", bet: 118, hand_type: OnePair } math 118 * 250
+Hand: Hand { hand: "6A4TA", bet: 254, hand_type: OnePair } math 254 * 251
+Hand: Hand { hand: "6A65K", bet: 197, hand_type: OnePair } math 197 * 252
+Hand: Hand { hand: "6AAK5", bet: 903, hand_type: OnePair } math 903 * 253
+Hand: Hand { hand: "733A8", bet: 819, hand_type: OnePair } math 819 * 254
+Hand: Hand { hand: "74T24", bet: 1, hand_type: OnePair } math 1 * 255
+Hand: Hand { hand: "74TTQ", bet: 97, hand_type: OnePair } math 97 * 256
+Hand: Hand { hand: "75882", bet: 435, hand_type: OnePair } math 435 * 257
+Hand: Hand { hand: "7T78K", bet: 364, hand_type: OnePair } math 364 * 258
+Hand: Hand { hand: "7T837", bet: 303, hand_type: OnePair } math 303 * 259
+Hand: Hand { hand: "7TQ3T", bet: 710, hand_type: OnePair } math 710 * 260
+Hand: Hand { hand: "7Q247", bet: 11, hand_type: OnePair } math 11 * 261
+Hand: Hand { hand: "7QTT8", bet: 300, hand_type: OnePair } math 300 * 262
+Hand: Hand { hand: "7QA5J", bet: 306, hand_type: OnePair } math 306 * 263
+Hand: Hand { hand: "7K43J", bet: 410, hand_type: OnePair } math 410 * 264
+Hand: Hand { hand: "8JT75", bet: 405, hand_type: OnePair } math 405 * 265
+Hand: Hand { hand: "82T58", bet: 392, hand_type: OnePair } math 392 * 266
+Hand: Hand { hand: "83869", bet: 645, hand_type: OnePair } math 645 * 267
+Hand: Hand { hand: "845J3", bet: 59, hand_type: OnePair } math 59 * 268
+Hand: Hand { hand: "84K3K", bet: 629, hand_type: OnePair } math 629 * 269
+Hand: Hand { hand: "852J7", bet: 253, hand_type: OnePair } math 253 * 270
+Hand: Hand { hand: "85AQJ", bet: 283, hand_type: OnePair } math 283 * 271
+Hand: Hand { hand: "868A9", bet: 947, hand_type: OnePair } math 947 * 272
+Hand: Hand { hand: "86A67", bet: 675, hand_type: OnePair } math 675 * 273
+Hand: Hand { hand: "87839", bet: 23, hand_type: OnePair } math 23 * 274
+Hand: Hand { hand: "87KK5", bet: 757, hand_type: OnePair } math 757 * 275
+Hand: Hand { hand: "88Q73", bet: 251, hand_type: OnePair } math 251 * 276
+Hand: Hand { hand: "8TQJ3", bet: 641, hand_type: OnePair } math 641 * 277
+Hand: Hand { hand: "8Q744", bet: 998, hand_type: OnePair } math 998 * 278
+Hand: Hand { hand: "8KQ86", bet: 346, hand_type: OnePair } math 346 * 279
+Hand: Hand { hand: "8KAKQ", bet: 648, hand_type: OnePair } math 648 * 280
+Hand: Hand { hand: "9J53T", bet: 175, hand_type: OnePair } math 175 * 281
+Hand: Hand { hand: "92QJ8", bet: 397, hand_type: OnePair } math 397 * 282
+Hand: Hand { hand: "936JQ", bet: 483, hand_type: OnePair } math 483 * 283
+Hand: Hand { hand: "94JQK", bet: 988, hand_type: OnePair } math 988 * 284
+Hand: Hand { hand: "96AJ3", bet: 398, hand_type: OnePair } math 398 * 285
+Hand: Hand { hand: "97KJ6", bet: 610, hand_type: OnePair } math 610 * 286
+Hand: Hand { hand: "997AQ", bet: 552, hand_type: OnePair } math 552 * 287
+Hand: Hand { hand: "9QKAQ", bet: 79, hand_type: OnePair } math 79 * 288
+Hand: Hand { hand: "9A7TA", bet: 843, hand_type: OnePair } math 843 * 289
+Hand: Hand { hand: "9A972", bet: 208, hand_type: OnePair } math 208 * 290
+Hand: Hand { hand: "TJ6AQ", bet: 735, hand_type: OnePair } math 735 * 291
+Hand: Hand { hand: "TJ783", bet: 39, hand_type: OnePair } math 39 * 292
+Hand: Hand { hand: "T2AJ4", bet: 409, hand_type: OnePair } math 409 * 293
+Hand: Hand { hand: "T3JK8", bet: 301, hand_type: OnePair } math 301 * 294
+Hand: Hand { hand: "T3565", bet: 582, hand_type: OnePair } math 582 * 295
+Hand: Hand { hand: "T4322", bet: 628, hand_type: OnePair } math 628 * 296
+Hand: Hand { hand: "T4432", bet: 46, hand_type: OnePair } math 46 * 297
+Hand: Hand { hand: "T4A8J", bet: 858, hand_type: OnePair } math 858 * 298
+Hand: Hand { hand: "T6JK5", bet: 969, hand_type: OnePair } math 969 * 299
+Hand: Hand { hand: "T64T8", bet: 897, hand_type: OnePair } math 897 * 300
+Hand: Hand { hand: "T728T", bet: 701, hand_type: OnePair } math 701 * 301
+Hand: Hand { hand: "T8227", bet: 885, hand_type: OnePair } math 885 * 302
+Hand: Hand { hand: "T8KK5", bet: 216, hand_type: OnePair } math 216 * 303
+Hand: Hand { hand: "TT5A8", bet: 138, hand_type: OnePair } math 138 * 304
+Hand: Hand { hand: "TT7KQ", bet: 378, hand_type: OnePair } math 378 * 305
+Hand: Hand { hand: "TKT2A", bet: 368, hand_type: OnePair } math 368 * 306
+Hand: Hand { hand: "TKKA8", bet: 715, hand_type: OnePair } math 715 * 307
+Hand: Hand { hand: "TA899", bet: 656, hand_type: OnePair } math 656 * 308
+Hand: Hand { hand: "TAQ99", bet: 112, hand_type: OnePair } math 112 * 309
+Hand: Hand { hand: "Q2429", bet: 453, hand_type: OnePair } math 453 * 310
+Hand: Hand { hand: "Q3JT5", bet: 823, hand_type: OnePair } math 823 * 311
+Hand: Hand { hand: "Q3A44", bet: 53, hand_type: OnePair } math 53 * 312
+Hand: Hand { hand: "Q5433", bet: 486, hand_type: OnePair } math 486 * 313
+Hand: Hand { hand: "Q8Q3T", bet: 63, hand_type: OnePair } math 63 * 314
+Hand: Hand { hand: "QT788", bet: 939, hand_type: OnePair } math 939 * 315
+Hand: Hand { hand: "QT7Q9", bet: 135, hand_type: OnePair } math 135 * 316
+Hand: Hand { hand: "QTAA9", bet: 478, hand_type: OnePair } math 478 * 317
+Hand: Hand { hand: "QK45J", bet: 540, hand_type: OnePair } math 540 * 318
+Hand: Hand { hand: "QA4TA", bet: 192, hand_type: OnePair } math 192 * 319
+Hand: Hand { hand: "QA86Q", bet: 872, hand_type: OnePair } math 872 * 320
+Hand: Hand { hand: "QAA7T", bet: 671, hand_type: OnePair } math 671 * 321
+Hand: Hand { hand: "KJ635", bet: 532, hand_type: OnePair } math 532 * 322
+Hand: Hand { hand: "KJ964", bet: 760, hand_type: OnePair } math 760 * 323
+Hand: Hand { hand: "K289K", bet: 695, hand_type: OnePair } math 695 * 324
+Hand: Hand { hand: "K2K3T", bet: 70, hand_type: OnePair } math 70 * 325
+Hand: Hand { hand: "K3JQA", bet: 2, hand_type: OnePair } math 2 * 326
+Hand: Hand { hand: "K4824", bet: 703, hand_type: OnePair } math 703 * 327
+Hand: Hand { hand: "K54K7", bet: 348, hand_type: OnePair } math 348 * 328
+Hand: Hand { hand: "K63J9", bet: 164, hand_type: OnePair } math 164 * 329
+Hand: Hand { hand: "K6778", bet: 205, hand_type: OnePair } math 205 * 330
+Hand: Hand { hand: "K744Q", bet: 237, hand_type: OnePair } math 237 * 331
+Hand: Hand { hand: "K94J8", bet: 769, hand_type: OnePair } math 769 * 332
+Hand: Hand { hand: "KQ52Q", bet: 214, hand_type: OnePair } math 214 * 333
+Hand: Hand { hand: "KA3KQ", bet: 937, hand_type: OnePair } math 937 * 334
+Hand: Hand { hand: "KA5TK", bet: 600, hand_type: OnePair } math 600 * 335
+Hand: Hand { hand: "AJ28T", bet: 349, hand_type: OnePair } math 349 * 336
+Hand: Hand { hand: "AJQ87", bet: 38, hand_type: OnePair } math 38 * 337
+Hand: Hand { hand: "A23J7", bet: 705, hand_type: OnePair } math 705 * 338
+Hand: Hand { hand: "A3K38", bet: 606, hand_type: OnePair } math 606 * 339
+Hand: Hand { hand: "A463A", bet: 918, hand_type: OnePair } math 918 * 340
+Hand: Hand { hand: "A4QJ6", bet: 45, hand_type: OnePair } math 45 * 341
+Hand: Hand { hand: "A567A", bet: 647, hand_type: OnePair } math 647 * 342
+Hand: Hand { hand: "A75QA", bet: 234, hand_type: OnePair } math 234 * 343
+Hand: Hand { hand: "A7T78", bet: 783, hand_type: OnePair } math 783 * 344
+Hand: Hand { hand: "A8298", bet: 95, hand_type: OnePair } math 95 * 345
+Hand: Hand { hand: "A9K44", bet: 666, hand_type: OnePair } math 666 * 346
+Hand: Hand { hand: "AT525", bet: 479, hand_type: OnePair } math 479 * 347
+Hand: Hand { hand: "AT6J3", bet: 454, hand_type: OnePair } math 454 * 348
+Hand: Hand { hand: "AA372", bet: 763, hand_type: OnePair } math 763 * 349
+Hand: Hand { hand: "AA847", bet: 655, hand_type: OnePair } math 655 * 350
+Hand: Hand { hand: "22335", bet: 743, hand_type: TwoPair } math 743 * 351
+Hand: Hand { hand: "22383", bet: 905, hand_type: TwoPair } math 905 * 352
+Hand: Hand { hand: "229AA", bet: 975, hand_type: TwoPair } math 975 * 353
+Hand: Hand { hand: "22T7T", bet: 972, hand_type: TwoPair } math 972 * 354
+Hand: Hand { hand: "22AQQ", bet: 959, hand_type: TwoPair } math 959 * 355
+Hand: Hand { hand: "23288", bet: 693, hand_type: TwoPair } math 693 * 356
+Hand: Hand { hand: "244Q2", bet: 446, hand_type: TwoPair } math 446 * 357
+Hand: Hand { hand: "24K24", bet: 22, hand_type: TwoPair } math 22 * 358
+Hand: Hand { hand: "255TT", bet: 429, hand_type: TwoPair } math 429 * 359
+Hand: Hand { hand: "26446", bet: 613, hand_type: TwoPair } math 613 * 360
+Hand: Hand { hand: "28268", bet: 469, hand_type: TwoPair } math 469 * 361
+Hand: Hand { hand: "288Q2", bet: 870, hand_type: TwoPair } math 870 * 362
+Hand: Hand { hand: "2TT62", bet: 517, hand_type: TwoPair } math 517 * 363
+Hand: Hand { hand: "32Q23", bet: 298, hand_type: TwoPair } math 298 * 364
+Hand: Hand { hand: "33TAA", bet: 99, hand_type: TwoPair } math 99 * 365
+Hand: Hand { hand: "34838", bet: 512, hand_type: TwoPair } math 512 * 366
+Hand: Hand { hand: "36436", bet: 66, hand_type: TwoPair } math 66 * 367
+Hand: Hand { hand: "37837", bet: 458, hand_type: TwoPair } math 458 * 368
+Hand: Hand { hand: "38484", bet: 339, hand_type: TwoPair } math 339 * 369
+Hand: Hand { hand: "38873", bet: 650, hand_type: TwoPair } math 650 * 370
+Hand: Hand { hand: "3TT22", bet: 379, hand_type: TwoPair } math 379 * 371
+Hand: Hand { hand: "3K3QK", bet: 166, hand_type: TwoPair } math 166 * 372
+Hand: Hand { hand: "3A83A", bet: 449, hand_type: TwoPair } math 449 * 373
+Hand: Hand { hand: "44737", bet: 794, hand_type: TwoPair } math 794 * 374
+Hand: Hand { hand: "44QKQ", bet: 201, hand_type: TwoPair } math 201 * 375
+Hand: Hand { hand: "47AA7", bet: 730, hand_type: TwoPair } math 730 * 376
+Hand: Hand { hand: "49A49", bet: 734, hand_type: TwoPair } math 734 * 377
+Hand: Hand { hand: "4T499", bet: 750, hand_type: TwoPair } math 750 * 378
+Hand: Hand { hand: "4Q5Q4", bet: 101, hand_type: TwoPair } math 101 * 379
+Hand: Hand { hand: "4A334", bet: 3, hand_type: TwoPair } math 3 * 380
+Hand: Hand { hand: "5252Q", bet: 169, hand_type: TwoPair } math 169 * 381
+Hand: Hand { hand: "52885", bet: 10, hand_type: TwoPair } math 10 * 382
+Hand: Hand { hand: "55228", bet: 880, hand_type: TwoPair } math 880 * 383
+Hand: Hand { hand: "5566T", bet: 652, hand_type: TwoPair } math 652 * 384
+Hand: Hand { hand: "55Q99", bet: 354, hand_type: TwoPair } math 354 * 385
+Hand: Hand { hand: "55K33", bet: 383, hand_type: TwoPair } math 383 * 386
+Hand: Hand { hand: "5T445", bet: 263, hand_type: TwoPair } math 263 * 387
+Hand: Hand { hand: "5TT58", bet: 971, hand_type: TwoPair } math 971 * 388
+Hand: Hand { hand: "5Q588", bet: 853, hand_type: TwoPair } math 853 * 389
+Hand: Hand { hand: "5Q775", bet: 586, hand_type: TwoPair } math 586 * 390
+Hand: Hand { hand: "5QQ53", bet: 531, hand_type: TwoPair } math 531 * 391
+Hand: Hand { hand: "63326", bet: 302, hand_type: TwoPair } math 302 * 392
+Hand: Hand { hand: "63622", bet: 116, hand_type: TwoPair } math 116 * 393
+Hand: Hand { hand: "63673", bet: 766, hand_type: TwoPair } math 766 * 394
+Hand: Hand { hand: "646K4", bet: 706, hand_type: TwoPair } math 706 * 395
+Hand: Hand { hand: "65336", bet: 183, hand_type: TwoPair } math 183 * 396
+Hand: Hand { hand: "66955", bet: 127, hand_type: TwoPair } math 127 * 397
+Hand: Hand { hand: "669KK", bet: 727, hand_type: TwoPair } math 727 * 398
+Hand: Hand { hand: "69639", bet: 355, hand_type: TwoPair } math 355 * 399
+Hand: Hand { hand: "696K9", bet: 961, hand_type: TwoPair } math 961 * 400
+Hand: Hand { hand: "6TT76", bet: 982, hand_type: TwoPair } math 982 * 401
+Hand: Hand { hand: "6AA6K", bet: 580, hand_type: TwoPair } math 580 * 402
+Hand: Hand { hand: "72672", bet: 946, hand_type: TwoPair } math 946 * 403
+Hand: Hand { hand: "75758", bet: 297, hand_type: TwoPair } math 297 * 404
+Hand: Hand { hand: "75Q5Q", bet: 311, hand_type: TwoPair } math 311 * 405
+Hand: Hand { hand: "75K75", bet: 687, hand_type: TwoPair } math 687 * 406
+Hand: Hand { hand: "76262", bet: 130, hand_type: TwoPair } math 130 * 407
+Hand: Hand { hand: "76276", bet: 422, hand_type: TwoPair } math 422 * 408
+Hand: Hand { hand: "7733T", bet: 160, hand_type: TwoPair } math 160 * 409
+Hand: Hand { hand: "77595", bet: 256, hand_type: TwoPair } math 256 * 410
+Hand: Hand { hand: "7T47T", bet: 278, hand_type: TwoPair } math 278 * 411
+Hand: Hand { hand: "7A97A", bet: 235, hand_type: TwoPair } math 235 * 412
+Hand: Hand { hand: "84824", bet: 403, hand_type: TwoPair } math 403 * 413
+Hand: Hand { hand: "85599", bet: 159, hand_type: TwoPair } math 159 * 414
+Hand: Hand { hand: "868KK", bet: 257, hand_type: TwoPair } math 257 * 415
+Hand: Hand { hand: "8833T", bet: 43, hand_type: TwoPair } math 43 * 416
+Hand: Hand { hand: "88636", bet: 954, hand_type: TwoPair } math 954 * 417
+Hand: Hand { hand: "88TQT", bet: 551, hand_type: TwoPair } math 551 * 418
+Hand: Hand { hand: "89A8A", bet: 47, hand_type: TwoPair } math 47 * 419
+Hand: Hand { hand: "8A228", bet: 40, hand_type: TwoPair } math 40 * 420
+Hand: Hand { hand: "8A8A3", bet: 246, hand_type: TwoPair } math 246 * 421
+Hand: Hand { hand: "92AA9", bet: 111, hand_type: TwoPair } math 111 * 422
+Hand: Hand { hand: "95TT5", bet: 351, hand_type: TwoPair } math 351 * 423
+Hand: Hand { hand: "96869", bet: 83, hand_type: TwoPair } math 83 * 424
+Hand: Hand { hand: "97AA9", bet: 530, hand_type: TwoPair } math 530 * 425
+Hand: Hand { hand: "98894", bet: 24, hand_type: TwoPair } math 24 * 426
+Hand: Hand { hand: "9922A", bet: 881, hand_type: TwoPair } math 881 * 427
+Hand: Hand { hand: "99353", bet: 158, hand_type: TwoPair } math 158 * 428
+Hand: Hand { hand: "995TT", bet: 733, hand_type: TwoPair } math 733 * 429
+Hand: Hand { hand: "9Q66Q", bet: 17, hand_type: TwoPair } math 17 * 430
+Hand: Hand { hand: "9QQ97", bet: 597, hand_type: TwoPair } math 597 * 431
+Hand: Hand { hand: "9KK97", bet: 560, hand_type: TwoPair } math 560 * 432
+Hand: Hand { hand: "9KK9T", bet: 654, hand_type: TwoPair } math 654 * 433
+Hand: Hand { hand: "9ATAT", bet: 537, hand_type: TwoPair } math 537 * 434
+Hand: Hand { hand: "T3T44", bet: 855, hand_type: TwoPair } math 855 * 435
+Hand: Hand { hand: "T577T", bet: 390, hand_type: TwoPair } math 390 * 436
+Hand: Hand { hand: "T68T6", bet: 817, hand_type: TwoPair } math 817 * 437
+Hand: Hand { hand: "T779T", bet: 631, hand_type: TwoPair } math 631 * 438
+Hand: Hand { hand: "T77QT", bet: 108, hand_type: TwoPair } math 108 * 439
+Hand: Hand { hand: "TT5AA", bet: 36, hand_type: TwoPair } math 36 * 440
+Hand: Hand { hand: "TT996", bet: 563, hand_type: TwoPair } math 563 * 441
+Hand: Hand { hand: "TT9K9", bet: 334, hand_type: TwoPair } math 334 * 442
+Hand: Hand { hand: "Q2KQK", bet: 950, hand_type: TwoPair } math 950 * 443
+Hand: Hand { hand: "Q72Q2", bet: 163, hand_type: TwoPair } math 163 * 444
+Hand: Hand { hand: "Q72Q7", bet: 242, hand_type: TwoPair } math 242 * 445
+Hand: Hand { hand: "QT33T", bet: 509, hand_type: TwoPair } math 509 * 446
+Hand: Hand { hand: "QQ339", bet: 388, hand_type: TwoPair } math 388 * 447
+Hand: Hand { hand: "QQ676", bet: 922, hand_type: TwoPair } math 922 * 448
+Hand: Hand { hand: "QQ877", bet: 308, hand_type: TwoPair } math 308 * 449
+Hand: Hand { hand: "QK7QK", bet: 720, hand_type: TwoPair } math 720 * 450
+Hand: Hand { hand: "QA4A4", bet: 683, hand_type: TwoPair } math 683 * 451
+Hand: Hand { hand: "K2266", bet: 528, hand_type: TwoPair } math 528 * 452
+Hand: Hand { hand: "K228K", bet: 898, hand_type: TwoPair } math 898 * 453
+Hand: Hand { hand: "K33KT", bet: 376, hand_type: TwoPair } math 376 * 454
+Hand: Hand { hand: "K363K", bet: 618, hand_type: TwoPair } math 618 * 455
+Hand: Hand { hand: "K5566", bet: 343, hand_type: TwoPair } math 343 * 456
+Hand: Hand { hand: "K76K6", bet: 48, hand_type: TwoPair } math 48 * 457
+Hand: Hand { hand: "K93K9", bet: 232, hand_type: TwoPair } math 232 * 458
+Hand: Hand { hand: "KK66Q", bet: 377, hand_type: TwoPair } math 377 * 459
+Hand: Hand { hand: "KK686", bet: 771, hand_type: TwoPair } math 771 * 460
+Hand: Hand { hand: "KA22K", bet: 31, hand_type: TwoPair } math 31 * 461
+Hand: Hand { hand: "A22AK", bet: 50, hand_type: TwoPair } math 50 * 462
+Hand: Hand { hand: "A447A", bet: 931, hand_type: TwoPair } math 931 * 463
+Hand: Hand { hand: "A44A5", bet: 145, hand_type: TwoPair } math 145 * 464
+Hand: Hand { hand: "A6AT6", bet: 71, hand_type: TwoPair } math 71 * 465
+Hand: Hand { hand: "ATATQ", bet: 895, hand_type: TwoPair } math 895 * 466
+Hand: Hand { hand: "AA636", bet: 250, hand_type: TwoPair } math 250 * 467
+Hand: Hand { hand: "AA9T9", bet: 481, hand_type: TwoPair } math 481 * 468
+Hand: Hand { hand: "AAKK2", bet: 680, hand_type: TwoPair } math 680 * 469
+Hand: Hand { hand: "JJ548", bet: 272, hand_type: ThreeOfAKind } math 272 * 470
+Hand: Hand { hand: "JJQ42", bet: 857, hand_type: ThreeOfAKind } math 857 * 471
+Hand: Hand { hand: "JJA95", bet: 380, hand_type: ThreeOfAKind } math 380 * 472
+Hand: Hand { hand: "J25J4", bet: 76, hand_type: ThreeOfAKind } math 76 * 473
+Hand: Hand { hand: "J3773", bet: 653, hand_type: ThreeOfAKind } math 653 * 474
+Hand: Hand { hand: "J3T99", bet: 622, hand_type: ThreeOfAKind } math 622 * 475
+Hand: Hand { hand: "J4K7K", bet: 712, hand_type: ThreeOfAKind } math 712 * 476
+Hand: Hand { hand: "J57J2", bet: 172, hand_type: ThreeOfAKind } math 172 * 477
+Hand: Hand { hand: "J595K", bet: 276, hand_type: ThreeOfAKind } math 276 * 478
+Hand: Hand { hand: "J6225", bet: 401, hand_type: ThreeOfAKind } math 401 * 479
+Hand: Hand { hand: "J6335", bet: 142, hand_type: ThreeOfAKind } math 142 * 480
+Hand: Hand { hand: "J66T4", bet: 928, hand_type: ThreeOfAKind } math 928 * 481
+Hand: Hand { hand: "J77K4", bet: 309, hand_type: ThreeOfAKind } math 309 * 482
+Hand: Hand { hand: "J8JKQ", bet: 6, hand_type: ThreeOfAKind } math 6 * 483
+Hand: Hand { hand: "J8277", bet: 100, hand_type: ThreeOfAKind } math 100 * 484
+Hand: Hand { hand: "J8844", bet: 854, hand_type: ThreeOfAKind } math 854 * 485
+Hand: Hand { hand: "J98J3", bet: 336, hand_type: ThreeOfAKind } math 336 * 486
+Hand: Hand { hand: "J9855", bet: 284, hand_type: ThreeOfAKind } math 284 * 487
+Hand: Hand { hand: "J9K66", bet: 12, hand_type: ThreeOfAKind } math 12 * 488
+Hand: Hand { hand: "JT6T2", bet: 545, hand_type: ThreeOfAKind } math 545 * 489
+Hand: Hand { hand: "JT88A", bet: 810, hand_type: ThreeOfAKind } math 810 * 490
+Hand: Hand { hand: "JKJ63", bet: 890, hand_type: ThreeOfAKind } math 890 * 491
+Hand: Hand { hand: "JA46J", bet: 798, hand_type: ThreeOfAKind } math 798 * 492
+Hand: Hand { hand: "JA788", bet: 459, hand_type: ThreeOfAKind } math 459 * 493
+Hand: Hand { hand: "JAAQ9", bet: 623, hand_type: ThreeOfAKind } math 623 * 494
+Hand: Hand { hand: "2JTT2", bet: 146, hand_type: ThreeOfAKind } math 146 * 495
+Hand: Hand { hand: "22267", bet: 417, hand_type: ThreeOfAKind } math 417 * 496
+Hand: Hand { hand: "22Q82", bet: 57, hand_type: ThreeOfAKind } math 57 * 497
+Hand: Hand { hand: "23272", bet: 415, hand_type: ThreeOfAKind } math 415 * 498
+Hand: Hand { hand: "25229", bet: 614, hand_type: ThreeOfAKind } math 614 * 499
+Hand: Hand { hand: "277KJ", bet: 55, hand_type: ThreeOfAKind } math 55 * 500
+Hand: Hand { hand: "299J2", bet: 219, hand_type: ThreeOfAKind } math 219 * 501
+Hand: Hand { hand: "2Q7QQ", bet: 828, hand_type: ThreeOfAKind } math 828 * 502
+Hand: Hand { hand: "2QQ2J", bet: 107, hand_type: ThreeOfAKind } math 107 * 503
+Hand: Hand { hand: "2QQ8Q", bet: 569, hand_type: ThreeOfAKind } math 569 * 504
+Hand: Hand { hand: "2K2J3", bet: 179, hand_type: ThreeOfAKind } math 179 * 505
+Hand: Hand { hand: "2K522", bet: 149, hand_type: ThreeOfAKind } math 149 * 506
+Hand: Hand { hand: "2K6KJ", bet: 859, hand_type: ThreeOfAKind } math 859 * 507
+Hand: Hand { hand: "2A52J", bet: 816, hand_type: ThreeOfAKind } math 816 * 508
+Hand: Hand { hand: "3JJT6", bet: 77, hand_type: ThreeOfAKind } math 77 * 509
+Hand: Hand { hand: "3J322", bet: 259, hand_type: ThreeOfAKind } math 259 * 510
+Hand: Hand { hand: "3J787", bet: 359, hand_type: ThreeOfAKind } math 359 * 511
+Hand: Hand { hand: "3JT3T", bet: 203, hand_type: ThreeOfAKind } math 203 * 512
+Hand: Hand { hand: "3JQ3A", bet: 326, hand_type: ThreeOfAKind } math 326 * 513
+Hand: Hand { hand: "32242", bet: 202, hand_type: ThreeOfAKind } math 202 * 514
+Hand: Hand { hand: "32633", bet: 911, hand_type: ThreeOfAKind } math 911 * 515
+Hand: Hand { hand: "33J9K", bet: 846, hand_type: ThreeOfAKind } math 846 * 516
+Hand: Hand { hand: "33238", bet: 812, hand_type: ThreeOfAKind } math 812 * 517
+Hand: Hand { hand: "335J2", bet: 450, hand_type: ThreeOfAKind } math 450 * 518
+Hand: Hand { hand: "33732", bet: 630, hand_type: ThreeOfAKind } math 630 * 519
+Hand: Hand { hand: "33T38", bet: 168, hand_type: ThreeOfAKind } math 168 * 520
+Hand: Hand { hand: "33AAJ", bet: 224, hand_type: ThreeOfAKind } math 224 * 521
+Hand: Hand { hand: "36J68", bet: 148, hand_type: ThreeOfAKind } math 148 * 522
+Hand: Hand { hand: "3667J", bet: 102, hand_type: ThreeOfAKind } math 102 * 523
+Hand: Hand { hand: "373Q3", bet: 791, hand_type: ThreeOfAKind } math 791 * 524
+Hand: Hand { hand: "3828J", bet: 316, hand_type: ThreeOfAKind } math 316 * 525
+Hand: Hand { hand: "38K88", bet: 806, hand_type: ThreeOfAKind } math 806 * 526
+Hand: Hand { hand: "393J8", bet: 827, hand_type: ThreeOfAKind } math 827 * 527
+Hand: Hand { hand: "3939J", bet: 573, hand_type: ThreeOfAKind } math 573 * 528
+Hand: Hand { hand: "3TK3J", bet: 608, hand_type: ThreeOfAKind } math 608 * 529
+Hand: Hand { hand: "3Q5JJ", bet: 350, hand_type: ThreeOfAKind } math 350 * 530
+Hand: Hand { hand: "3KJQ3", bet: 685, hand_type: ThreeOfAKind } math 685 * 531
+Hand: Hand { hand: "3K43J", bet: 181, hand_type: ThreeOfAKind } math 181 * 532
+Hand: Hand { hand: "3A3K3", bet: 231, hand_type: ThreeOfAKind } math 231 * 533
+Hand: Hand { hand: "4J774", bet: 421, hand_type: ThreeOfAKind } math 421 * 534
+Hand: Hand { hand: "42JJ9", bet: 286, hand_type: ThreeOfAKind } math 286 * 535
+Hand: Hand { hand: "42J42", bet: 558, hand_type: ThreeOfAKind } math 558 * 536
+Hand: Hand { hand: "42822", bet: 304, hand_type: ThreeOfAKind } math 304 * 537
+Hand: Hand { hand: "43J34", bet: 151, hand_type: ThreeOfAKind } math 151 * 538
+Hand: Hand { hand: "43AAA", bet: 914, hand_type: ThreeOfAKind } math 914 * 539
+Hand: Hand { hand: "44Q45", bet: 504, hand_type: ThreeOfAKind } math 504 * 540
+Hand: Hand { hand: "48Q88", bet: 1000, hand_type: ThreeOfAKind } math 1000 * 541
+Hand: Hand { hand: "49446", bet: 412, hand_type: ThreeOfAKind } math 412 * 542
+Hand: Hand { hand: "4Q4J9", bet: 324, hand_type: ThreeOfAKind } math 324 * 543
+Hand: Hand { hand: "4QKJJ", bet: 795, hand_type: ThreeOfAKind } math 795 * 544
+Hand: Hand { hand: "5J2T2", bet: 949, hand_type: ThreeOfAKind } math 949 * 545
+Hand: Hand { hand: "5J454", bet: 726, hand_type: ThreeOfAKind } math 726 * 546
+Hand: Hand { hand: "5J522", bet: 462, hand_type: ThreeOfAKind } math 462 * 547
+Hand: Hand { hand: "5J6T5", bet: 778, hand_type: ThreeOfAKind } math 778 * 548
+Hand: Hand { hand: "53222", bet: 889, hand_type: ThreeOfAKind } math 889 * 549
+Hand: Hand { hand: "552K5", bet: 182, hand_type: ThreeOfAKind } math 182 * 550
+Hand: Hand { hand: "56646", bet: 367, hand_type: ThreeOfAKind } math 367 * 551
+Hand: Hand { hand: "57QQQ", bet: 277, hand_type: ThreeOfAKind } math 277 * 552
+Hand: Hand { hand: "58J8A", bet: 341, hand_type: ThreeOfAKind } math 341 * 553
+Hand: Hand { hand: "58955", bet: 739, hand_type: ThreeOfAKind } math 739 * 554
+Hand: Hand { hand: "5T333", bet: 91, hand_type: ThreeOfAKind } math 91 * 555
+Hand: Hand { hand: "5TT8T", bet: 134, hand_type: ThreeOfAKind } math 134 * 556
+Hand: Hand { hand: "5K57J", bet: 796, hand_type: ThreeOfAKind } math 796 * 557
+Hand: Hand { hand: "5K8KK", bet: 195, hand_type: ThreeOfAKind } math 195 * 558
+Hand: Hand { hand: "5KK6K", bet: 68, hand_type: ThreeOfAKind } math 68 * 559
+Hand: Hand { hand: "5A5AJ", bet: 533, hand_type: ThreeOfAKind } math 533 * 560
+Hand: Hand { hand: "5A8JJ", bet: 7, hand_type: ThreeOfAKind } math 7 * 561
+Hand: Hand { hand: "6J644", bet: 836, hand_type: ThreeOfAKind } math 836 * 562
+Hand: Hand { hand: "6J6QQ", bet: 8, hand_type: ThreeOfAKind } math 8 * 563
+Hand: Hand { hand: "6J737", bet: 839, hand_type: ThreeOfAKind } math 839 * 564
+Hand: Hand { hand: "6J7KJ", bet: 770, hand_type: ThreeOfAKind } math 770 * 565
+Hand: Hand { hand: "6JTQ6", bet: 85, hand_type: ThreeOfAKind } math 85 * 566
+Hand: Hand { hand: "63888", bet: 818, hand_type: ThreeOfAKind } math 818 * 567
+Hand: Hand { hand: "65J62", bet: 732, hand_type: ThreeOfAKind } math 732 * 568
+Hand: Hand { hand: "65J75", bet: 761, hand_type: ThreeOfAKind } math 761 * 569
+Hand: Hand { hand: "65552", bet: 738, hand_type: ThreeOfAKind } math 738 * 570
+Hand: Hand { hand: "65662", bet: 909, hand_type: ThreeOfAKind } math 909 * 571
+Hand: Hand { hand: "66JTT", bet: 498, hand_type: ThreeOfAKind } math 498 * 572
+Hand: Hand { hand: "6622J", bet: 945, hand_type: ThreeOfAKind } math 945 * 573
+Hand: Hand { hand: "66496", bet: 944, hand_type: ThreeOfAKind } math 944 * 574
+Hand: Hand { hand: "66637", bet: 58, hand_type: ThreeOfAKind } math 58 * 575
+Hand: Hand { hand: "6664K", bet: 337, hand_type: ThreeOfAKind } math 337 * 576
+Hand: Hand { hand: "6665Q", bet: 700, hand_type: ThreeOfAKind } math 700 * 577
+Hand: Hand { hand: "666AT", bet: 811, hand_type: ThreeOfAKind } math 811 * 578
+Hand: Hand { hand: "66865", bet: 708, hand_type: ThreeOfAKind } math 708 * 579
+Hand: Hand { hand: "66A86", bet: 64, hand_type: ThreeOfAKind } math 64 * 580
+Hand: Hand { hand: "6777K", bet: 725, hand_type: ThreeOfAKind } math 725 * 581
+Hand: Hand { hand: "68JK8", bet: 109, hand_type: ThreeOfAKind } math 109 * 582
+Hand: Hand { hand: "69JJ3", bet: 893, hand_type: ThreeOfAKind } math 893 * 583
+Hand: Hand { hand: "696A6", bet: 542, hand_type: ThreeOfAKind } math 542 * 584
+Hand: Hand { hand: "699J6", bet: 285, hand_type: ThreeOfAKind } math 285 * 585
+Hand: Hand { hand: "6TJ96", bet: 820, hand_type: ThreeOfAKind } math 820 * 586
+Hand: Hand { hand: "6QJ44", bet: 544, hand_type: ThreeOfAKind } math 544 * 587
+Hand: Hand { hand: "6QJQ3", bet: 873, hand_type: ThreeOfAKind } math 873 * 588
+Hand: Hand { hand: "6QJK6", bet: 494, hand_type: ThreeOfAKind } math 494 * 589
+Hand: Hand { hand: "6QT66", bet: 171, hand_type: ThreeOfAKind } math 171 * 590
+Hand: Hand { hand: "6QQQ3", bet: 399, hand_type: ThreeOfAKind } math 399 * 591
+Hand: Hand { hand: "6QA66", bet: 840, hand_type: ThreeOfAKind } math 840 * 592
+Hand: Hand { hand: "6K6KJ", bet: 714, hand_type: ThreeOfAKind } math 714 * 593
+Hand: Hand { hand: "6A5AA", bet: 110, hand_type: ThreeOfAKind } math 110 * 594
+Hand: Hand { hand: "6A8JA", bet: 9, hand_type: ThreeOfAKind } math 9 * 595
+Hand: Hand { hand: "7JAJ2", bet: 856, hand_type: ThreeOfAKind } math 856 * 596
+Hand: Hand { hand: "73747", bet: 973, hand_type: ThreeOfAKind } math 973 * 597
+Hand: Hand { hand: "74484", bet: 829, hand_type: ThreeOfAKind } math 829 * 598
+Hand: Hand { hand: "74K44", bet: 128, hand_type: ThreeOfAKind } math 128 * 599
+Hand: Hand { hand: "75J57", bet: 49, hand_type: ThreeOfAKind } math 49 * 600
+Hand: Hand { hand: "75565", bet: 141, hand_type: ThreeOfAKind } math 141 * 601
+Hand: Hand { hand: "75A55", bet: 562, hand_type: ThreeOfAKind } math 562 * 602
+Hand: Hand { hand: "767J6", bet: 386, hand_type: ThreeOfAKind } math 386 * 603
+Hand: Hand { hand: "7757T", bet: 385, hand_type: ThreeOfAKind } math 385 * 604
+Hand: Hand { hand: "778A7", bet: 411, hand_type: ThreeOfAKind } math 411 * 605
+Hand: Hand { hand: "796J9", bet: 776, hand_type: ThreeOfAKind } math 776 * 606
+Hand: Hand { hand: "79772", bet: 65, hand_type: ThreeOfAKind } math 65 * 607
+Hand: Hand { hand: "79T77", bet: 581, hand_type: ThreeOfAKind } math 581 * 608
+Hand: Hand { hand: "7TT6T", bet: 837, hand_type: ThreeOfAKind } math 837 * 609
+Hand: Hand { hand: "7K797", bet: 407, hand_type: ThreeOfAKind } math 407 * 610
+Hand: Hand { hand: "7K7Q7", bet: 275, hand_type: ThreeOfAKind } math 275 * 611
+Hand: Hand { hand: "7AJA7", bet: 767, hand_type: ThreeOfAKind } math 767 * 612
+Hand: Hand { hand: "7AA2A", bet: 305, hand_type: ThreeOfAKind } math 305 * 613
+Hand: Hand { hand: "7AAKA", bet: 684, hand_type: ThreeOfAKind } math 684 * 614
+Hand: Hand { hand: "8J829", bet: 860, hand_type: ThreeOfAKind } math 860 * 615
+Hand: Hand { hand: "8JAA8", bet: 658, hand_type: ThreeOfAKind } math 658 * 616
+Hand: Hand { hand: "82J28", bet: 13, hand_type: ThreeOfAKind } math 13 * 617
+Hand: Hand { hand: "833A3", bet: 290, hand_type: ThreeOfAKind } math 290 * 618
+Hand: Hand { hand: "8388T", bet: 926, hand_type: ThreeOfAKind } math 926 * 619
+Hand: Hand { hand: "84244", bet: 958, hand_type: ThreeOfAKind } math 958 * 620
+Hand: Hand { hand: "8486J", bet: 768, hand_type: ThreeOfAKind } math 768 * 621
+Hand: Hand { hand: "85535", bet: 601, hand_type: ThreeOfAKind } math 601 * 622
+Hand: Hand { hand: "85K88", bet: 331, hand_type: ThreeOfAKind } math 331 * 623
+Hand: Hand { hand: "86667", bet: 892, hand_type: ThreeOfAKind } math 892 * 624
+Hand: Hand { hand: "87QJ7", bet: 196, hand_type: ThreeOfAKind } math 196 * 625
+Hand: Hand { hand: "88J97", bet: 800, hand_type: ThreeOfAKind } math 800 * 626
+Hand: Hand { hand: "88783", bet: 520, hand_type: ThreeOfAKind } math 520 * 627
+Hand: Hand { hand: "887A8", bet: 997, hand_type: ThreeOfAKind } math 997 * 628
+Hand: Hand { hand: "888A6", bet: 584, hand_type: ThreeOfAKind } math 584 * 629
+Hand: Hand { hand: "8TJTK", bet: 468, hand_type: ThreeOfAKind } math 468 * 630
+Hand: Hand { hand: "8T88Q", bet: 29, hand_type: ThreeOfAKind } math 29 * 631
+Hand: Hand { hand: "8T8K8", bet: 576, hand_type: ThreeOfAKind } math 576 * 632
+Hand: Hand { hand: "8TT9T", bet: 508, hand_type: ThreeOfAKind } math 508 * 633
+Hand: Hand { hand: "8Q886", bet: 93, hand_type: ThreeOfAKind } math 93 * 634
+Hand: Hand { hand: "8QQ2J", bet: 838, hand_type: ThreeOfAKind } math 838 * 635
+Hand: Hand { hand: "8QAJJ", bet: 497, hand_type: ThreeOfAKind } math 497 * 636
+Hand: Hand { hand: "8KKTK", bet: 448, hand_type: ThreeOfAKind } math 448 * 637
+Hand: Hand { hand: "9J488", bet: 557, hand_type: ThreeOfAKind } math 557 * 638
+Hand: Hand { hand: "9J533", bet: 28, hand_type: ThreeOfAKind } math 28 * 639
+Hand: Hand { hand: "9JT9T", bet: 577, hand_type: ThreeOfAKind } math 577 * 640
+Hand: Hand { hand: "93233", bet: 521, hand_type: ThreeOfAKind } math 521 * 641
+Hand: Hand { hand: "93334", bet: 792, hand_type: ThreeOfAKind } math 792 * 642
+Hand: Hand { hand: "94222", bet: 564, hand_type: ThreeOfAKind } math 564 * 643
+Hand: Hand { hand: "94299", bet: 358, hand_type: ThreeOfAKind } math 358 * 644
+Hand: Hand { hand: "95355", bet: 797, hand_type: ThreeOfAKind } math 797 * 645
+Hand: Hand { hand: "96J56", bet: 271, hand_type: ThreeOfAKind } math 271 * 646
+Hand: Hand { hand: "966J7", bet: 802, hand_type: ThreeOfAKind } math 802 * 647
+Hand: Hand { hand: "97737", bet: 161, hand_type: ThreeOfAKind } math 161 * 648
+Hand: Hand { hand: "97Q99", bet: 26, hand_type: ThreeOfAKind } math 26 * 649
+Hand: Hand { hand: "97AJA", bet: 785, hand_type: ThreeOfAKind } math 785 * 650
+Hand: Hand { hand: "98979", bet: 230, hand_type: ThreeOfAKind } math 230 * 651
+Hand: Hand { hand: "99J6K", bet: 137, hand_type: ThreeOfAKind } math 137 * 652
+Hand: Hand { hand: "9993Q", bet: 991, hand_type: ThreeOfAKind } math 991 * 653
+Hand: Hand { hand: "99974", bet: 590, hand_type: ThreeOfAKind } math 590 * 654
+Hand: Hand { hand: "999T7", bet: 999, hand_type: ThreeOfAKind } math 999 * 655
+Hand: Hand { hand: "999A5", bet: 559, hand_type: ThreeOfAKind } math 559 * 656
+Hand: Hand { hand: "999A6", bet: 156, hand_type: ThreeOfAKind } math 156 * 657
+Hand: Hand { hand: "9Q949", bet: 636, hand_type: ThreeOfAKind } math 636 * 658
+Hand: Hand { hand: "TJ277", bet: 365, hand_type: ThreeOfAKind } math 365 * 659
+Hand: Hand { hand: "TJT77", bet: 663, hand_type: ThreeOfAKind } math 663 * 660
+Hand: Hand { hand: "T2JQ2", bet: 722, hand_type: ThreeOfAKind } math 722 * 661
+Hand: Hand { hand: "T4JJ3", bet: 185, hand_type: ThreeOfAKind } math 185 * 662
+Hand: Hand { hand: "T4449", bet: 342, hand_type: ThreeOfAKind } math 342 * 663
+Hand: Hand { hand: "T444A", bet: 594, hand_type: ThreeOfAKind } math 594 * 664
+Hand: Hand { hand: "T4TJQ", bet: 106, hand_type: ThreeOfAKind } math 106 * 665
+Hand: Hand { hand: "T4T9T", bet: 831, hand_type: ThreeOfAKind } math 831 * 666
+Hand: Hand { hand: "T6T3T", bet: 241, hand_type: ThreeOfAKind } math 241 * 667
+Hand: Hand { hand: "T882J", bet: 338, hand_type: ThreeOfAKind } math 338 * 668
+Hand: Hand { hand: "T8T5J", bet: 147, hand_type: ThreeOfAKind } math 147 * 669
+Hand: Hand { hand: "T977J", bet: 516, hand_type: ThreeOfAKind } math 516 * 670
+Hand: Hand { hand: "TT35T", bet: 591, hand_type: ThreeOfAKind } math 591 * 671
+Hand: Hand { hand: "TT56T", bet: 518, hand_type: ThreeOfAKind } math 518 * 672
+Hand: Hand { hand: "TT5T9", bet: 420, hand_type: ThreeOfAKind } math 420 * 673
+Hand: Hand { hand: "TTTK8", bet: 44, hand_type: ThreeOfAKind } math 44 * 674
+Hand: Hand { hand: "TQJQT", bet: 434, hand_type: ThreeOfAKind } math 434 * 675
+Hand: Hand { hand: "TQQQK", bet: 746, hand_type: ThreeOfAKind } math 746 * 676
+Hand: Hand { hand: "TA6AA", bet: 987, hand_type: ThreeOfAKind } math 987 * 677
+Hand: Hand { hand: "TAAA9", bet: 588, hand_type: ThreeOfAKind } math 588 * 678
+Hand: Hand { hand: "QJ424", bet: 114, hand_type: ThreeOfAKind } math 114 * 679
+Hand: Hand { hand: "QJ557", bet: 510, hand_type: ThreeOfAKind } math 510 * 680
+Hand: Hand { hand: "QJ699", bet: 307, hand_type: ThreeOfAKind } math 307 * 681
+Hand: Hand { hand: "QJ886", bet: 280, hand_type: ThreeOfAKind } math 280 * 682
+Hand: Hand { hand: "QJT55", bet: 329, hand_type: ThreeOfAKind } math 329 * 683
+Hand: Hand { hand: "QJQ77", bet: 932, hand_type: ThreeOfAKind } math 932 * 684
+Hand: Hand { hand: "Q222T", bet: 157, hand_type: ThreeOfAKind } math 157 * 685
+Hand: Hand { hand: "Q222K", bet: 875, hand_type: ThreeOfAKind } math 875 * 686
+Hand: Hand { hand: "Q266J", bet: 633, hand_type: ThreeOfAKind } math 633 * 687
+Hand: Hand { hand: "Q8333", bet: 758, hand_type: ThreeOfAKind } math 758 * 688
+Hand: Hand { hand: "Q8838", bet: 752, hand_type: ThreeOfAKind } math 752 * 689
+Hand: Hand { hand: "Q88K8", bet: 369, hand_type: ThreeOfAKind } math 369 * 690
+Hand: Hand { hand: "Q9AQQ", bet: 809, hand_type: ThreeOfAKind } math 809 * 691
+Hand: Hand { hand: "QT777", bet: 995, hand_type: ThreeOfAKind } math 995 * 692
+Hand: Hand { hand: "QTAQQ", bet: 718, hand_type: ThreeOfAKind } math 718 * 693
+Hand: Hand { hand: "QQJ44", bet: 825, hand_type: ThreeOfAKind } math 825 * 694
+Hand: Hand { hand: "QQJK7", bet: 321, hand_type: ThreeOfAKind } math 321 * 695
+Hand: Hand { hand: "QQ4JT", bet: 473, hand_type: ThreeOfAKind } math 473 * 696
+Hand: Hand { hand: "QQ4KQ", bet: 848, hand_type: ThreeOfAKind } math 848 * 697
+Hand: Hand { hand: "QQQA2", bet: 983, hand_type: ThreeOfAKind } math 983 * 698
+Hand: Hand { hand: "QQAQ4", bet: 451, hand_type: ThreeOfAKind } math 451 * 699
+Hand: Hand { hand: "QAQ8Q", bet: 239, hand_type: ThreeOfAKind } math 239 * 700
+Hand: Hand { hand: "KJ54K", bet: 88, hand_type: ThreeOfAKind } math 88 * 701
+Hand: Hand { hand: "KJQKQ", bet: 894, hand_type: ThreeOfAKind } math 894 * 702
+Hand: Hand { hand: "KJK3T", bet: 698, hand_type: ThreeOfAKind } math 698 * 703
+Hand: Hand { hand: "K2KJ2", bet: 482, hand_type: ThreeOfAKind } math 482 * 704
+Hand: Hand { hand: "K3J37", bet: 985, hand_type: ThreeOfAKind } math 985 * 705
+Hand: Hand { hand: "K33J6", bet: 662, hand_type: ThreeOfAKind } math 662 * 706
+Hand: Hand { hand: "K3K9K", bet: 150, hand_type: ThreeOfAKind } math 150 * 707
+Hand: Hand { hand: "K4944", bet: 222, hand_type: ThreeOfAKind } math 222 * 708
+Hand: Hand { hand: "K4KAK", bet: 408, hand_type: ThreeOfAKind } math 408 * 709
+Hand: Hand { hand: "K5J45", bet: 719, hand_type: ThreeOfAKind } math 719 * 710
+Hand: Hand { hand: "K5J9K", bet: 325, hand_type: ThreeOfAKind } math 325 * 711
+Hand: Hand { hand: "K5KJ5", bet: 296, hand_type: ThreeOfAKind } math 296 * 712
+Hand: Hand { hand: "K84J4", bet: 374, hand_type: ThreeOfAKind } math 374 * 713
+Hand: Hand { hand: "K93JK", bet: 463, hand_type: ThreeOfAKind } math 463 * 714
+Hand: Hand { hand: "K9K5K", bet: 721, hand_type: ThreeOfAKind } math 721 * 715
+Hand: Hand { hand: "KKK46", bet: 934, hand_type: ThreeOfAKind } math 934 * 716
+Hand: Hand { hand: "KKK98", bet: 460, hand_type: ThreeOfAKind } math 460 * 717
+Hand: Hand { hand: "KKAQK", bet: 443, hand_type: ThreeOfAKind } math 443 * 718
+Hand: Hand { hand: "KAKJT", bet: 709, hand_type: ThreeOfAKind } math 709 * 719
+Hand: Hand { hand: "KAAJK", bet: 634, hand_type: ThreeOfAKind } math 634 * 720
+Hand: Hand { hand: "AJTKT", bet: 249, hand_type: ThreeOfAKind } math 249 * 721
+Hand: Hand { hand: "AJTAT", bet: 144, hand_type: ThreeOfAKind } math 144 * 722
+Hand: Hand { hand: "A2722", bet: 248, hand_type: ThreeOfAKind } math 248 * 723
+Hand: Hand { hand: "A32AA", bet: 549, hand_type: ThreeOfAKind } math 549 * 724
+Hand: Hand { hand: "A355J", bet: 430, hand_type: ThreeOfAKind } math 430 * 725
+Hand: Hand { hand: "A4A5A", bet: 207, hand_type: ThreeOfAKind } math 207 * 726
+Hand: Hand { hand: "A5552", bet: 882, hand_type: ThreeOfAKind } math 882 * 727
+Hand: Hand { hand: "A6AA2", bet: 845, hand_type: ThreeOfAKind } math 845 * 728
+Hand: Hand { hand: "A777Q", bet: 136, hand_type: ThreeOfAKind } math 136 * 729
+Hand: Hand { hand: "A8AA2", bet: 651, hand_type: ThreeOfAKind } math 651 * 730
+Hand: Hand { hand: "A9299", bet: 437, hand_type: ThreeOfAKind } math 437 * 731
+Hand: Hand { hand: "AQA4A", bet: 470, hand_type: ThreeOfAKind } math 470 * 732
+Hand: Hand { hand: "AKKK8", bet: 389, hand_type: ThreeOfAKind } math 389 * 733
+Hand: Hand { hand: "AKATA", bet: 640, hand_type: ThreeOfAKind } math 640 * 734
+Hand: Hand { hand: "AA7AT", bet: 240, hand_type: ThreeOfAKind } math 240 * 735
+Hand: Hand { hand: "AAQJK", bet: 477, hand_type: ThreeOfAKind } math 477 * 736
+Hand: Hand { hand: "AAAK6", bet: 362, hand_type: ThreeOfAKind } math 362 * 737
+Hand: Hand { hand: "22777", bet: 124, hand_type: FullHose } math 124 * 738
+Hand: Hand { hand: "22828", bet: 140, hand_type: FullHose } math 140 * 739
+Hand: Hand { hand: "23232", bet: 694, hand_type: FullHose } math 694 * 740
+Hand: Hand { hand: "27272", bet: 313, hand_type: FullHose } math 313 * 741
+Hand: Hand { hand: "29992", bet: 804, hand_type: FullHose } math 804 * 742
+Hand: Hand { hand: "2QQ22", bet: 491, hand_type: FullHose } math 491 * 743
+Hand: Hand { hand: "333TT", bet: 593, hand_type: FullHose } math 593 * 744
+Hand: Hand { hand: "33444", bet: 659, hand_type: FullHose } math 659 * 745
+Hand: Hand { hand: "33666", bet: 260, hand_type: FullHose } math 260 * 746
+Hand: Hand { hand: "33993", bet: 609, hand_type: FullHose } math 609 * 747
+Hand: Hand { hand: "33TTT", bet: 915, hand_type: FullHose } math 915 * 748
+Hand: Hand { hand: "33QQQ", bet: 438, hand_type: FullHose } math 438 * 749
+Hand: Hand { hand: "43343", bet: 755, hand_type: FullHose } math 755 * 750
+Hand: Hand { hand: "44222", bet: 445, hand_type: FullHose } math 445 * 751
+Hand: Hand { hand: "44646", bet: 327, hand_type: FullHose } math 327 * 752
+Hand: Hand { hand: "44QQQ", bet: 605, hand_type: FullHose } math 605 * 753
+Hand: Hand { hand: "44KK4", bet: 357, hand_type: FullHose } math 357 * 754
+Hand: Hand { hand: "47774", bet: 299, hand_type: FullHose } math 299 * 755
+Hand: Hand { hand: "49494", bet: 455, hand_type: FullHose } math 455 * 756
+Hand: Hand { hand: "4TTT4", bet: 665, hand_type: FullHose } math 665 * 757
+Hand: Hand { hand: "52522", bet: 868, hand_type: FullHose } math 868 * 758
+Hand: Hand { hand: "53353", bet: 956, hand_type: FullHose } math 956 * 759
+Hand: Hand { hand: "55225", bet: 942, hand_type: FullHose } math 942 * 760
+Hand: Hand { hand: "55335", bet: 869, hand_type: FullHose } math 869 * 761
+Hand: Hand { hand: "55454", bet: 547, hand_type: FullHose } math 547 * 762
+Hand: Hand { hand: "555AA", bet: 964, hand_type: FullHose } math 964 * 763
+Hand: Hand { hand: "55QQQ", bet: 692, hand_type: FullHose } math 692 * 764
+Hand: Hand { hand: "55AAA", bet: 805, hand_type: FullHose } math 805 * 765
+Hand: Hand { hand: "56565", bet: 879, hand_type: FullHose } math 879 * 766
+Hand: Hand { hand: "57755", bet: 42, hand_type: FullHose } math 42 * 767
+Hand: Hand { hand: "58855", bet: 74, hand_type: FullHose } math 74 * 768
+Hand: Hand { hand: "59595", bet: 913, hand_type: FullHose } math 913 * 769
+Hand: Hand { hand: "5TT55", bet: 538, hand_type: FullHose } math 538 * 770
+Hand: Hand { hand: "62226", bet: 762, hand_type: FullHose } math 762 * 771
+Hand: Hand { hand: "666QQ", bet: 994, hand_type: FullHose } math 994 * 772
+Hand: Hand { hand: "66776", bet: 89, hand_type: FullHose } math 89 * 773
+Hand: Hand { hand: "67767", bet: 35, hand_type: FullHose } math 35 * 774
+Hand: Hand { hand: "73377", bet: 54, hand_type: FullHose } math 54 * 775
+Hand: Hand { hand: "74474", bet: 347, hand_type: FullHose } math 347 * 776
+Hand: Hand { hand: "77TT7", bet: 834, hand_type: FullHose } math 834 * 777
+Hand: Hand { hand: "77KKK", bet: 291, hand_type: FullHose } math 291 * 778
+Hand: Hand { hand: "78788", bet: 225, hand_type: FullHose } math 225 * 779
+Hand: Hand { hand: "7Q7Q7", bet: 953, hand_type: FullHose } math 953 * 780
+Hand: Hand { hand: "84484", bet: 25, hand_type: FullHose } math 25 * 781
+Hand: Hand { hand: "86668", bet: 984, hand_type: FullHose } math 984 * 782
+Hand: Hand { hand: "88844", bet: 78, hand_type: FullHose } math 78 * 783
+Hand: Hand { hand: "89889", bet: 780, hand_type: FullHose } math 780 * 784
+Hand: Hand { hand: "8KKK8", bet: 332, hand_type: FullHose } math 332 * 785
+Hand: Hand { hand: "8AA8A", bet: 968, hand_type: FullHose } math 968 * 786
+Hand: Hand { hand: "94499", bet: 864, hand_type: FullHose } math 864 * 787
+Hand: Hand { hand: "96966", bet: 626, hand_type: FullHose } math 626 * 788
+Hand: Hand { hand: "99777", bet: 568, hand_type: FullHose } math 568 * 789
+Hand: Hand { hand: "99933", bet: 252, hand_type: FullHose } math 252 * 790
+Hand: Hand { hand: "999QQ", bet: 943, hand_type: FullHose } math 943 * 791
+Hand: Hand { hand: "99AA9", bet: 826, hand_type: FullHose } math 826 * 792
+Hand: Hand { hand: "9K99K", bet: 515, hand_type: FullHose } math 515 * 793
+Hand: Hand { hand: "T999T", bet: 878, hand_type: FullHose } math 878 * 794
+Hand: Hand { hand: "TT444", bet: 865, hand_type: FullHose } math 865 * 795
+Hand: Hand { hand: "TTAAA", bet: 921, hand_type: FullHose } math 921 * 796
+Hand: Hand { hand: "TQTQQ", bet: 938, hand_type: FullHose } math 938 * 797
+Hand: Hand { hand: "Q444Q", bet: 598, hand_type: FullHose } math 598 * 798
+Hand: Hand { hand: "Q555Q", bet: 787, hand_type: FullHose } math 787 * 799
+Hand: Hand { hand: "Q88QQ", bet: 353, hand_type: FullHose } math 353 * 800
+Hand: Hand { hand: "K2K22", bet: 125, hand_type: FullHose } math 125 * 801
+Hand: Hand { hand: "K55KK", bet: 499, hand_type: FullHose } math 499 * 802
+Hand: Hand { hand: "KTTKT", bet: 372, hand_type: FullHose } math 372 * 803
+Hand: Hand { hand: "KK3K3", bet: 513, hand_type: FullHose } math 513 * 804
+Hand: Hand { hand: "KK4K4", bet: 229, hand_type: FullHose } math 229 * 805
+Hand: Hand { hand: "KK6K6", bet: 170, hand_type: FullHose } math 170 * 806
+Hand: Hand { hand: "KK99K", bet: 930, hand_type: FullHose } math 930 * 807
+Hand: Hand { hand: "KKK22", bet: 554, hand_type: FullHose } math 554 * 808
+Hand: Hand { hand: "KKAAK", bet: 900, hand_type: FullHose } math 900 * 809
+Hand: Hand { hand: "A2AA2", bet: 131, hand_type: FullHose } math 131 * 810
+Hand: Hand { hand: "A666A", bet: 759, hand_type: FullHose } math 759 * 811
+Hand: Hand { hand: "ATTTA", bet: 851, hand_type: FullHose } math 851 * 812
+Hand: Hand { hand: "AKKAA", bet: 737, hand_type: FullHose } math 737 * 813
+Hand: Hand { hand: "AA77A", bet: 649, hand_type: FullHose } math 649 * 814
+Hand: Hand { hand: "AAQQQ", bet: 436, hand_type: FullHose } math 436 * 815
+Hand: Hand { hand: "AAA66", bet: 643, hand_type: FullHose } math 643 * 816
+Hand: Hand { hand: "AAAQQ", bet: 933, hand_type: FullHose } math 933 * 817
+Hand: Hand { hand: "JJ28J", bet: 314, hand_type: FourOfAKind } math 314 * 818
+Hand: Hand { hand: "JJ393", bet: 632, hand_type: FourOfAKind } math 632 * 819
+Hand: Hand { hand: "J2223", bet: 704, hand_type: FourOfAKind } math 704 * 820
+Hand: Hand { hand: "J22A2", bet: 15, hand_type: FourOfAKind } math 15 * 821
+Hand: Hand { hand: "J2422", bet: 527, hand_type: FourOfAKind } math 527 * 822
+Hand: Hand { hand: "J2888", bet: 744, hand_type: FourOfAKind } math 744 * 823
+Hand: Hand { hand: "J3J5J", bet: 370, hand_type: FourOfAKind } math 370 * 824
+Hand: Hand { hand: "J3Q33", bet: 830, hand_type: FourOfAKind } math 830 * 825
+Hand: Hand { hand: "J4J49", bet: 976, hand_type: FourOfAKind } math 976 * 826
+Hand: Hand { hand: "J4AAA", bet: 935, hand_type: FourOfAKind } math 935 * 827
+Hand: Hand { hand: "J55K5", bet: 264, hand_type: FourOfAKind } math 264 * 828
+Hand: Hand { hand: "J58JJ", bet: 19, hand_type: FourOfAKind } math 19 * 829
+Hand: Hand { hand: "J5955", bet: 667, hand_type: FourOfAKind } math 667 * 830
+Hand: Hand { hand: "J6JQQ", bet: 678, hand_type: FourOfAKind } math 678 * 831
+Hand: Hand { hand: "J6266", bet: 876, hand_type: FourOfAKind } math 876 * 832
+Hand: Hand { hand: "J6444", bet: 599, hand_type: FourOfAKind } math 599 * 833
+Hand: Hand { hand: "J7577", bet: 899, hand_type: FourOfAKind } math 899 * 834
+Hand: Hand { hand: "J999Q", bet: 493, hand_type: FourOfAKind } math 493 * 835
+Hand: Hand { hand: "JQQ6Q", bet: 779, hand_type: FourOfAKind } math 779 * 836
+Hand: Hand { hand: "JKK6K", bet: 5, hand_type: FourOfAKind } math 5 * 837
+Hand: Hand { hand: "JKKAK", bet: 561, hand_type: FourOfAKind } math 561 * 838
+Hand: Hand { hand: "JAA3J", bet: 741, hand_type: FourOfAKind } math 741 * 839
+Hand: Hand { hand: "JAAAT", bet: 821, hand_type: FourOfAKind } math 821 * 840
+Hand: Hand { hand: "2J922", bet: 315, hand_type: FourOfAKind } math 315 * 841
+Hand: Hand { hand: "22J62", bet: 428, hand_type: FourOfAKind } math 428 * 842
+Hand: Hand { hand: "22229", bet: 317, hand_type: FourOfAKind } math 317 * 843
+Hand: Hand { hand: "2222T", bet: 751, hand_type: FourOfAKind } math 751 * 844
+Hand: Hand { hand: "23J33", bet: 612, hand_type: FourOfAKind } math 612 * 845
+Hand: Hand { hand: "252J2", bet: 814, hand_type: FourOfAKind } math 814 * 846
+Hand: Hand { hand: "282JJ", bet: 345, hand_type: FourOfAKind } math 345 * 847
+Hand: Hand { hand: "2QJJQ", bet: 333, hand_type: FourOfAKind } math 333 * 848
+Hand: Hand { hand: "33J3K", bet: 293, hand_type: FourOfAKind } math 293 * 849
+Hand: Hand { hand: "33233", bet: 373, hand_type: FourOfAKind } math 373 * 850
+Hand: Hand { hand: "333J6", bet: 519, hand_type: FourOfAKind } math 519 * 851
+Hand: Hand { hand: "33334", bet: 440, hand_type: FourOfAKind } math 440 * 852
+Hand: Hand { hand: "33335", bet: 962, hand_type: FourOfAKind } math 962 * 853
+Hand: Hand { hand: "33393", bet: 178, hand_type: FourOfAKind } math 178 * 854
+Hand: Hand { hand: "33833", bet: 775, hand_type: FourOfAKind } math 775 * 855
+Hand: Hand { hand: "34J4J", bet: 974, hand_type: FourOfAKind } math 974 * 856
+Hand: Hand { hand: "37333", bet: 745, hand_type: FourOfAKind } math 745 * 857
+Hand: Hand { hand: "3QQQJ", bet: 366, hand_type: FourOfAKind } math 366 * 858
+Hand: Hand { hand: "4J4JK", bet: 404, hand_type: FourOfAKind } math 404 * 859
+Hand: Hand { hand: "42444", bet: 788, hand_type: FourOfAKind } math 788 * 860
+Hand: Hand { hand: "44JK4", bet: 472, hand_type: FourOfAKind } math 472 * 861
+Hand: Hand { hand: "444J3", bet: 690, hand_type: FourOfAKind } math 690 * 862
+Hand: Hand { hand: "44434", bet: 37, hand_type: FourOfAKind } math 37 * 863
+Hand: Hand { hand: "44445", bet: 919, hand_type: FourOfAKind } math 919 * 864
+Hand: Hand { hand: "44474", bet: 539, hand_type: FourOfAKind } math 539 * 865
+Hand: Hand { hand: "444K4", bet: 432, hand_type: FourOfAKind } math 432 * 866
+Hand: Hand { hand: "499J9", bet: 87, hand_type: FourOfAKind } math 87 * 867
+Hand: Hand { hand: "4AAAA", bet: 952, hand_type: FourOfAKind } math 952 * 868
+Hand: Hand { hand: "5J333", bet: 927, hand_type: FourOfAKind } math 927 * 869
+Hand: Hand { hand: "53J5J", bet: 371, hand_type: FourOfAKind } math 371 * 870
+Hand: Hand { hand: "55559", bet: 220, hand_type: FourOfAKind } math 220 * 871
+Hand: Hand { hand: "55585", bet: 754, hand_type: FourOfAKind } math 754 * 872
+Hand: Hand { hand: "5565J", bet: 484, hand_type: FourOfAKind } math 484 * 873
+Hand: Hand { hand: "557J5", bet: 167, hand_type: FourOfAKind } math 167 * 874
+Hand: Hand { hand: "55Q55", bet: 866, hand_type: FourOfAKind } math 866 * 875
+Hand: Hand { hand: "58JJ8", bet: 789, hand_type: FourOfAKind } math 789 * 876
+Hand: Hand { hand: "5KKKK", bet: 56, hand_type: FourOfAKind } math 56 * 877
+Hand: Hand { hand: "6JJJ9", bet: 506, hand_type: FourOfAKind } math 506 * 878
+Hand: Hand { hand: "6JJ6A", bet: 115, hand_type: FourOfAKind } math 115 * 879
+Hand: Hand { hand: "65555", bet: 585, hand_type: FourOfAKind } math 585 * 880
+Hand: Hand { hand: "66JA6", bet: 381, hand_type: FourOfAKind } math 381 * 881
+Hand: Hand { hand: "66656", bet: 123, hand_type: FourOfAKind } math 123 * 882
+Hand: Hand { hand: "66663", bet: 616, hand_type: FourOfAKind } math 616 * 883
+Hand: Hand { hand: "66667", bet: 887, hand_type: FourOfAKind } math 887 * 884
+Hand: Hand { hand: "66668", bet: 901, hand_type: FourOfAKind } math 901 * 885
+Hand: Hand { hand: "666A6", bet: 190, hand_type: FourOfAKind } math 190 * 886
+Hand: Hand { hand: "6686J", bet: 14, hand_type: FourOfAKind } math 14 * 887
+Hand: Hand { hand: "7J477", bet: 105, hand_type: FourOfAKind } math 105 * 888
+Hand: Hand { hand: "7JQJQ", bet: 877, hand_type: FourOfAKind } math 877 * 889
+Hand: Hand { hand: "74J44", bet: 813, hand_type: FourOfAKind } math 813 * 890
+Hand: Hand { hand: "75555", bet: 639, hand_type: FourOfAKind } math 639 * 891
+Hand: Hand { hand: "77JJ4", bet: 433, hand_type: FourOfAKind } math 433 * 892
+Hand: Hand { hand: "77J79", bet: 786, hand_type: FourOfAKind } math 786 * 893
+Hand: Hand { hand: "77JQ7", bet: 596, hand_type: FourOfAKind } math 596 * 894
+Hand: Hand { hand: "77757", bet: 73, hand_type: FourOfAKind } math 73 * 895
+Hand: Hand { hand: "77772", bet: 427, hand_type: FourOfAKind } math 427 * 896
+Hand: Hand { hand: "77774", bet: 668, hand_type: FourOfAKind } math 668 * 897
+Hand: Hand { hand: "77T77", bet: 464, hand_type: FourOfAKind } math 464 * 898
+Hand: Hand { hand: "79777", bet: 861, hand_type: FourOfAKind } math 861 * 899
+Hand: Hand { hand: "8J444", bet: 917, hand_type: FourOfAKind } math 917 * 900
+Hand: Hand { hand: "8JT88", bet: 571, hand_type: FourOfAKind } math 571 * 901
+Hand: Hand { hand: "82888", bet: 888, hand_type: FourOfAKind } math 888 * 902
+Hand: Hand { hand: "848JJ", bet: 553, hand_type: FourOfAKind } math 553 * 903
+Hand: Hand { hand: "88JJ2", bet: 492, hand_type: FourOfAKind } math 492 * 904
+Hand: Hand { hand: "88JQ8", bet: 344, hand_type: FourOfAKind } math 344 * 905
+Hand: Hand { hand: "88884", bet: 212, hand_type: FourOfAKind } math 212 * 906
+Hand: Hand { hand: "88886", bet: 696, hand_type: FourOfAKind } math 696 * 907
+Hand: Hand { hand: "88887", bet: 777, hand_type: FourOfAKind } math 777 * 908
+Hand: Hand { hand: "88A88", bet: 210, hand_type: FourOfAKind } math 210 * 909
+Hand: Hand { hand: "89888", bet: 822, hand_type: FourOfAKind } math 822 * 910
+Hand: Hand { hand: "8KJKK", bet: 267, hand_type: FourOfAKind } math 267 * 911
+Hand: Hand { hand: "9J899", bet: 535, hand_type: FourOfAKind } math 535 * 912
+Hand: Hand { hand: "9J993", bet: 281, hand_type: FourOfAKind } math 281 * 913
+Hand: Hand { hand: "9J9QJ", bet: 677, hand_type: FourOfAKind } math 677 * 914
+Hand: Hand { hand: "94J9J", bet: 916, hand_type: FourOfAKind } math 916 * 915
+Hand: Hand { hand: "99599", bet: 295, hand_type: FourOfAKind } math 295 * 916
+Hand: Hand { hand: "99979", bet: 394, hand_type: FourOfAKind } math 394 * 917
+Hand: Hand { hand: "99993", bet: 223, hand_type: FourOfAKind } math 223 * 918
+Hand: Hand { hand: "9999A", bet: 20, hand_type: FourOfAKind } math 20 * 919
+Hand: Hand { hand: "99K99", bet: 269, hand_type: FourOfAKind } math 269 * 920
+Hand: Hand { hand: "9T999", bet: 642, hand_type: FourOfAKind } math 642 * 921
+Hand: Hand { hand: "TJJT9", bet: 773, hand_type: FourOfAKind } math 773 * 922
+Hand: Hand { hand: "TJ44J", bet: 832, hand_type: FourOfAKind } math 832 * 923
+Hand: Hand { hand: "TJT3T", bet: 447, hand_type: FourOfAKind } math 447 * 924
+Hand: Hand { hand: "TJTT9", bet: 425, hand_type: FourOfAKind } math 425 * 925
+Hand: Hand { hand: "TJATT", bet: 936, hand_type: FourOfAKind } math 936 * 926
+Hand: Hand { hand: "T22JJ", bet: 500, hand_type: FourOfAKind } math 500 * 927
+Hand: Hand { hand: "T3333", bet: 62, hand_type: FourOfAKind } math 62 * 928
+Hand: Hand { hand: "T8888", bet: 713, hand_type: FourOfAKind } math 713 * 929
+Hand: Hand { hand: "TT3TT", bet: 546, hand_type: FourOfAKind } math 546 * 930
+Hand: Hand { hand: "TT7TT", bet: 282, hand_type: FourOfAKind } math 282 * 931
+Hand: Hand { hand: "TTTT2", bet: 490, hand_type: FourOfAKind } math 490 * 932
+Hand: Hand { hand: "TTTT4", bet: 489, hand_type: FourOfAKind } math 489 * 933
+Hand: Hand { hand: "TTTT5", bet: 441, hand_type: FourOfAKind } math 441 * 934
+Hand: Hand { hand: "TTQJT", bet: 912, hand_type: FourOfAKind } math 912 * 935
+Hand: Hand { hand: "TTATT", bet: 908, hand_type: FourOfAKind } math 908 * 936
+Hand: Hand { hand: "TQQQQ", bet: 724, hand_type: FourOfAKind } math 724 * 937
+Hand: Hand { hand: "TKTTJ", bet: 502, hand_type: FourOfAKind } math 502 * 938
+Hand: Hand { hand: "TAAAA", bet: 686, hand_type: FourOfAKind } math 686 * 939
+Hand: Hand { hand: "QJQ4J", bet: 862, hand_type: FourOfAKind } math 862 * 940
+Hand: Hand { hand: "QJAAA", bet: 902, hand_type: FourOfAKind } math 902 * 941
+Hand: Hand { hand: "Q8888", bet: 496, hand_type: FourOfAKind } math 496 * 942
+Hand: Hand { hand: "QQ2QJ", bet: 72, hand_type: FourOfAKind } math 72 * 943
+Hand: Hand { hand: "QQ5QJ", bet: 255, hand_type: FourOfAKind } math 255 * 944
+Hand: Hand { hand: "QQ7QQ", bet: 740, hand_type: FourOfAKind } math 740 * 945
+Hand: Hand { hand: "QQ9QQ", bet: 501, hand_type: FourOfAKind } math 501 * 946
+Hand: Hand { hand: "QQAQQ", bet: 120, hand_type: FourOfAKind } math 120 * 947
+Hand: Hand { hand: "K4KKK", bet: 638, hand_type: FourOfAKind } math 638 * 948
+Hand: Hand { hand: "K6666", bet: 174, hand_type: FourOfAKind } math 174 * 949
+Hand: Hand { hand: "K7777", bet: 543, hand_type: FourOfAKind } math 543 * 950
+Hand: Hand { hand: "KTJKK", bet: 32, hand_type: FourOfAKind } math 32 * 951
+Hand: Hand { hand: "KQQQQ", bet: 793, hand_type: FourOfAKind } math 793 * 952
+Hand: Hand { hand: "KK8KK", bet: 514, hand_type: FourOfAKind } math 514 * 953
+Hand: Hand { hand: "KKK7K", bet: 402, hand_type: FourOfAKind } math 402 * 954
+Hand: Hand { hand: "KKKTK", bet: 673, hand_type: FourOfAKind } math 673 * 955
+Hand: Hand { hand: "KKKAK", bet: 620, hand_type: FourOfAKind } math 620 * 956
+Hand: Hand { hand: "KAJKJ", bet: 924, hand_type: FourOfAKind } math 924 * 957
+Hand: Hand { hand: "KAAAA", bet: 92, hand_type: FourOfAKind } math 92 * 958
+Hand: Hand { hand: "AJ888", bet: 419, hand_type: FourOfAKind } math 419 * 959
+Hand: Hand { hand: "AJA8A", bet: 529, hand_type: FourOfAKind } math 529 * 960
+Hand: Hand { hand: "A33J3", bet: 258, hand_type: FourOfAKind } math 258 * 961
+Hand: Hand { hand: "A3333", bet: 736, hand_type: FourOfAKind } math 736 * 962
+Hand: Hand { hand: "A55J5", bet: 729, hand_type: FourOfAKind } math 729 * 963
+Hand: Hand { hand: "A5555", bet: 119, hand_type: FourOfAKind } math 119 * 964
+Hand: Hand { hand: "AQJQQ", bet: 61, hand_type: FourOfAKind } math 61 * 965
+Hand: Hand { hand: "AA2AA", bet: 413, hand_type: FourOfAKind } math 413 * 966
+Hand: Hand { hand: "AA8AA", bet: 556, hand_type: FourOfAKind } math 556 * 967
+Hand: Hand { hand: "AAAJ5", bet: 689, hand_type: FourOfAKind } math 689 * 968
+Hand: Hand { hand: "AAAAQ", bet: 400, hand_type: FourOfAKind } math 400 * 969
+Hand: Hand { hand: "JJJJJ", bet: 86, hand_type: FiveOfAKind } math 86 * 970
+Hand: Hand { hand: "JJ33J", bet: 396, hand_type: FiveOfAKind } math 396 * 971
+Hand: Hand { hand: "JJ5J5", bet: 565, hand_type: FiveOfAKind } math 565 * 972
+Hand: Hand { hand: "JJ777", bet: 265, hand_type: FiveOfAKind } math 265 * 973
+Hand: Hand { hand: "JJ8JJ", bet: 330, hand_type: FiveOfAKind } math 330 * 974
+Hand: Hand { hand: "J22J2", bet: 587, hand_type: FiveOfAKind } math 587 * 975
+Hand: Hand { hand: "J3333", bet: 990, hand_type: FiveOfAKind } math 990 * 976
+Hand: Hand { hand: "J4444", bet: 534, hand_type: FiveOfAKind } math 534 * 977
+Hand: Hand { hand: "J666J", bet: 312, hand_type: FiveOfAKind } math 312 * 978
+Hand: Hand { hand: "JTTJT", bet: 488, hand_type: FiveOfAKind } math 488 * 979
+Hand: Hand { hand: "JKKJJ", bet: 60, hand_type: FiveOfAKind } math 60 * 980
+Hand: Hand { hand: "JAJJA", bet: 681, hand_type: FiveOfAKind } math 681 * 981
+Hand: Hand { hand: "JAAAJ", bet: 188, hand_type: FiveOfAKind } math 188 * 982
+Hand: Hand { hand: "22J22", bet: 121, hand_type: FiveOfAKind } math 121 * 983
+Hand: Hand { hand: "333JJ", bet: 406, hand_type: FiveOfAKind } math 406 * 984
+Hand: Hand { hand: "4JJ4J", bet: 177, hand_type: FiveOfAKind } math 177 * 985
+Hand: Hand { hand: "4J44J", bet: 328, hand_type: FiveOfAKind } math 328 * 986
+Hand: Hand { hand: "55JJ5", bet: 815, hand_type: FiveOfAKind } math 815 * 987
+Hand: Hand { hand: "555J5", bet: 418, hand_type: FiveOfAKind } math 418 * 988
+Hand: Hand { hand: "66J66", bet: 33, hand_type: FiveOfAKind } math 33 * 989
+Hand: Hand { hand: "777J7", bet: 669, hand_type: FiveOfAKind } math 669 * 990
+Hand: Hand { hand: "8J88J", bet: 742, hand_type: FiveOfAKind } math 742 * 991
+Hand: Hand { hand: "88J88", bet: 194, hand_type: FiveOfAKind } math 194 * 992
+Hand: Hand { hand: "9J9J9", bet: 679, hand_type: FiveOfAKind } math 679 * 993
+Hand: Hand { hand: "99J99", bet: 444, hand_type: FiveOfAKind } math 444 * 994
+Hand: Hand { hand: "TTTJT", bet: 122, hand_type: FiveOfAKind } math 122 * 995
+Hand: Hand { hand: "QQJQQ", bet: 503, hand_type: FiveOfAKind } math 503 * 996
+Hand: Hand { hand: "QQQJJ", bet: 688, hand_type: FiveOfAKind } math 688 * 997
+Hand: Hand { hand: "KJKJK", bet: 186, hand_type: FiveOfAKind } math 186 * 998
+Hand: Hand { hand: "KKJKK", bet: 375, hand_type: FiveOfAKind } math 375 * 999
+Hand: Hand { hand: "AAAJA", bet: 841, hand_type: FiveOfAKind } math 841 * 1000
+253608012

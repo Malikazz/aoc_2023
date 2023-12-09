@@ -52,6 +52,17 @@ impl Hand {
                 }
             }
         }
+        
+        for index in 0..char_counts_vec.len(){
+            if char_counts_vec.len() == 1 {
+                break;
+            }
+            if char_counts_vec[index].letter == 'J'{
+                println!("Removeing j from {?}", char_counts_vec[index]);
+                char_counts_vec.remove(index);
+                break;
+            }
+        }
 
         char_counts_vec.sort_by(|a, b| b.count.cmp(&a.count));
         for char in char_counts_vec.iter() {
@@ -161,9 +172,6 @@ pub fn solve(input: Vec<String>) -> i32 {
     let mut score: i32 = 0;
 
     hands.sort_by(|a, b| b.cmp(a));
-    for hand in hands.iter(){
-        println!("Sorted hands: {:?}\n", hand);
-    }
     // sort hands
     for index in 0..hands.len() {
         println!("Hand: {:?} math {:?} * {:?}", hands[hands.len()-index -1], hands[hands.len()-index -1].bet, index + 1);
@@ -187,6 +195,7 @@ pub fn parse_hand(input: Vec<String>) -> Vec<Hand> {
 
     for hand in hands.iter_mut() {
         hand.hand_type = hand.determine_hand();
+        println!("Hand {:?}", hand)
     }
     hands
 }
