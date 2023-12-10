@@ -2,21 +2,19 @@ use std::collections::{HashMap, VecDeque};
 
 pub fn solve(input: Vec<String>) -> i32 {
     let mut map: CamelMap = parse_input(input);
-    let mut current_position = String::from(&map.start);
+    let mut current_position = String::from("AAA");
     let mut current_count = 0;
 
-    println!("Begining processing with {:?}", map);
-
     while current_position != String::from("ZZZ") {
-        print!("Currently at {:?} ", current_position);
+        print!("Currently at {:?} {:?}", current_position, &map.step.get(&current_position));
         
         let temp_index = map.left_right.pop_front().unwrap();
         map.left_right.push_back(temp_index);
         
-        print!("moving to the {:?} ", if temp_index == 0 { "left" } else { "right" });
+        print!("moving to the {:?} ", temp_index );
 
         current_position =
-        String::from(&map.step.get(&current_position).unwrap()[map.left_right[temp_index]]);
+        String::from(&map.step.get(&current_position).unwrap()[temp_index]);
 
         println!("Moved to {:?}", current_position);
 
