@@ -1,20 +1,43 @@
 use std::collections::{HashMap, VecDeque};
 
-pub fn solve(input: Vec<String>) -> i32 {
-    let mut map: CamelMap = parse_input(input);
-    let mut current_position = String::from("AAA");
+pub fn solve(input: Vec<String>) -> usize {
+    let map: CamelMap = parse_input(input);
+    let start_positions: Vec<String> = vec![
+        String::from("AAA"),
+        String::from("RLA"),
+        String::from("QLA"),
+        String::from("QFA"),
+        String::from("RXA"),
+        String::from("JSA"),
+    ];
+    let mut counts: Vec<usize> = Vec::new();
+
+    for pos in start_positions.iter() {
+        counts.push(search(pos, &map));
+    }
+
+    println!("{:?}", counts);
+    lcm(&counts[0..])
+}
+
+pub fn search(start: &str, map: &CamelMap) -> usize {
+    let mut cloned_map = map.clone();
+    let mut current_position = String::from(start);
     let mut current_count = 0;
 
-    while current_position != String::from("ZZZ") {
-        print!("Currently at {:?} {:?}", current_position, &map.step.get(&current_position));
-        
-        let temp_index = map.left_right.pop_front().unwrap();
-        map.left_right.push_back(temp_index);
-        
-        print!("moving to the {:?} ", temp_index );
+    while &current_position[2..3] != "Z" {
+        print!(
+            "Currently at {:?} {:?}",
+            current_position,
+            &map.step.get(&current_position)
+        );
 
-        current_position =
-        String::from(&map.step.get(&current_position).unwrap()[temp_index]);
+        let temp_index = cloned_map.left_right.pop_front().unwrap();
+        cloned_map.left_right.push_back(temp_index);
+
+        print!("moving to the {:?} ", temp_index);
+
+        current_position = String::from(&map.step.get(&current_position).unwrap()[temp_index]);
 
         println!("Moved to {:?}", current_position);
 
@@ -22,8 +45,23 @@ pub fn solve(input: Vec<String>) -> i32 {
     }
     current_count
 }
+pub fn lcm(nums: &[usize]) -> usize {
+    if nums.len() == 1 {
+        return nums[0];
+    }
+    let a = nums[0];
+    let b = lcm(&nums[1..]);
+    a * b / gcd_of_two_numbers(a, b)
+}
 
-#[derive(Debug)]
+fn gcd_of_two_numbers(a: usize, b: usize) -> usize {
+    if b == 0 {
+        return a;
+    }
+    gcd_of_two_numbers(b, a % b)
+}
+
+#[derive(Debug, Clone)]
 pub struct CamelMap {
     pub start: String,
     pub left_right: VecDeque<usize>,
