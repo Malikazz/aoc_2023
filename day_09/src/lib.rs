@@ -3,7 +3,7 @@ pub fn solve(input: Vec<String>) -> isize {
     let mut next_numbers: Vec<isize> = Vec::new();
 
     let mut next_numbers_rev: Vec<isize> = Vec::new();
-    let mut numbers_rev: Vec<Vec<isize>> = parse_input(&input, true);
+    let numbers_rev: Vec<Vec<isize>> = parse_input(&input, true);
 
     for line in numbers.iter() {
         next_numbers.push(build_history(&line));
