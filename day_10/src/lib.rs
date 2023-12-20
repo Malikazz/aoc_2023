@@ -1,18 +1,14 @@
-use std::{
-    cmp::{max, min},
-    collections::HashMap,
-};
+use std::collections::HashMap;
 
 pub fn solve(input: Vec<String>) -> usize {
     let maze: HashMap<Point, PipeNode> = parse_maze(input);
     let mut visited_points: Vec<Point> = Vec::new();
-    let mut s_points: Vec<Point> = Vec::new();
-
     let start: &PipeNode = maze
         .iter()
         .filter(|a| a.1.is_start())
         .map(|a| a.1)
         .collect::<Vec<&PipeNode>>()[0];
+
     let mut current_node = start;
 
     loop {
@@ -27,132 +23,37 @@ pub fn solve(input: Vec<String>) -> usize {
         }
     }
 
-    for node in maze.iter() {
-        if check_is_surrounded(&node.1, &maze, &visited_points) {
-            s_points.push(Point {
-                x: node.1.position.x,
-                y: node.1.position.y,
-            });
-        }
-    }
-
-    for y in 0..140 {
-        for x in 0..140 {
-            print!("{}", maze.get(&Point { x, y }).unwrap().value);
-        }
-        print!("\n");
-    }
-    print!("\n");
-    for y in 0..140 {
-        for x in 0..140 {
-            if s_points.contains(&Point { x, y }) {
-                print!("\x1b[93mI\x1b[0m");
-            } else if visited_points.contains(&Point { x, y }){
-                print!("\x1b[92m{}\x1b[0m", maze.get(&Point { x, y }).unwrap().value);
-            }else {
-                print!("{}", maze.get(&Point { x, y }).unwrap().value);
-            }
-        }
-        print!("\n");
-    }
-
     println!("Part one: {:?}", visited_points.len() / 2);
-    println!("Part two: {:?}", s_points.len());
-    visited_points.len() / 2
+    println!("Part two: {:?}", solve_two(visited_points));
+    5
 }
 
-pub fn check_is_surrounded(
-    node: &PipeNode,
-    nodes: &HashMap<Point, PipeNode>,
-    visited_points: &Vec<Point>,
-) -> bool {
-    if visited_points.contains(&node.position) {
-        return false;
+pub fn solve_two(visited_nodes: Vec<Point>) -> f64 {
+    // Shoelace
+    let mut sum1: f64 = 0.0;
+    let mut sum2: f64 = 0.0;
+
+    for item in visited_nodes[0..visited_nodes.len()].windows(2) {
+        sum1 = sum1 + (item[0].x * item[1].y) as f64;
+        sum2 = sum2 + (item[0].y * item[1].x) as f64;
     }
+    
+    sum1 = sum1 + (visited_nodes[visited_nodes.len() -1].x * visited_nodes[0].y) as f64;
+    sum2 = sum2 + (visited_nodes[0].x * visited_nodes[visited_nodes.len() -1].y) as f64;
 
-    // does move left hit a wall or node?
-    let mut left = max(node.position.x as isize - 1, 0) as usize;
-    let mut right = min(node.position.x + 1, 139);
-    let mut down = min(node.position.y + 1, 139);
-    let mut up = max(node.position.y as isize - 1, 0) as usize;
-
-    loop {
-        if visited_points.contains(
-            &nodes
-                .get(&Point {
-                    x: left,
-                    y: node.position.y,
-                })
-                .unwrap()
-                .position,
-        ) {
-            break;
-        }
-        if left == 0 {
-            return false;
-        } else {
-            left = left - 1;
-        }
-    }
-
-    loop {
-        if visited_points.contains(
-            &nodes
-                .get(&Point {
-                    x: right,
-                    y: node.position.y,
-                })
-                .unwrap()
-                .position,
-        ) {
-            break;
-        }
-        if right == 139 {
-            return false;
-        } else {
-            right = right + 1;
-        }
-    }
-
-    loop {
-        if visited_points.contains(
-            &nodes
-                .get(&Point {
-                    x: node.position.x,
-                    y: down,
-                })
-                .unwrap()
-                .position,
-        ) {
-            break;
-        }
-        if down == 139 {
-            return false;
-        } else {
-            down = down + 1;
-        }
-    }
-
-    loop {
-        if visited_points.contains(
-            &nodes
-                .get(&Point {
-                    x: node.position.x,
-                    y: up,
-                })
-                .unwrap()
-                .position,
-        ) {
-            break;
-        }
-        if up == 0 {
-            return false;
-        } else {
-            up = up - 1;
-        }
-    }
-
-    true
+    let area = f64::abs(sum1 - sum2) / 2.0;
+   
+    println!("area {:?}", area);
+    println!("visted nodes len {:?}", visited_nodes.len());
+    // pick therom
+    // A = I + B/2 -1
+    // area = I + visited_nodes.len() /2 - 1
+    // area +1 = I + visited_nodes.len() /2 
+    // area * 2 + 2 = 2I + visited_nodes.len()
+    // area * 2 + 2 - visited_nodes.len() = 2I
+    // (area * 2 + 2 - visited_nodes.len()) /2 = I
+    area - 0.5 * visited_nodes.len() as f64 + 1.0
+    
 }
 
 pub fn move_next<'a>(
