@@ -19,17 +19,6 @@ pub struct SourceDestination {
     pub destination_range: Vec<Range<usize>>,
     pub direction: Direction,
 }
-#[derive(Debug)]
-pub struct FinishedMap {
-    pub seed: usize,
-    pub soil: usize,
-    pub fetilizier: usize,
-    pub water: usize,
-    pub light: usize,
-    pub temperature: usize,
-    pub humidity: usize,
-    pub location: usize,
-}
 
 pub fn get_lowest(seeds: &Range<usize>, source_maps: Arc<Vec<SourceDestination>>) -> usize {
     let mut current_value: usize;
@@ -64,7 +53,7 @@ pub fn solve_two(input: Vec<String>) -> usize {
     for seed in seeds.iter() {
         let source_clone = source_maps.clone();
         handles.push(thread::spawn(move || {
-            println!("Starting need range {:?}", seed);
+            println!("Starting seed range {:?}", seed);
             get_lowest(seed, source_clone)
         }));
     }
